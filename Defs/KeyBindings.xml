@@ -14,31 +14,31 @@
   <KeyBindingDef ParentName="BF_RegimentKeyBase">
     <defName>BF_Regiment1</defName>
     <label>select regiment 1</label>
-    <defaultKeyCodeA>F1</defaultKeyCodeA>
+    <defaultKeyCodeA>Keypad1</defaultKeyCodeA>
   </KeyBindingDef>
 
   <KeyBindingDef ParentName="BF_RegimentKeyBase">
     <defName>BF_Regiment2</defName>
     <label>select regiment 2</label>
-    <defaultKeyCodeA>F2</defaultKeyCodeA>
+    <defaultKeyCodeA>Keypad2</defaultKeyCodeA>
   </KeyBindingDef>
 
   <KeyBindingDef ParentName="BF_RegimentKeyBase">
     <defName>BF_Regiment3</defName>
     <label>select regiment 3</label>
-    <defaultKeyCodeA>F3</defaultKeyCodeA>
+    <defaultKeyCodeA>Keypad3</defaultKeyCodeA>
   </KeyBindingDef>
 
   <KeyBindingDef ParentName="BF_RegimentKeyBase">
     <defName>BF_Regiment4</defName>
     <label>select regiment 4</label>
-    <defaultKeyCodeA>F4</defaultKeyCodeA>
+    <defaultKeyCodeA>Keypad4</defaultKeyCodeA>
   </KeyBindingDef>
 
   <KeyBindingDef ParentName="BF_RegimentKeyBase">
     <defName>BF_Regiment5</defName>
     <label>select regiment 5</label>
-    <defaultKeyCodeA>F5</defaultKeyCodeA>
+    <defaultKeyCodeA>Keypad5</defaultKeyCodeA>
   </KeyBindingDef>
 
 </Defs>
