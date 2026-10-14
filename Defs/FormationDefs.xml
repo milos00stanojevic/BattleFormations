@@ -442,6 +442,9 @@
     <reportString>taking formation position.</reportString>
     <casualInterruptible>false</casualInterruptible>
     <alwaysShowWeapon>true</alwaysShowWeapon>
+    <modExtensions>
+      <li Class="GiddyUp.CanDoMounted" MayRequireAnyOf="MemeGoddess.GiddyUp,Owlchemist.GiddyUp" />
+    </modExtensions>
   </JobDef>
 
 </Defs>
