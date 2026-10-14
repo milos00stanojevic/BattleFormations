@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <BF_Command>Formation</BF_Command>
+  <BF_CommandDesc>Die ausgewählten eingezogenen Kolonisten in einer Schlachtformation aufstellen.</BF_CommandDesc>
+  <BF_DialogTitle>Schlachtformation</BF_DialogTitle>
+  <BF_Width>Breite</BF_Width>
+  <BF_Spacing>Abstand</BF_Spacing>
+  <BF_Front>▲ Front</BF_Front>
+  <BF_Roles>Rollen</BF_Roles>
+  <BF_Place>Formation aufstellen</BF_Place>
+  <BF_PlaceHint>Klick: aufstellen   Ziehen: Frontlinie ziehen   Q/E: drehen   Rechtsklick: abbrechen</BF_PlaceHint>
+  <BF_Era_Antiquity>Antike</BF_Era_Antiquity>
+  <BF_Era_Medieval>Mittelalter</BF_Era_Medieval>
+  <BF_Era_General>Allgemein</BF_Era_General>
+  <BF_Hold>Formation halten</BF_Hold>
+  <BF_HoldDesc>Die Gruppe wird ein Regiment. Ein normaler Rechtsklick-Bewegungsbefehl lässt dann das ganze Regiment in Formation marschieren.</BF_HoldDesc>
+  <BF_RolesButton>Rollen...</BF_RolesButton>
+  <BF_Regiment>Regiment</BF_Regiment>
+  <BF_RegimentTip>Klick: auswählen (nochmal: hinspringen)   Rechtsklick: Optionen   Taste:</BF_RegimentTip>
+  <BF_HoldOn>Hält beim Bewegen die Formation.</BF_HoldOn>
+  <BF_HoldOff>Hält die Formation nicht (*).</BF_HoldOff>
+  <BF_SetHoldOn>Formation halten</BF_SetHoldOn>
+  <BF_SetHoldOff>Formation nicht mehr halten</BF_SetHoldOff>
+  <BF_DraftAll>Alle einziehen</BF_DraftAll>
+  <BF_Disband>Regiment auflösen</BF_Disband>
+  <BF_Info>Geschichte und Hintergrund dieser Formation</BF_Info>
+  <BF_InfoOrigin>Herkunft</BF_InfoOrigin>
+  <BF_InfoPeriod>Zeitraum</BF_InfoPeriod>
+  <BF_InfoBattles>Bekannte Schlachten</BF_InfoBattles>
+  <BF_InfoTactic>Verhalten</BF_InfoTactic>
+  <BF_Tactic_Hold>Halten</BF_Tactic_Hold>
+  <BF_Tactic_HoldDesc>hält die Stellung. Wer aus seinem Platz gedrängt wurde, geht zurück, sobald kein Feind mehr nah ist.</BF_Tactic_HoldDesc>
+  <BF_Tactic_Relief>Ablösung</BF_Tactic_Relief>
+  <BF_Tactic_ReliefDesc>Verwundete in der ersten Reihe tauschen den Platz mit gesunden Kämpfern aus den hinteren Linien.</BF_Tactic_ReliefDesc>
+  <BF_Tactic_Charge>Sturmangriff</BF_Tactic_Charge>
+  <BF_Tactic_ChargeDesc>kommen Feinde auf 12 Felder heran, stürmen alle Nahkämpfer auf den nächsten Feind los und kehren danach in die Formation zurück.</BF_Tactic_ChargeDesc>
+  <BF_Tactic_WingCharge>Starker Flügel</BF_Tactic_WingCharge>
+  <BF_Tactic_WingChargeDesc>kommen Feinde auf 12 Felder heran, greifen nur die Nahkämpfer des linken Flügels an; der rechte Flügel hält sich zurück.</BF_Tactic_WingChargeDesc>
+  <BF_Tactic_Envelop>Umfassung</BF_Tactic_Envelop>
+  <BF_Tactic_EnvelopDesc>kommen Feinde auf 12 Felder heran, hält die Mitte, während die Nahkämpfer beider Außenflügel angreifen und den Feind einschließen.</BF_Tactic_EnvelopDesc>
+  <BF_Tactic_Skirmish>Plänkeln</BF_Tactic_Skirmish>
+  <BF_Tactic_SkirmishDesc>Fernkämpfer weichen zurück, wenn ein Nahkampf-Feind auf 5 Felder herankommt, und kehren später in die Linie zurück.</BF_Tactic_SkirmishDesc>
+  <BF_Tactic_Ambush>Hinterhalt</BF_Tactic_Ambush>
+  <BF_Tactic_AmbushDesc>alle halten das Feuer zurück, bis ein Feind auf 14 Felder herankommt oder jemand getroffen wird, dann eröffnen alle gleichzeitig das Feuer. Schaltet man bei einem Mitglied „Feuer frei“ ein, löst das den Hinterhalt ebenfalls aus.</BF_Tactic_AmbushDesc>
+  <BF_AmbushSprung>Hinterhalt ausgelöst: {0} eröffnet das Feuer!</BF_AmbushSprung>
+  <BF_Role_Auto>Auto</BF_Role_Auto>
+  <BF_Role_Pike>Pikenier</BF_Role_Pike>
+  <BF_Role_Melee>Nahkampf</BF_Role_Melee>
+  <BF_Role_Ranged>Fernkampf</BF_Role_Ranged>
+</LanguageData>

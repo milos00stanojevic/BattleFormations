@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <BF_Command>Düzen</BF_Command>
+  <BF_CommandDesc>Seçili askere alınmış kolonicileri bir savaş düzenine diz.</BF_CommandDesc>
+  <BF_DialogTitle>Savaş düzeni</BF_DialogTitle>
+  <BF_Width>Genişlik</BF_Width>
+  <BF_Spacing>Aralık</BF_Spacing>
+  <BF_Front>▲ Ön</BF_Front>
+  <BF_Roles>Görevler</BF_Roles>
+  <BF_Place>Düzeni yerleştir</BF_Place>
+  <BF_PlaceHint>Tıkla: yerleştir   Sürükle: ön hattı çiz   Q/E: döndür   Sağ tık: iptal</BF_PlaceHint>
+  <BF_Era_Antiquity>Antik Çağ</BF_Era_Antiquity>
+  <BF_Era_Medieval>Orta Çağ</BF_Era_Medieval>
+  <BF_Era_General>Genel</BF_Era_General>
+  <BF_Hold>Düzeni koru</BF_Hold>
+  <BF_HoldDesc>Grup bir alaya dönüşür. Ardından normal bir sağ tık hareket emri tüm alayı düzen içinde yürütür.</BF_HoldDesc>
+  <BF_RolesButton>Görevler...</BF_RolesButton>
+  <BF_Regiment>Alay</BF_Regiment>
+  <BF_RegimentTip>Tıkla: seç (tekrar: oraya git)   Sağ tık: seçenekler   Tuş:</BF_RegimentTip>
+  <BF_HoldOn>Hareket ederken düzeni korur.</BF_HoldOn>
+  <BF_HoldOff>Düzeni korumaz (*).</BF_HoldOff>
+  <BF_SetHoldOn>Düzeni koru</BF_SetHoldOn>
+  <BF_SetHoldOff>Düzeni korumayı bırak</BF_SetHoldOff>
+  <BF_DraftAll>Hepsini askere al</BF_DraftAll>
+  <BF_Disband>Alayı dağıt</BF_Disband>
+  <BF_Info>Bu düzenin tarihi ve arka planı</BF_Info>
+  <BF_InfoOrigin>Köken</BF_InfoOrigin>
+  <BF_InfoPeriod>Dönem</BF_InfoPeriod>
+  <BF_InfoBattles>Ünlü savaşlar</BF_InfoBattles>
+  <BF_InfoTactic>Davranış</BF_InfoTactic>
+  <BF_Tactic_Hold>Tutun</BF_Tactic_Hold>
+  <BF_Tactic_HoldDesc>yerini korur. Yerinden itilen savaşçılar, yakında düşman yokken kendi yerlerine geri döner.</BF_Tactic_HoldDesc>
+  <BF_Tactic_Relief>Hat değişimi</BF_Tactic_Relief>
+  <BF_Tactic_ReliefDesc>ön saftaki yaralılar arka saflardaki sağlıklı savaşçılarla yer değiştirir.</BF_Tactic_ReliefDesc>
+  <BF_Tactic_Charge>Hücum</BF_Tactic_Charge>
+  <BF_Tactic_ChargeDesc>düşmanlar 12 kareden yakına geldiğinde tüm yakın dövüşçüler en yakın düşmana hücum eder, sonra düzene geri döner.</BF_Tactic_ChargeDesc>
+  <BF_Tactic_WingCharge>Güçlü kanat</BF_Tactic_WingCharge>
+  <BF_Tactic_WingChargeDesc>düşmanlar 12 kareden yakına geldiğinde yalnızca sol kanadın yakın dövüşçüleri hücum eder; sağ kanat geride bekler.</BF_Tactic_WingChargeDesc>
+  <BF_Tactic_Envelop>Kuşatma</BF_Tactic_Envelop>
+  <BF_Tactic_EnvelopDesc>düşmanlar 12 kareden yakına geldiğinde merkez dayanırken iki dış kanattaki yakın dövüşçüler hücum eder ve çemberi kapatır.</BF_Tactic_EnvelopDesc>
+  <BF_Tactic_Skirmish>Avcı çatışması</BF_Tactic_Skirmish>
+  <BF_Tactic_SkirmishDesc>yakın dövüşçü bir düşman 5 kareden yakına geldiğinde nişancılar geri çekilir ve daha sonra hatta döner.</BF_Tactic_SkirmishDesc>
+  <BF_Tactic_Ambush>Pusu</BF_Tactic_Ambush>
+  <BF_Tactic_AmbushDesc>bir düşman 14 kareden yakına gelene ya da biri vurulana kadar herkes ateşi tutar, sonra hepsi birden ateş açar. Bir üyenin serbest atışını açmak da pusuyu başlatır.</BF_Tactic_AmbushDesc>
+  <BF_AmbushSprung>Pusu başladı: {0} ateş açıyor!</BF_AmbushSprung>
+  <BF_Role_Auto>Otomatik</BF_Role_Auto>
+  <BF_Role_Pike>Mızrak</BF_Role_Pike>
+  <BF_Role_Melee>Yakın dövüş</BF_Role_Melee>
+  <BF_Role_Ranged>Menzilli</BF_Role_Ranged>
+</LanguageData>

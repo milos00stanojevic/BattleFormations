@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <BF_Command>陣型</BF_Command>
+  <BF_CommandDesc>將選取的已徵召殖民者排成戰鬥陣型。</BF_CommandDesc>
+  <BF_DialogTitle>戰鬥陣型</BF_DialogTitle>
+  <BF_Width>寬度</BF_Width>
+  <BF_Spacing>間距</BF_Spacing>
+  <BF_Front>▲ 正面</BF_Front>
+  <BF_Roles>職責</BF_Roles>
+  <BF_Place>佈置陣型</BF_Place>
+  <BF_PlaceHint>點擊：放置   拖曳：畫出前線   Q/E：轉向   右鍵：取消</BF_PlaceHint>
+  <BF_Era_Antiquity>古典時代</BF_Era_Antiquity>
+  <BF_Era_Medieval>中世紀</BF_Era_Medieval>
+  <BF_Era_General>通用</BF_Era_General>
+  <BF_Hold>保持陣型</BF_Hold>
+  <BF_HoldDesc>該小組將成為一個軍團。之後普通的右鍵移動命令會讓整個軍團保持陣型行軍。</BF_HoldDesc>
+  <BF_RolesButton>職責...</BF_RolesButton>
+  <BF_Regiment>軍團</BF_Regiment>
+  <BF_RegimentTip>點擊：選取（再次點擊：跳轉）   右鍵：選項   按鍵：</BF_RegimentTip>
+  <BF_HoldOn>移動時保持陣型。</BF_HoldOn>
+  <BF_HoldOff>不保持陣型（*）。</BF_HoldOff>
+  <BF_SetHoldOn>保持陣型</BF_SetHoldOn>
+  <BF_SetHoldOff>停止保持陣型</BF_SetHoldOff>
+  <BF_DraftAll>全部徵召</BF_DraftAll>
+  <BF_Disband>解散軍團</BF_Disband>
+  <BF_Info>此陣型的歷史與背景</BF_Info>
+  <BF_InfoOrigin>起源</BF_InfoOrigin>
+  <BF_InfoPeriod>時期</BF_InfoPeriod>
+  <BF_InfoBattles>著名戰役</BF_InfoBattles>
+  <BF_InfoTactic>行為</BF_InfoTactic>
+  <BF_Tactic_Hold>堅守</BF_Tactic_Hold>
+  <BF_Tactic_HoldDesc>原地堅守。被擠出位置的戰士會在附近沒有敵人時走回自己的位置。</BF_Tactic_HoldDesc>
+  <BF_Tactic_Relief>輪換</BF_Tactic_Relief>
+  <BF_Tactic_ReliefDesc>前排受傷的戰士會與後排健康的戰士交換位置。</BF_Tactic_ReliefDesc>
+  <BF_Tactic_Charge>衝鋒</BF_Tactic_Charge>
+  <BF_Tactic_ChargeDesc>敵人進入12格內時，所有近戰戰士衝向最近的敵人，之後返回陣型。</BF_Tactic_ChargeDesc>
+  <BF_Tactic_WingCharge>強翼</BF_Tactic_WingCharge>
+  <BF_Tactic_WingChargeDesc>敵人進入12格內時，只有左翼的近戰戰士衝鋒；右翼按兵不動。</BF_Tactic_WingChargeDesc>
+  <BF_Tactic_Envelop>包圍</BF_Tactic_Envelop>
+  <BF_Tactic_EnvelopDesc>敵人進入12格內時，中軍堅守，兩側外翼的近戰戰士衝鋒並合圍。</BF_Tactic_EnvelopDesc>
+  <BF_Tactic_Skirmish>遊擊</BF_Tactic_Skirmish>
+  <BF_Tactic_SkirmishDesc>近戰敵人進入5格內時，遠程戰士後撤，稍後再回到陣線。</BF_Tactic_SkirmishDesc>
+  <BF_Tactic_Ambush>伏擊</BF_Tactic_Ambush>
+  <BF_Tactic_AmbushDesc>所有人保持不開火，直到敵人進入14格內或有人被擊中，然後全體同時開火。為任意一名成員開啟自由開火也會觸發伏擊。</BF_Tactic_AmbushDesc>
+  <BF_AmbushSprung>伏擊發動：{0}開火！</BF_AmbushSprung>
+  <BF_Role_Auto>自動</BF_Role_Auto>
+  <BF_Role_Pike>長槍</BF_Role_Pike>
+  <BF_Role_Melee>近戰</BF_Role_Melee>
+  <BF_Role_Ranged>遠程</BF_Role_Ranged>
+</LanguageData>

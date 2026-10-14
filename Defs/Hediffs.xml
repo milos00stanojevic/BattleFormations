@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+
+  <!-- Marching discipline: slows faster members to the pace of the slowest one while a regiment moves.
+       Never a bonus; removed as soon as the pawn reaches its place or does anything else. -->
+  <HediffDef>
+    <defName>BF_MarchPace</defName>
+    <label>marching in formation</label>
+    <description>Keeping pace with the slowest member of the regiment so the formation stays closed. Ends on arrival.</description>
+    <hediffClass>BattleFormations.Hediff_MarchPace</hediffClass>
+    <defaultLabelColor>(0.75, 0.75, 0.75)</defaultLabelColor>
+    <isBad>false</isBad>
+    <everCurableByItem>false</everCurableByItem>
+    <scenarioCanAdd>false</scenarioCanAdd>
+    <initialSeverity>0.05</initialSeverity>
+    <maxSeverity>0.7</maxSeverity>
+    <stages>
+      <li>
+        <minSeverity>0.00</minSeverity>
+        <statFactors>
+          <MoveSpeed>1.00</MoveSpeed>
+        </statFactors>
+      </li>
+      <li>
+        <minSeverity>0.05</minSeverity>
+        <statFactors>
+          <MoveSpeed>0.95</MoveSpeed>
+        </statFactors>
+      </li>
+      <li>
+        <minSeverity>0.10</minSeverity>
+        <statFactors>
+          <MoveSpeed>0.90</MoveSpeed>
+        </statFactors>
+      </li>
+      <li>
+        <minSeverity>0.15</minSeverity>
+        <statFactors>
+          <MoveSpeed>0.85</MoveSpeed>
+        </statFactors>
+      </li>
+      <li>
+        <minSeverity>0.20</minSeverity>
+        <statFactors>
+          <MoveSpeed>0.80</MoveSpeed>
+        </statFactors>
+      </li>
+      <li>
+        <minSeverity>0.25</minSeverity>
+        <statFactors>
+          <MoveSpeed>0.75</MoveSpeed>
+        </statFactors>
+      </li>
+      <li>
+        <minSeverity>0.30</minSeverity>
+        <statFactors>
+          <MoveSpeed>0.70</MoveSpeed>
+        </statFactors>
+      </li>
+      <li>
+        <minSeverity>0.35</minSeverity>
+        <statFactors>
+          <MoveSpeed>0.65</MoveSpeed>
+        </statFactors>
+      </li>
+      <li>
+        <minSeverity>0.40</minSeverity>
+        <statFactors>
+          <MoveSpeed>0.60</MoveSpeed>
+        </statFactors>
+      </li>
+      <li>
+        <minSeverity>0.45</minSeverity>
+        <statFactors>
+          <MoveSpeed>0.55</MoveSpeed>
+        </statFactors>
+      </li>
+      <li>
+        <minSeverity>0.50</minSeverity>
+        <statFactors>
+          <MoveSpeed>0.50</MoveSpeed>
+        </statFactors>
+      </li>
+      <li>
+        <minSeverity>0.55</minSeverity>
+        <statFactors>
+          <MoveSpeed>0.45</MoveSpeed>
+        </statFactors>
+      </li>
+      <li>
+        <minSeverity>0.60</minSeverity>
+        <statFactors>
+          <MoveSpeed>0.40</MoveSpeed>
+        </statFactors>
+      </li>
+      <li>
+        <minSeverity>0.65</minSeverity>
+        <statFactors>
+          <MoveSpeed>0.35</MoveSpeed>
+        </statFactors>
+      </li>
+      <li>
+        <minSeverity>0.70</minSeverity>
+        <statFactors>
+          <MoveSpeed>0.30</MoveSpeed>
+        </statFactors>
+      </li>
+    </stages>
+  </HediffDef>
+
+</Defs>

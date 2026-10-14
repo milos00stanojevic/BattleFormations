@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <BF_MarchPace.label>陣形行進中</BF_MarchPace.label>
+  <BF_MarchPace.description>陣形を崩さないよう、連隊で最も遅い者の歩調に合わせている。到着すると終了する。</BF_MarchPace.description>
+</LanguageData>

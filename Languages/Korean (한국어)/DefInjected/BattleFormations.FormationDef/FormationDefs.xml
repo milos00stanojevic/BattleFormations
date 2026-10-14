@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <BF_Phalanx.label>팔랑크스</BF_Phalanx.label>
+  <BF_Phalanx.description>그리스와 마케도니아의 창 밀집진. 앞줄에 장창, 그 뒤에 다른 근접, 맨 뒤에 원거리.</BF_Phalanx.description>
+  <BF_Phalanx.origin>그리스 도시국가(호플리테스). 마케도니아 장창 팔랑크스는 마케도니아의 필리포스 2세가 만들었다.</BF_Phalanx.origin>
+  <BF_Phalanx.period>기원전 7세기경 – 기원전 2세기</BF_Phalanx.period>
+  <BF_Phalanx.battles>마라톤(기원전 490년), 가우가멜라(기원전 331년), 키노스케팔라이(기원전 197년)</BF_Phalanx.battles>
+  <BF_Phalanx.history>그리스 호플리테스는 깊은 대열을 이루어 어깨를 맞대고 싸웠으며, 각자의 둥근 방패가 옆 사람을 일부 가려 주었다. 기원전 359년경 마케도니아의 필리포스 2세는 보병에게 길이 약 5~7미터의 장창 사리사를 들려, 앞의 다섯 줄의 창끝이 전열 앞으로 뻗어 나오게 했다. 그의 아들 알렉산드로스 대왕은 이것으로 페르시아 제국을 정복했다.\n\n정면에서 팔랑크스는 거의 무적이었지만, 느리고 측면과 험한 지형에 약했다. 로마 군단은 키노스케팔라이와 피드나에서 바로 그 약점을 파고들었다.</BF_Phalanx.history>
+
+  <BF_Quincunx.label>마니풀루스 (퀸컹스)</BF_Quincunx.label>
+  <BF_Quincunx.description>로마 공화정의 소부대 바둑판 배치. 빈틈 덕분에 전열을 깨지 않고 후방 부대가 전진하고 지친 부대가 물러날 수 있다.</BF_Quincunx.description>
+  <BF_Quincunx.origin>로마 공화정. 삼니움 전쟁 중에 발전한 것으로 보인다. 고대 전승은 일부를 마르쿠스 푸리우스 카밀루스의 공으로 돌린다.</BF_Quincunx.origin>
+  <BF_Quincunx.period>기원전 4세기경 – 기원전 2세기</BF_Quincunx.period>
+  <BF_Quincunx.battles>센티눔(기원전 295년), 자마(기원전 202년)</BF_Quincunx.battles>
+  <BF_Quincunx.history>험한 산지에서 삼니움족과 싸운 뒤, 로마인들은 옛 팔랑크스를 약 120명 규모의 마니풀루스('한 줌')로 나누었다. 마니풀루스는 주사위의 다섯 눈처럼 엇갈려 섰는데, 이것이 퀸컹스다. 빈틈을 통해 새 부대가 앞으로 나가고 지친 부대가 물러날 수 있었다.\n\n자마에서 스키피오 아프리카누스는 반대로 마니풀루스를 앞뒤로 나란히 세워 통로를 열었고, 한니발의 전투 코끼리는 큰 피해를 주지 못한 채 그 사이를 지나갔다. 기원전 2세기 말에는 더 큰 코호르스가 마니풀루스를 대신했으며, 이 변화는 전통적으로 가이우스 마리우스의 개혁과 연결된다.</BF_Quincunx.history>
+
+  <BF_TriplexAcies.label>트리플렉스 아키에스</BF_TriplexAcies.label>
+  <BF_TriplexAcies.description>간격을 둔 세 줄의 로마 전열. 앞에 검사, 가운데 원거리, 뒤의 예비대에 창을 든 고참병.</BF_TriplexAcies.description>
+  <BF_TriplexAcies.origin>로마군: 하스타티, 프린키페스, 트리아리이. 이후 마리우스와 카이사르가 코호르스로 사용했다.</BF_TriplexAcies.origin>
+  <BF_TriplexAcies.period>기원전 4세기경 – 기원후 3세기</BF_TriplexAcies.period>
+  <BF_TriplexAcies.battles>카이사르의 갈리아 원정, 예: 비브락테(기원전 58년)</BF_TriplexAcies.battles>
+  <BF_TriplexAcies.history>로마인은 세 줄의 전열(acies)로 싸웠다. 마니풀루스 군대에서는 젊은 하스타티가 맨 앞에, 한창때의 프린키페스가 그 뒤에 섰고, 긴 찌르기 창을 든 고참 트리아리이가 맨 뒤 예비대로 기다렸다. 전투가 불리해지면 로마인들은 "res ad triarios rediit", 즉 트리아리이까지 왔다고 말했다.\n\n카이사르는 코호르스로도 세 줄을 유지했다. 일레르다에서 그는 각 군단의 코호르스 넷을 첫 줄에, 셋을 둘째 줄에, 셋을 셋째 줄에 세워 언제나 새 병력이 앞줄과 교대할 수 있게 했다.</BF_TriplexAcies.history>
+
+  <BF_Testudo.label>테스투도</BF_Testudo.label>
+  <BF_Testudo.description>로마의 거북 진형. 정면 전체에 근접을 둔 작고 촘촘한 방진.</BF_Testudo.description>
+  <BF_Testudo.origin>크고 휘어진 스쿠툼 방패를 쓰던 로마 군단병.</BF_Testudo.origin>
+  <BF_Testudo.period>기원전 3세기경 – 기원후 3세기</BF_Testudo.period>
+  <BF_Testudo.battles>마르쿠스 안토니우스의 파르티아 철수(기원전 36년), 수많은 공성전</BF_Testudo.battles>
+  <BF_Testudo.history>앞줄은 방패를 앞으로, 바깥 줄은 옆으로 들고, 안쪽 병사들은 방패를 머리 위로 들어 부대 전체가 거북 등딱지처럼 덮였다. 공성전에서 성벽에 접근하거나 화살과 돌 아래로 전진할 때 쓰였다. 리비우스는 이미 기원전 300년경 삼니움 전쟁 때 이를 언급한다.\n\n플루타르코스와 카시우스 디오는 마르쿠스 안토니우스의 군단병들이 파르티아 기마 궁수에 맞서 테스투도를 짰다고 전한다. 거북 진형은 투사체는 막았지만 돌격은 막지 못했고, 백병전에서는 느리고 둔했다. 로마의 트라야누스 원주에는 지금도 그 모습이 새겨져 있다.</BF_Testudo.history>
+
+  <BF_Orbis.label>오르비스</BF_Orbis.label>
+  <BF_Orbis.description>포위당했을 때의 로마 원진. 근접과 창이 원 둘레에서 바깥을 향하고, 원거리는 가운데에서 사격한다.</BF_Orbis.description>
+  <BF_Orbis.origin>로마군, 고립된 부대의 최후 수단.</BF_Orbis.origin>
+  <BF_Orbis.period>기원전 1세기경 – 기원후 3세기</BF_Orbis.period>
+  <BF_Orbis.battles>모리니족과의 전투(기원전 55년), 아투아투카(기원전 54년)</BF_Orbis.battles>
+  <BF_Orbis.history>로마 부대는 포위당하면 방패를 바깥으로 향한 원을 이루어 어느 쪽도 공격에 열려 있지 않게 했다.\n\n카이사르는 『갈리아 전기』에서 이를 여러 번 묘사한다. 모리니족의 매복을 당한 병사 약 300명은 기병이 구하러 올 때까지 네 시간 넘게 오르비스로 버텼다. 아투아투카의 사비누스와 코타의 부대도 원진을 짰지만 결국 전멸했다. 오르비스는 전투를 이기게 해 주지는 않았다. 시간을 벌어 주었을 뿐이다.</BF_Orbis.history>
+
+  <BF_Oblique.label>사선진</BF_Oblique.label>
+  <BF_Oblique.description>에파미논다스의 사선진. 왼쪽 날개가 앞서고 오른쪽으로 갈수록 줄이 뒤로 처져, 강한 날개가 먼저 친다.</BF_Oblique.description>
+  <BF_Oblique.origin>테베의 에파미논다스. 프로이센의 프리드리히 대왕이 부활시켰다.</BF_Oblique.origin>
+  <BF_Oblique.period>기원전 4세기, 18세기에 다시</BF_Oblique.period>
+  <BF_Oblique.battles>레욱트라(기원전 371년), 만티네이아(기원전 362년), 로이텐(1757년)</BF_Oblique.battles>
+  <BF_Oblique.history>그리스 군대는 보통 최정예를 오른쪽 날개에 두었다. 레욱트라에서 에파미논다스는 테베군을 왼쪽 날개에 50줄 깊이로 모아 스파르타 왕과 그 정예병을 마주하게 하고, 약한 오른쪽 날개는 뒤로 물려 두었다. 강한 날개가 먼저 부딪쳐 나머지 전열이 맞붙기도 전에 스파르타군을 무너뜨렸다. 이로써 무적 스파르타의 명성은 끝났다.\n\n2천 년도 더 지나 프리드리히 대왕이 로이텐에서 사선진을 다시 유명하게 만들었다.</BF_Oblique.history>
+
+  <BF_Crescent.label>초승달진</BF_Crescent.label>
+  <BF_Crescent.description>칸나이의 한니발 초승달진. 중앙의 두 줄이 앞으로 휘어 나오고, 양 측면은 적을 감싸기 위해 뒤로 물러 있다.</BF_Crescent.description>
+  <BF_Crescent.origin>카르타고의 한니발 바르카.</BF_Crescent.origin>
+  <BF_Crescent.period>기원전 216년, 제2차 포에니 전쟁</BF_Crescent.period>
+  <BF_Crescent.battles>칸나이(기원전 216년)</BF_Crescent.battles>
+  <BF_Crescent.history>칸나이에서 한니발은 훨씬 큰 로마군과 맞섰다. 그는 갈리아와 히스파니아 보병을 적 쪽으로 휘어진 얇은 전열로 세우고, 노련한 아프리카 보병을 양 끝 뒤쪽에 남겨 두었다. 로마군이 밀어붙이자 초승달은 부서지지 않고 뒤로 휘어지며 그들을 더 깊이 끌어들였다. 그때 아프리카 보병이 양 측면에서 안쪽으로 돌아섰고, 기병이 뒤에서 포위망을 닫았다.\n\n로마군은 거의 전멸했다. 칸나이는 양익 포위의 교과서적인 사례가 되었고, 지금도 사관학교에서 가르친다.</BF_Crescent.history>
+
+  <BF_Sparabara.label>스파라바라</BF_Sparabara.label>
+  <BF_Sparabara.description>페르시아의 방패벽. 앞에 큰 방패를 든 근접 한 줄, 그 뒤 깊은 대열에 원거리 전원이 서서 방패 너머로 사격한다. 사수가 많은 정착지에 알맞다.</BF_Sparabara.description>
+  <BF_Sparabara.origin>아케메네스 페르시아 제국. '스파라바라'(방패를 든 자)는 고대 페르시아어에서 재구성한 현대 명칭이며, 이들은 키 큰 고리버들 방패를 들었다.</BF_Sparabara.origin>
+  <BF_Sparabara.period>기원전 6세기경 – 기원전 5세기</BF_Sparabara.period>
+  <BF_Sparabara.battles>플라타이아(기원전 479년), 미칼레(기원전 479년)</BF_Sparabara.battles>
+  <BF_Sparabara.history>페르시아 보병의 앞줄은 키 큰 직사각형 고리버들 방패(스파라)와 짧은 창을 들었다. 방패를 나란히 세워 벽을 만들었고, 그 뒤의 궁수들이 벽 너머로 일제 사격을 거듭했다. 역사가들은 열 명 깊이의 부대를 재구성한다. 방패병 한 명 뒤에 궁수 아홉 명이다.\n\n아시아의 군대를 상대로는 잘 통했다. 그러나 빠르게 돌격해 백병전을 벌이는 그리스 호플리테스에게는 통하지 않았다. 헤로도토스는 플라타이아와 미칼레에서 방패벽이 무너지고 그 뒤의 궁수들이 중보병을 당해 내지 못했다고 전한다.</BF_Sparabara.history>
+
+  <BF_ShieldWall.label>방패벽</BF_ShieldWall.label>
+  <BF_ShieldWall.description>색슨과 북유럽의 방패벽. 넓고 얕은 전열로, 앞에 근접, 그 위로 창이 뻗고, 뒤에 원거리.</BF_ShieldWall.description>
+  <BF_ShieldWall.origin>게르만 계열 민족들. 앵글로색슨과 바이킹의 것이 가장 잘 알려져 있다.</BF_ShieldWall.origin>
+  <BF_ShieldWall.period>기원후 5세기경 – 11세기</BF_ShieldWall.period>
+  <BF_ShieldWall.battles>몰든(991년), 스탬퍼드 브리지(1066년), 헤이스팅스(1066년)</BF_ShieldWall.battles>
+  <BF_ShieldWall.history>전사들은 둥근 방패를 겹쳐 빽빽이 섰고, 흔히 여러 줄 깊이였으며, 뒷사람들이 앞줄 너머로 창을 찔렀다. 밀고, 찌르고, 전열을 지키는 것이 승패를 갈랐다. 벽이 무너지면 대개 전투는 진 것이었다.\n\n헤이스팅스에서 해럴드 왕의 친위대(하스칼)는 언덕 위에서 노르만 기사와 궁수에 맞서 하루 대부분 동안 방패벽을 지켰다. 거듭된 공격으로 인한 손실, 잉글랜드 병사들을 비탈 아래로 꾀어낸 노르만군의 거짓 후퇴, 그리고 마지막으로 해럴드의 죽음이 벽을 무너뜨렸다. 거짓 후퇴가 얼마나 중요했는지는 지금도 논쟁 중이다.</BF_ShieldWall.history>
+
+  <BF_Wedge.label>쐐기진</BF_Wedge.label>
+  <BF_Wedge.description>스빈퓔킹, '멧돼지 머리'. 가장 강한 근접 전투원을 끝에 둔 뾰족한 공격 진형.</BF_Wedge.description>
+  <BF_Wedge.origin>북유럽 전사(svinfylking, '돼지 진형'). 로마인들도 이미 게르만 부족이 쐐기(cuneus)로 공격한다고 기록했다.</BF_Wedge.origin>
+  <BF_Wedge.period>기원후 1세기경(게르만), 기원후 8 – 11세기(바이킹 시대)</BF_Wedge.period>
+  <BF_Wedge.battles>사가와 삭소 그라마티쿠스의 『덴마크인의 사적』(1200년경 집필)에 묘사됨</BF_Wedge.battles>
+  <BF_Wedge.history>쐐기진은 가장 강하고 무장이 좋은 전사를 끝에 두고 그 뒤로 진형을 넓혀, 적 전열의 한 점을 뚫는다.\n\n삭소 그라마티쿠스에 따르면 오딘 신이 직접 전설 속 덴마크 왕들에게 이를 가르쳤다. 첫 줄에 두 명, 둘째 줄에 네 명, 셋째 줄에 여덟 명이다. 삭소는 바이킹 시대보다 훨씬 뒤에 썼으며, 스빈퓔킹이 실제로 어떻게 쓰였는지는 역사가들 사이에서 논쟁이 있다. 타키투스는 그보다 천 년도 더 전에 게르만 부족이 전열을 쐐기 모양으로 짰다고 썼다.</BF_Wedge.history>
+
+  <BF_Schiltron.label>쉴트론</BF_Schiltron.label>
+  <BF_Schiltron.description>모든 방향을 향하는 스코틀랜드의 속이 빈 장창 방진. 원거리는 안쪽에서 보호받는다.</BF_Schiltron.description>
+  <BF_Schiltron.origin>스코틀랜드 독립 전쟁 시기의 스코틀랜드.</BF_Schiltron.origin>
+  <BF_Schiltron.period>13세기 말 – 14세기</BF_Schiltron.period>
+  <BF_Schiltron.battles>폴커크(1298년), 배넉번(1314년)</BF_Schiltron.battles>
+  <BF_Schiltron.history>스코틀랜드 창병들은 긴 창을 빽빽이 세운 밀집 덩어리를 이루어 잉글랜드 중기병을 막았다. 역사 속 쉴트론은 원형이나 타원형인 경우가 많았지만, 여기서는 속이 빈 방진이다.\n\n폴커크에서 윌리엄 월리스의 쉴트론은 잉글랜드 기사들을 막아냈지만, 장궁병, 석궁병, 투석병에게 소모된 뒤 기병에게 짓밟혔다. 16년 뒤 배넉번에서 로버트 브루스는 쉴트론으로 공격에 나서 에드워드 2세의 군대를 전장에서 몰아냈다.</BF_Schiltron.history>
+
+  <BF_Herse.label>허스</BF_Herse.label>
+  <BF_Herse.description>크레시와 아쟁쿠르의 잉글랜드 진형. 중무장병이 중앙을 지키고, 궁수는 앞으로 비스듬히 나간 양 측면에 선다.</BF_Herse.description>
+  <BF_Herse.origin>잉글랜드, 백년 전쟁. 이름은 연대기 작가 프루아사르에게서 왔다. '써레처럼' 배치되었다는 뜻이다.</BF_Herse.origin>
+  <BF_Herse.period>14 – 15세기</BF_Herse.period>
+  <BF_Herse.battles>크레시(1346년), 푸아티에(1356년), 아쟁쿠르(1415년)</BF_Herse.battles>
+  <BF_Herse.history>프루아사르는 크레시에서 궁수들이 '허스의 방식으로' 섰고 중무장병이 그 뒤에 있었다고 쓴다. 그가 정확히 무엇을 뜻했는지는 지금도 논쟁 중이다. 아쟁쿠르에 잘 들어맞는 일반적인 해석은 이렇다. 잉글랜드군은 도보로 싸웠고, 말에서 내린 중무장병이 중앙을 지켰으며, 장궁병은 앞으로 비스듬히 나간 날개에 서서 공격하는 적의 측면을 쏠 수 있었다. 아쟁쿠르에서는 땅에 박은 뾰족한 말뚝이 그들을 기병으로부터 지켰다.\n\n중앙으로 돌격하는 프랑스 기사들은 먼저 화살 폭풍을 뚫고 달려야 했다. 크레시의 에드워드 3세와 아쟁쿠르의 헨리 5세는 이렇게 훨씬 큰 군대를 물리쳤다.</BF_Herse.history>
+
+  <BF_Gewalthaufen.label>스위스 방진 (게발트하우펜)</BF_Gewalthaufen.label>
+  <BF_Gewalthaufen.description>스위스 장창 방진. 어느 방향이든 맞설 수 있는 거의 정사각형의 큰 장창 덩어리로, 다른 근접은 그 뒤, 원거리는 뒤쪽. 너비는 병력 수에 따라 정해진다.</BF_Gewalthaufen.description>
+  <BF_Gewalthaufen.origin>스위스 연방. '게발트하우펜'은 전위(Vorhut)와 후위(Nachhut) 사이 본대의 이름이었다. 이후 독일 란츠크네히트가 모방했다.</BF_Gewalthaufen.origin>
+  <BF_Gewalthaufen.period>15 – 16세기</BF_Gewalthaufen.period>
+  <BF_Gewalthaufen.battles>그랑송(1476년), 무르텐(1476년), 낭시(1477년), 마리냐노(1515년)</BF_Gewalthaufen.battles>
+  <BF_Gewalthaufen.history>스위스 칸톤들에는 기사가 거의 없었기 때문에, 장창병과 미늘창병의 거대한 덩어리로 싸웠다. 흔히 수천 명 규모였고, 어느 쪽으로든 돌아설 수 있도록 거의 정사각형이었다. 적을 기다리는 대신 덩어리들은 빠르게 행군해 공격했다.\n\n그랑송, 무르텐, 낭시에서 스위스군은 부르고뉴의 대담공 샤를의 군대를 궤멸시켰고, 이후 수십 년 동안 스위스 용병은 유럽에서 가장 인기 있는 보병이었다. 1515년 마리냐노에서는 프랑스 포병과 기병이 거대한 방진이 얼마나 취약해졌는지 보여 주었다.</BF_Gewalthaufen.history>
+
+  <BF_Tercio.label>테르시오</BF_Tercio.label>
+  <BF_Tercio.description>원거리를 네 모서리의 '소매'로 나눈 스페인 장창 방진. 장창이 적을 막고, 모서리들이 모든 방향으로 사격한다. 크기는 병력 수에 따라 정해진다.</BF_Tercio.description>
+  <BF_Tercio.origin>카를 5세 황제 치하의 스페인, 1530년대에 편성.</BF_Tercio.origin>
+  <BF_Tercio.period>16 – 17세기 (근세)</BF_Tercio.period>
+  <BF_Tercio.battles>뇌르틀링겐(1634년), 로크루아(1643년)</BF_Tercio.battles>
+  <BF_Tercio.history>테르시오는 중앙의 큰 장창병 방진과 모서리의 '소매'(mangas)에 배치한 화승총병과 머스킷병을 결합했다. 장창은 기병을 막았고, 사수들은 모서리에서 사격하다가 돌격을 받으면 장창 아래로 몸을 숨길 수 있었다.\n\n한 세기 넘게 스페인 테르시오는 유럽 최고의 보병으로 꼽혔다. 1643년 로크루아에서 프랑스군이 이를 격파했고, 이는 흔히 그 시대의 끝으로 여겨지지만, 테르시오는 그 뒤로도 수십 년간 싸웠다.</BF_Tercio.history>
+
+  <BF_DoubleLine.label>이열 횡대</BF_DoubleLine.label>
+  <BF_DoubleLine.description>정확히 두 줄: 첫 줄에 근접, 바로 뒤에 원거리가 옆으로 사격한다.</BF_DoubleLine.description>
+  <BF_DoubleLine.origin>많은 군대의 일반적인 관행. 머스킷 시대 후기의 표준 전열.</BF_DoubleLine.origin>
+  <BF_DoubleLine.period>모든 시대</BF_DoubleLine.period>
+  <BF_DoubleLine.battles>발라클라바(1854년), '가느다란 붉은 선'</BF_DoubleLine.battles>
+  <BF_DoubleLine.history>두 줄은 아직 뒷받침이 있는 가장 얕은 전열이다. 둘째 줄은 빈틈을 메우고 첫 줄 옆으로 쏘거나 칠 수 있다. 방패나 창의 줄 뒤에 선 궁수는 전쟁 자체만큼이나 오래되었다.\n\n두 줄 전열을 유명하게 만든 것은 영국군이다. 발라클라바에서 제93 하이랜더 연대는 겨우 두 명 깊이의 전열로 러시아 기병을 물리쳤다. 바로 '가느다란 붉은 선'이다.</BF_DoubleLine.history>
+
+  <BF_Column.label>종대</BF_Column.label>
+  <BF_Column.description>두 명씩 나란히 서는 좁은 행군 종대.</BF_Column.description>
+  <BF_Column.origin>행군해 본 모든 군대. 로마의 행군 대형(agmen)은 엄격히 규정되어 있었다.</BF_Column.origin>
+  <BF_Column.period>모든 시대</BF_Column.period>
+  <BF_Column.battles>트라시메노 호수(기원전 217년), 토이토부르크 숲(기원후 9년), 둘 다 행군 중의 매복</BF_Column.battles>
+  <BF_Column.history>좁은 종대는 도로를 따라, 성문을 지나, 장애물 사이로 빠르게 움직이며 부대를 한데 묶어 둔다. 약점은 측면이다. 종대 상태로 붙잡힌 군대는 거의 반격할 수 없다. 트라시메노 호수의 한니발도, 토이토부르크 숲의 게르만 부족도 아직 행군 중이던 로마군을 궤멸시켰다.\n\n그래서 지휘관들은 전투 전에 종대를 횡대로 전개했다.</BF_Column.history>
+
+  <BF_Skirmish.label>산개선</BF_Skirmish.label>
+  <BF_Skirmish.description>화살과 폭발에 대비해 간격을 넓게 둔 한 줄의 느슨한 전열.</BF_Skirmish.description>
+  <BF_Skirmish.origin>경보병: 그리스의 펠타스테스와 프실로이, 로마의 벨리테스, 후대의 경보병.</BF_Skirmish.origin>
+  <BF_Skirmish.period>모든 시대</BF_Skirmish.period>
+  <BF_Skirmish.battles>레카이온(기원전 390년)</BF_Skirmish.battles>
+  <BF_Skirmish.history>느슨한 산병선은 투창, 투석구, 활로 적을 괴롭히며 근접전을 피했다. 흩어져 있으면 화살, 돌, 폭발 하나하나에 맞는 사람이 줄어든다.\n\n레카이온에서 아테네 장군 이피크라테스의 펠타스테스는 600명의 스파르타 호플리테스 부대를 지치게 만들었다. 그들은 투창을 던지고, 중보병이 돌격할 때마다 그냥 물러났다. 아테네 호플리테스가 합류하자 스파르타군은 약 250명을 잃고 달아났다. 림월드에서는 수류탄, 박격포, 대규모 활에 대한 해답이다.</BF_Skirmish.history>
+
+  <BF_LAmbush.label>L자 매복</BF_LAmbush.label>
+  <BF_LAmbush.description>원거리의 긴 사격선과 오른쪽 측면에서 앞으로 뻗은 근접의 짧은 팔. 앞쪽의 적은 두 방향에서 사격을 받고, 팔이 길을 막는다.</BF_LAmbush.description>
+  <BF_LAmbush.origin>전쟁만큼 오래된 매복 형태. 현대 보병 교범의 표준 전술.</BF_LAmbush.origin>
+  <BF_LAmbush.period>모든 시대</BF_LAmbush.period>
+  <BF_LAmbush.history>긴 변은 적이 지나가는 도로나 길과 나란히 두고, 짧은 변은 그 끝을 막는다. 살상 지대에 들어선 자는 정면과 측면에서 동시에 공격받고, 짧은 변 때문에 그냥 밀고 지나갈 수도 없다.\n\n림월드에서는: 습격자들이 긴 선을 따라 팔 쪽으로 걸어오도록 배치하고, 근접 전투원을 팔에 두세요.</BF_LAmbush.history>
+</LanguageData>

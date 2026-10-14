@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <BF_Command>Formation</BF_Command>
+  <BF_CommandDesc>Disposer les colons mobilisés sélectionnés en formation de bataille.</BF_CommandDesc>
+  <BF_DialogTitle>Formation de bataille</BF_DialogTitle>
+  <BF_Width>Largeur</BF_Width>
+  <BF_Spacing>Espacement</BF_Spacing>
+  <BF_Front>▲ Front</BF_Front>
+  <BF_Roles>Rôles</BF_Roles>
+  <BF_Place>Placer la formation</BF_Place>
+  <BF_PlaceHint>Clic : placer   Glisser : tracer la ligne de front   Q/E : tourner   Clic droit : annuler</BF_PlaceHint>
+  <BF_Era_Antiquity>Antiquité</BF_Era_Antiquity>
+  <BF_Era_Medieval>Moyen Âge</BF_Era_Medieval>
+  <BF_Era_General>Général</BF_Era_General>
+  <BF_Hold>Garder la formation</BF_Hold>
+  <BF_HoldDesc>Le groupe devient un régiment. Un ordre de déplacement normal par clic droit fait alors marcher tout le régiment en formation.</BF_HoldDesc>
+  <BF_RolesButton>Rôles...</BF_RolesButton>
+  <BF_Regiment>Régiment</BF_Regiment>
+  <BF_RegimentTip>Clic : sélectionner (à nouveau : y aller)   Clic droit : options   Touche :</BF_RegimentTip>
+  <BF_HoldOn>Garde la formation en se déplaçant.</BF_HoldOn>
+  <BF_HoldOff>Ne garde pas la formation (*).</BF_HoldOff>
+  <BF_SetHoldOn>Garder la formation</BF_SetHoldOn>
+  <BF_SetHoldOff>Ne plus garder la formation</BF_SetHoldOff>
+  <BF_DraftAll>Tout mobiliser</BF_DraftAll>
+  <BF_Disband>Dissoudre le régiment</BF_Disband>
+  <BF_Info>Histoire et contexte de cette formation</BF_Info>
+  <BF_InfoOrigin>Origine</BF_InfoOrigin>
+  <BF_InfoPeriod>Période</BF_InfoPeriod>
+  <BF_InfoBattles>Batailles célèbres</BF_InfoBattles>
+  <BF_InfoTactic>Comportement</BF_InfoTactic>
+  <BF_Tactic_Hold>Tenir</BF_Tactic_Hold>
+  <BF_Tactic_HoldDesc>tient sa position. Les combattants repoussés hors de leur place y retournent quand aucun ennemi n'est proche.</BF_Tactic_HoldDesc>
+  <BF_Tactic_Relief>Relève de ligne</BF_Tactic_Relief>
+  <BF_Tactic_ReliefDesc>les blessés du premier rang échangent leur place avec des combattants valides des rangs arrière.</BF_Tactic_ReliefDesc>
+  <BF_Tactic_Charge>Charge</BF_Tactic_Charge>
+  <BF_Tactic_ChargeDesc>quand des ennemis arrivent à moins de 12 cases, tous les combattants de mêlée chargent l'ennemi le plus proche, puis reviennent dans la formation.</BF_Tactic_ChargeDesc>
+  <BF_Tactic_WingCharge>Aile forte</BF_Tactic_WingCharge>
+  <BF_Tactic_WingChargeDesc>quand des ennemis arrivent à moins de 12 cases, seuls les combattants de mêlée de l'aile gauche chargent ; l'aile droite reste en retrait.</BF_Tactic_WingChargeDesc>
+  <BF_Tactic_Envelop>Enveloppement</BF_Tactic_Envelop>
+  <BF_Tactic_EnvelopDesc>quand des ennemis arrivent à moins de 12 cases, le centre tient pendant que les combattants de mêlée des deux ailes extérieures chargent et referment l'étau.</BF_Tactic_EnvelopDesc>
+  <BF_Tactic_Skirmish>Escarmouche</BF_Tactic_Skirmish>
+  <BF_Tactic_SkirmishDesc>les tireurs reculent quand un ennemi de mêlée arrive à moins de 5 cases, puis reviennent dans la ligne plus tard.</BF_Tactic_SkirmishDesc>
+  <BF_Tactic_Ambush>Embuscade</BF_Tactic_Ambush>
+  <BF_Tactic_AmbushDesc>tout le monde retient son tir jusqu'à ce qu'un ennemi arrive à moins de 14 cases ou que quelqu'un soit touché, puis tous ouvrent le feu en même temps. Activer le tir à volonté d'un seul membre la déclenche aussi.</BF_Tactic_AmbushDesc>
+  <BF_AmbushSprung>Embuscade déclenchée : {0} ouvre le feu !</BF_AmbushSprung>
+  <BF_Role_Auto>Auto</BF_Role_Auto>
+  <BF_Role_Pike>Pique</BF_Role_Pike>
+  <BF_Role_Melee>Mêlée</BF_Role_Melee>
+  <BF_Role_Ranged>Distance</BF_Role_Ranged>
+</LanguageData>

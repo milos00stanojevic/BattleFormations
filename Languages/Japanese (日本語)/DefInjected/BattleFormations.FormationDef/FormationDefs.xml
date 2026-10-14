@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <BF_Phalanx.label>ファランクス</BF_Phalanx.label>
+  <BF_Phalanx.description>ギリシアとマケドニアの槍の密集陣。前列に長槍、その後ろに他の近接兵、最後尾に遠距離兵。</BF_Phalanx.description>
+  <BF_Phalanx.origin>ギリシアの都市国家（重装歩兵）。マケドニアの長槍ファランクスはマケドニア王ピリッポス2世が創設した。</BF_Phalanx.origin>
+  <BF_Phalanx.period>紀元前7世紀頃～紀元前2世紀</BF_Phalanx.period>
+  <BF_Phalanx.battles>マラトン（前490年）、ガウガメラ（前331年）、キュノスケファライ（前197年）</BF_Phalanx.battles>
+  <BF_Phalanx.history>ギリシアの重装歩兵は深い隊列で肩を並べて戦い、それぞれの丸盾が隣の兵を半ば守っていた。紀元前359年頃、マケドニアのピリッポス2世は歩兵に長さ約5～7メートルの長槍サリッサを持たせ、最初の5列の槍先が戦列の前に突き出るようにした。その息子アレクサンドロス大王はこれでペルシア帝国を征服した。\n\n正面からはほぼ無敵だったが、ファランクスは動きが遅く、側面や起伏のある地形に弱かった。ローマ軍団はキュノスケファライとピュドナでまさにその弱点を突いた。</BF_Phalanx.history>
+
+  <BF_Quincunx.label>マニプルス（クインクンクス）</BF_Quincunx.label>
+  <BF_Quincunx.description>共和政ローマの小部隊による市松模様の配置。隙間があるため、戦列を崩さずに後方部隊が前進し、疲れた部隊が後退できる。</BF_Quincunx.description>
+  <BF_Quincunx.origin>共和政ローマ。サムニウム戦争中に発達したと考えられる。古代の伝承では一部マルクス・フリウス・カミルスの功績とされる。</BF_Quincunx.origin>
+  <BF_Quincunx.period>紀元前4世紀頃～紀元前2世紀</BF_Quincunx.period>
+  <BF_Quincunx.battles>センティヌム（前295年）、ザマ（前202年）</BF_Quincunx.battles>
+  <BF_Quincunx.history>険しい山地でサムニウム人と戦った後、ローマ人は古いファランクスを約120人のマニプルス（「一握り」の意）に分けた。マニプルスはサイコロの5の目のように互い違いに並んだ。これがクインクンクスである。隙間を通って新手の部隊が前進し、疲れた部隊が後退できた。\n\nザマではスキピオ・アフリカヌスが逆にマニプルスを縦一列に揃えて通り道を開け、ハンニバルの戦象はほとんど損害を与えずにそこを駆け抜けた。紀元前2世紀末にはより大きなコホルスがマニプルスに取って代わった。この変化は伝統的にガイウス・マリウスの改革と結び付けられている。</BF_Quincunx.history>
+
+  <BF_TriplexAcies.label>三重戦列</BF_TriplexAcies.label>
+  <BF_TriplexAcies.description>間隔を空けた3本のローマ戦列。前に剣兵、中央に遠距離兵、後方の予備に槍を持つ古参兵。</BF_TriplexAcies.description>
+  <BF_TriplexAcies.origin>ローマ軍：ハスタティ、プリンキペス、トリアリイ。後にマリウスとカエサルがコホルスで用いた。</BF_TriplexAcies.origin>
+  <BF_TriplexAcies.period>紀元前4世紀頃～紀元3世紀</BF_TriplexAcies.period>
+  <BF_TriplexAcies.battles>カエサルのガリア遠征、例：ビブラクテ（前58年）</BF_TriplexAcies.battles>
+  <BF_TriplexAcies.history>ローマ人は3本の戦列（acies）で戦った。マニプルス制の軍では若いハスタティが最前列に立ち、その後ろに働き盛りのプリンキペス、最後方の予備には長い突き槍を持つ古参のトリアリイが控えた。戦いが不利になると、ローマ人は「res ad triarios rediit」（トリアリイの出番となった）と言った。\n\nカエサルはコホルスでも3本の戦列を守った。イレルダでは各軍団の4個コホルスを第1列に、3個を第2列に、3個を第3列に置き、常に新手の部隊が前線と交代できるようにした。</BF_TriplexAcies.history>
+
+  <BF_Testudo.label>テストゥド</BF_Testudo.label>
+  <BF_Testudo.description>ローマの亀甲隊形。正面全体に近接兵を並べた、小さく密な方陣。</BF_Testudo.description>
+  <BF_Testudo.origin>大きな湾曲した盾スクトゥムを使ったローマ軍団兵。</BF_Testudo.origin>
+  <BF_Testudo.period>紀元前3世紀頃～紀元3世紀</BF_Testudo.period>
+  <BF_Testudo.battles>マルクス・アントニウスのパルティアからの撤退（前36年）、多くの攻城戦</BF_Testudo.battles>
+  <BF_Testudo.history>最前列は盾を前に、外側の列は横に構え、内側の兵は盾を頭上に掲げた。こうして部隊全体が亀の甲羅のように覆われた。攻城戦で城壁に近づくときや、矢や石の下を前進するときに使われた。リウィウスは紀元前300年頃のサムニウム戦争ですでにこれに触れている。\n\nプルタルコスとカッシウス・ディオによれば、マルクス・アントニウスの軍団兵はパルティアの騎馬弓兵に対してテストゥドを組んだ。亀甲隊形は飛び道具は防いだが突撃は防げず、白兵戦では鈍重だった。ローマのトラヤヌスの記念柱には今もその姿が刻まれている。</BF_Testudo.history>
+
+  <BF_Orbis.label>オルビス</BF_Orbis.label>
+  <BF_Orbis.description>包囲されたときのローマの円陣。近接兵と槍兵は円の外側を向き、遠距離兵は中央から射撃する。</BF_Orbis.description>
+  <BF_Orbis.origin>ローマ軍。孤立した部隊の最後の手段。</BF_Orbis.origin>
+  <BF_Orbis.period>紀元前1世紀頃～紀元3世紀</BF_Orbis.period>
+  <BF_Orbis.battles>モリニ族との戦い（前55年）、アドゥアトゥカ（前54年）</BF_Orbis.battles>
+  <BF_Orbis.history>ローマの部隊は包囲されると、盾を外に向けた円陣を組み、どの面も攻撃に晒されないようにした。\n\nカエサルは『ガリア戦記』で何度かこれを描いている。モリニ族の待ち伏せに遭った約300人の兵は、騎兵が救援に来るまで4時間以上オルビスで持ちこたえた。アドゥアトゥカのサビヌスとコッタの部隊も円陣を組んだが、最終的には全滅した。オルビスは戦いに勝つためのものではなく、時間を稼ぐためのものだった。</BF_Orbis.history>
+
+  <BF_Oblique.label>斜線陣</BF_Oblique.label>
+  <BF_Oblique.description>エパメイノンダスの斜線陣。左翼が先行し、右へ行くほど列が後ろに下がるので、強い翼が最初に敵を打つ。</BF_Oblique.description>
+  <BF_Oblique.origin>テーバイのエパメイノンダス。プロイセンのフリードリヒ大王が復活させた。</BF_Oblique.origin>
+  <BF_Oblique.period>紀元前4世紀、18世紀に再び</BF_Oblique.period>
+  <BF_Oblique.battles>レウクトラ（前371年）、マンティネイア（前362年）、ロイテン（1757年）</BF_Oblique.battles>
+  <BF_Oblique.history>ギリシアの軍は通常、最精鋭を右翼に置いた。レウクトラでエパメイノンダスはテーバイ兵を左翼に50列の深さで集め、スパルタ王とその精鋭に向き合わせ、弱い右翼は後ろに控えさせた。強い翼が先に打ちかかり、他の戦列がぶつかる前にスパルタ軍を打ち破った。これでスパルタ無敵の名声は終わった。\n\n2000年以上後、フリードリヒ大王がロイテンで斜線陣を再び有名にした。</BF_Oblique.history>
+
+  <BF_Crescent.label>三日月陣</BF_Crescent.label>
+  <BF_Crescent.description>カンナエにおけるハンニバルの三日月陣。中央の2列が前へ弓なりに張り出し、両翼は敵を包み込むために後ろに控える。</BF_Crescent.description>
+  <BF_Crescent.origin>カルタゴのハンニバル・バルカ。</BF_Crescent.origin>
+  <BF_Crescent.period>紀元前216年、第二次ポエニ戦争</BF_Crescent.period>
+  <BF_Crescent.battles>カンナエ（前216年）</BF_Crescent.battles>
+  <BF_Crescent.history>カンナエでハンニバルははるかに大きなローマ軍と向き合った。彼はガリア兵とヒスパニア兵を敵に向かって弓なりに張り出した薄い戦列に並べ、古参のアフリカ歩兵を両端の後方に控えさせた。ローマ軍が押すと、三日月は崩れずに後ろへたわみ、彼らをさらに奥へ引き込んだ。そこでアフリカ兵が両翼から内側へ向きを変え、騎兵が背後から包囲を閉じた。\n\nローマ軍はほぼ全滅した。カンナエは両翼包囲の教科書的な例となり、今も士官学校で教えられている。</BF_Crescent.history>
+
+  <BF_Sparabara.label>スパラバラ</BF_Sparabara.label>
+  <BF_Sparabara.description>ペルシアの盾の壁。前に大盾を持つ近接兵1列、その後ろの深い隊列に遠距離兵全員が並び、盾越しに射撃する。射手の多いコロニー向け。</BF_Sparabara.description>
+  <BF_Sparabara.origin>アケメネス朝ペルシア帝国。「スパラバラ」（盾持ち）は古代ペルシア語から再構成された現代の呼び名。彼らは背の高い枝編みの盾を持っていた。</BF_Sparabara.origin>
+  <BF_Sparabara.period>紀元前6世紀頃～紀元前5世紀</BF_Sparabara.period>
+  <BF_Sparabara.battles>プラタイア（前479年）、ミュカレ（前479年）</BF_Sparabara.battles>
+  <BF_Sparabara.history>ペルシア歩兵の最前列は、背の高い長方形の枝編みの盾（スパラ）と短い槍を持っていた。盾を横に並べて地面に立てて壁とし、後ろの弓兵がその上から次々と斉射した。歴史家は10人縦深の部隊を再構成している。盾持ち1人の後ろに弓兵9人である。\n\nアジアの軍勢にはこれがよく通用した。しかし素早く突撃して白兵戦を挑むギリシアの重装歩兵には通じなかった。ヘロドトスは、プラタイアとミュカレで盾の壁が破られ、後ろの弓兵が重装歩兵に太刀打ちできなかったと伝えている。</BF_Sparabara.history>
+
+  <BF_ShieldWall.label>盾の壁</BF_ShieldWall.label>
+  <BF_ShieldWall.description>サクソンと北欧の盾の壁。幅広く浅い戦列で、前に近接兵、その上から槍が突き出し、後ろに遠距離兵。</BF_ShieldWall.description>
+  <BF_ShieldWall.origin>ゲルマン系の諸民族。アングロ・サクソン人とヴァイキングのものが最もよく知られる。</BF_ShieldWall.origin>
+  <BF_ShieldWall.period>紀元5世紀頃～11世紀</BF_ShieldWall.period>
+  <BF_ShieldWall.battles>モールドン（991年）、スタンフォード・ブリッジ（1066年）、ヘイスティングズ（1066年）</BF_ShieldWall.battles>
+  <BF_ShieldWall.history>戦士たちは丸盾を重ね合わせて密集し、しばしば数列の深さで立ち、後列の者が最前列の上から槍を突き出した。押し合い、突き、戦列を保つことが勝敗を決めた。壁が崩れれば、たいてい戦いは負けだった。\n\nヘイスティングズでは、ハロルド王の親衛隊（ハスカール）が丘の上で盾の壁を守り、ノルマンの騎士と弓兵に対して一日の大半を持ちこたえた。繰り返される攻撃による損害、イングランド兵を斜面の下へ誘い出したノルマン軍の偽装退却、そして最後にハロルドの死が壁を崩した。偽装退却がどれほど重要だったかは今も議論されている。</BF_ShieldWall.history>
+
+  <BF_Wedge.label>楔形陣</BF_Wedge.label>
+  <BF_Wedge.description>スヴィンフィルキング、「猪の頭」。最強の近接兵を先端に置いた尖った攻撃陣形。</BF_Wedge.description>
+  <BF_Wedge.origin>北欧の戦士（svinfylking、「豚の陣」）。ローマ人もすでにゲルマン部族が楔形（cuneus）で攻撃すると記している。</BF_Wedge.origin>
+  <BF_Wedge.period>紀元1世紀頃（ゲルマン人）、紀元8世紀～11世紀（ヴァイキング時代）</BF_Wedge.period>
+  <BF_Wedge.battles>サガやサクソ・グラマティクスの『デンマーク人の事績』（1200年頃成立）に記述</BF_Wedge.battles>
+  <BF_Wedge.history>楔形陣は最も強く、最もよく武装した戦士を先端に置き、その後ろで陣形が広がり、敵の戦列を一点で突破する。\n\nサクソ・グラマティクスによれば、オーディン神自らが伝説のデンマーク王たちにこれを教えた。1列目に2人、2列目に4人、3列目に8人である。サクソはヴァイキング時代よりずっと後に書いており、スヴィンフィルキングが実際にどう使われたかは歴史家の間で議論がある。タキトゥスはその1000年以上前に、ゲルマン部族が戦列を楔形に組んだと書いている。</BF_Wedge.history>
+
+  <BF_Schiltron.label>シルトロン</BF_Schiltron.label>
+  <BF_Schiltron.description>スコットランドの中空の長槍方陣。全方向を向き、遠距離兵は内側で守られる。</BF_Schiltron.description>
+  <BF_Schiltron.origin>スコットランド独立戦争期のスコットランド。</BF_Schiltron.origin>
+  <BF_Schiltron.period>13世紀末～14世紀</BF_Schiltron.period>
+  <BF_Schiltron.battles>フォルカーク（1298年）、バノックバーン（1314年）</BF_Schiltron.battles>
+  <BF_Schiltron.history>スコットランドの槍兵は長い槍を林立させた密集した塊となり、イングランドの重騎兵を食い止めた。史実のシルトロンは円形や楕円形のことが多かったが、ここでは中空の方陣としている。\n\nフォルカークではウィリアム・ウォレスのシルトロンがイングランドの騎士を食い止めたが、長弓兵、弩兵、投石兵に削られ、騎兵に蹂躙された。16年後のバノックバーンでは、ロバート・ブルースがシルトロンで攻勢に出て、エドワード2世の軍を戦場から追い払った。</BF_Schiltron.history>
+
+  <BF_Herse.label>ハース</BF_Herse.label>
+  <BF_Herse.description>クレシーとアジャンクールのイングランドの陣形。下馬した重装兵が中央を守り、弓兵は前方へ斜めに張り出した両翼に立つ。</BF_Herse.description>
+  <BF_Herse.origin>イングランド、百年戦争。名称は年代記作家フロワサールに由来し、「馬鍬（まぐわ）のように」並べられたという意味。</BF_Herse.origin>
+  <BF_Herse.period>14世紀～15世紀</BF_Herse.period>
+  <BF_Herse.battles>クレシー（1346年）、ポワティエ（1356年）、アジャンクール（1415年）</BF_Herse.battles>
+  <BF_Herse.history>フロワサールは、クレシーで弓兵が「ハースのように」立ち、その後ろに重装兵がいたと書いている。彼が正確に何を意味したかは今も議論がある。アジャンクールによく当てはまる一般的な解釈では、イングランド軍は徒歩で戦い、下馬した重装兵が中央を守り、長弓兵は前方へ斜めに張り出した両翼に立って攻撃の側面に矢を射込んだ。アジャンクールでは地面に打ち込んだ尖った杭が彼らを騎兵から守った。\n\n中央へ突撃するフランスの騎士は、まず矢の嵐の中を駆け抜けねばならなかった。クレシーのエドワード3世とアジャンクールのヘンリー5世は、こうしてはるかに大きな軍を打ち破った。</BF_Herse.history>
+
+  <BF_Gewalthaufen.label>スイス方陣（ゲヴァルトハウフェン）</BF_Gewalthaufen.label>
+  <BF_Gewalthaufen.description>スイスの長槍方陣。どの方向にも向ける、ほぼ正方形の大きな長槍の塊。他の近接兵はその後ろ、遠距離兵は後方。幅は兵の数に応じて決まる。</BF_Gewalthaufen.description>
+  <BF_Gewalthaufen.origin>スイス盟約者団。「ゲヴァルトハウフェン」は前衛（Vorhut）と後衛（Nachhut）の間の本隊の名称。後にドイツのランツクネヒトが模倣した。</BF_Gewalthaufen.origin>
+  <BF_Gewalthaufen.period>15世紀～16世紀</BF_Gewalthaufen.period>
+  <BF_Gewalthaufen.battles>グランソン（1476年）、ムルテン（1476年）、ナンシー（1477年）、マリニャーノ（1515年）</BF_Gewalthaufen.battles>
+  <BF_Gewalthaufen.history>スイスの諸州には騎士がほとんどいなかったため、長槍兵と斧槍兵の巨大な塊で戦った。しばしば数千人規模で、どの方向にも向けるようほぼ正方形だった。敵を待つ代わりに、塊は素早く行進して攻撃した。\n\nグランソン、ムルテン、ナンシーでスイス軍はブルゴーニュ公シャルル突進公の軍を壊滅させ、その後数十年、スイス傭兵はヨーロッパで最も求められる歩兵となった。1515年のマリニャーノでは、フランスの砲兵と騎兵が大方陣がいかに脆弱になったかを示した。</BF_Gewalthaufen.history>
+
+  <BF_Tercio.label>テルシオ</BF_Tercio.label>
+  <BF_Tercio.description>遠距離兵を四隅の「袖」に分けたスペインの長槍方陣。長槍が敵を寄せつけず、四隅があらゆる方向に射撃する。規模は兵の数に応じて決まる。</BF_Tercio.description>
+  <BF_Tercio.origin>皇帝カール5世治下のスペイン。1530年代に編成された。</BF_Tercio.origin>
+  <BF_Tercio.period>16世紀～17世紀（近世）</BF_Tercio.period>
+  <BF_Tercio.battles>ネルトリンゲン（1634年）、ロクロワ（1643年）</BF_Tercio.battles>
+  <BF_Tercio.history>テルシオは中央の大きな長槍兵の方陣と、四隅の「袖」（mangas）に置いた火縄銃兵とマスケット銃兵を組み合わせた。長槍が騎兵を寄せつけず、射手は四隅から射撃し、突撃を受けると長槍の下に身を隠せた。\n\n1世紀以上にわたり、スペインのテルシオはヨーロッパ最強の歩兵とみなされた。1643年のロクロワでフランス軍がこれを破り、しばしばその時代の終わりとされるが、テルシオはその後も数十年戦い続けた。</BF_Tercio.history>
+
+  <BF_DoubleLine.label>二列横隊</BF_DoubleLine.label>
+  <BF_DoubleLine.description>ちょうど2列：1列目に近接兵、そのすぐ後ろに遠距離兵が並び、脇から射撃する。</BF_DoubleLine.description>
+  <BF_DoubleLine.origin>多くの軍で一般的なやり方。マスケット時代後期の標準的な戦列。</BF_DoubleLine.origin>
+  <BF_DoubleLine.period>全時代</BF_DoubleLine.period>
+  <BF_DoubleLine.battles>バラクラヴァ（1854年）、「シン・レッド・ライン」</BF_DoubleLine.battles>
+  <BF_DoubleLine.history>2列は控えのいる最も浅い戦列である。2列目は隙間を埋め、1列目の脇から射撃したり打ちかかったりできる。盾や槍の列の後ろに立つ弓兵は、戦争そのものと同じくらい古い。\n\n2列横隊を有名にしたのはイギリス軍である。バラクラヴァでは第93ハイランダーズがわずか2人の深さの戦列でロシア騎兵を撃退した。「シン・レッド・ライン（細く赤い線）」である。</BF_DoubleLine.history>
+
+  <BF_Column.label>縦隊</BF_Column.label>
+  <BF_Column.description>2人並びの細い行軍縦隊。</BF_Column.description>
+  <BF_Column.origin>これまで行軍したあらゆる軍。ローマの行軍隊形（agmen）は厳しく定められていた。</BF_Column.origin>
+  <BF_Column.period>全時代</BF_Column.period>
+  <BF_Column.battles>トラシメヌス湖（前217年）、トイトブルクの森（紀元9年）、いずれも行軍中の待ち伏せ</BF_Column.battles>
+  <BF_Column.history>細い縦隊は道路や門、障害物の間を素早く移動でき、部隊をまとめておける。弱点は側面で、縦隊のまま捕まった軍はほとんど反撃できない。トラシメヌス湖のハンニバルも、トイトブルクの森のゲルマン部族も、行軍中のローマ軍を壊滅させた。\n\nそのため指揮官は戦いの前に縦隊から横隊へ展開した。</BF_Column.history>
+
+  <BF_Skirmish.label>散開線</BF_Skirmish.label>
+  <BF_Skirmish.description>矢や爆発に備え、広い間隔を空けた1本のまばらな戦列。</BF_Skirmish.description>
+  <BF_Skirmish.origin>軽装部隊：ギリシアのペルタステスとプシロイ、ローマのウェリテス、後の軽歩兵。</BF_Skirmish.origin>
+  <BF_Skirmish.period>全時代</BF_Skirmish.period>
+  <BF_Skirmish.battles>レカイオン（前390年）</BF_Skirmish.battles>
+  <BF_Skirmish.history>まばらな散兵線は投槍、投石器、弓で敵を悩ませ、接近戦を避けた。散らばっていれば、矢や石や爆発の一発ごとに当たる人数が減る。\n\nレカイオンでは、アテナイの将軍イフィクラテスのペルタステスが600人のスパルタ重装歩兵部隊を消耗させた。彼らは投槍を投げ、重装歩兵が突撃してくるたびにただ後退した。アテナイの重装歩兵が加わると、スパルタ兵は約250人を失って敗走した。RimWorldでは、手榴弾、迫撃砲、大量の弓への答えとなる。</BF_Skirmish.history>
+
+  <BF_LAmbush.label>L字型待ち伏せ</BF_LAmbush.label>
+  <BF_LAmbush.description>遠距離兵の長い射撃線と、右翼で前方へ伸びる近接兵の短い腕。前方の敵は二方向から射撃を受け、腕がその行く手を塞ぐ。</BF_LAmbush.description>
+  <BF_LAmbush.origin>戦争と同じくらい古い待ち伏せの型。現代の歩兵教範でも標準的な戦術。</BF_LAmbush.origin>
+  <BF_LAmbush.period>全時代</BF_LAmbush.period>
+  <BF_LAmbush.history>長辺は敵が通る道や小道と平行に置き、短辺はその先を塞ぐ。殺傷地帯に入った者は正面と側面から同時に撃たれ、短辺のせいでそのまま突き抜けることもできない。\n\nRimWorldでは：襲撃者が長い線に沿って腕のほうへ歩いてくるように配置し、近接兵を腕に置こう。</BF_LAmbush.history>
+</LanguageData>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <BF_MarchPace.label>marchando en formación</BF_MarchPace.label>
+  <BF_MarchPace.description>Sigue el paso del miembro más lento del regimiento para que la formación se mantenga cerrada. Termina al llegar.</BF_MarchPace.description>
+</LanguageData>

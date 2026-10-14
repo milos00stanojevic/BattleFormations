@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <BF_Command>Formation</BF_Command>
+  <BF_CommandDesc>Arrange the selected drafted colonists in a battle formation.</BF_CommandDesc>
+  <BF_DialogTitle>Battle formation</BF_DialogTitle>
+  <BF_Width>Width</BF_Width>
+  <BF_Spacing>Spacing</BF_Spacing>
+  <BF_Front>▲ Front</BF_Front>
+  <BF_Roles>Roles</BF_Roles>
+  <BF_Place>Place formation</BF_Place>
+  <BF_PlaceHint>Click: place   Drag: draw the front line   Q/E: turn   Right-click: cancel</BF_PlaceHint>
+  <BF_Era_Antiquity>Antiquity</BF_Era_Antiquity>
+  <BF_Era_Medieval>Middle Ages</BF_Era_Medieval>
+  <BF_Era_General>General</BF_Era_General>
+  <BF_Hold>Hold formation</BF_Hold>
+  <BF_HoldDesc>The group becomes a regiment. A normal right-click move order then marches the whole regiment in formation.</BF_HoldDesc>
+  <BF_RolesButton>Roles...</BF_RolesButton>
+  <BF_Regiment>Regiment</BF_Regiment>
+  <BF_RegimentTip>Click: select (again: jump to)   Right-click: options   Key:</BF_RegimentTip>
+  <BF_HoldOn>Holds formation when moving.</BF_HoldOn>
+  <BF_HoldOff>Does not hold formation (*).</BF_HoldOff>
+  <BF_SetHoldOn>Hold formation</BF_SetHoldOn>
+  <BF_SetHoldOff>Stop holding formation</BF_SetHoldOff>
+  <BF_DraftAll>Draft all</BF_DraftAll>
+  <BF_Disband>Disband regiment</BF_Disband>
+  <BF_Info>History and background of this formation</BF_Info>
+  <BF_InfoOrigin>Origin</BF_InfoOrigin>
+  <BF_InfoPeriod>Period</BF_InfoPeriod>
+  <BF_InfoBattles>Famous battles</BF_InfoBattles>
+  <BF_InfoTactic>Behaviour</BF_InfoTactic>
+  <BF_Tactic_Hold>Hold</BF_Tactic_Hold>
+  <BF_Tactic_HoldDesc>stands its ground. Fighters pushed out of place walk back to their slot once no enemy is close.</BF_Tactic_HoldDesc>
+  <BF_Tactic_Relief>Line relief</BF_Tactic_Relief>
+  <BF_Tactic_ReliefDesc>wounded fighters in the front rank swap places with healthy ones from the rear lines.</BF_Tactic_ReliefDesc>
+  <BF_Tactic_Charge>Charge</BF_Tactic_Charge>
+  <BF_Tactic_ChargeDesc>when enemies come within 12 cells, all melee fighters charge the nearest enemy, then return to the formation.</BF_Tactic_ChargeDesc>
+  <BF_Tactic_WingCharge>Strong wing</BF_Tactic_WingCharge>
+  <BF_Tactic_WingChargeDesc>when enemies come within 12 cells, only the melee fighters of the left wing charge; the right wing holds back.</BF_Tactic_WingChargeDesc>
+  <BF_Tactic_Envelop>Envelopment</BF_Tactic_Envelop>
+  <BF_Tactic_EnvelopDesc>when enemies come within 12 cells, the center holds while the melee fighters on both outer wings charge and close in.</BF_Tactic_EnvelopDesc>
+  <BF_Tactic_Skirmish>Skirmish</BF_Tactic_Skirmish>
+  <BF_Tactic_SkirmishDesc>ranged fighters fall back when a melee enemy comes within 5 cells, and return to the line later.</BF_Tactic_SkirmishDesc>
+  <BF_Tactic_Ambush>Ambush</BF_Tactic_Ambush>
+  <BF_Tactic_AmbushDesc>everyone holds fire until an enemy comes within 14 cells or someone is hit, then all open fire at once. Switching fire at will on for one member springs it too.</BF_Tactic_AmbushDesc>
+  <BF_AmbushSprung>Ambush sprung: {0} opens fire!</BF_AmbushSprung>
+  <BF_Role_Auto>Auto</BF_Role_Auto>
+  <BF_Role_Pike>Pike</BF_Role_Pike>
+  <BF_Role_Melee>Melee</BF_Role_Melee>
+  <BF_Role_Ranged>Ranged</BF_Role_Ranged>
+</LanguageData>

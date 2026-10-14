@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <BF_Phalanx.label>falanga</BF_Phalanx.label>
+  <BF_Phalanx.description>Grecki i macedoński blok włóczni. Piki w przednich szeregach, reszta walki wręcz za nimi, strzelcy z tyłu.</BF_Phalanx.description>
+  <BF_Phalanx.origin>Greckie polis (hoplici). Macedońską falangę pikinierów stworzył Filip II Macedoński.</BF_Phalanx.origin>
+  <BF_Phalanx.period>ok. VII – II w. p.n.e.</BF_Phalanx.period>
+  <BF_Phalanx.battles>Maraton (490 p.n.e.), Gaugamela (331 p.n.e.), Kynoskefalaj (197 p.n.e.)</BF_Phalanx.battles>
+  <BF_Phalanx.history>Greccy hoplici walczyli ramię w ramię w głębokich szeregach, a każda okrągła tarcza częściowo osłaniała sąsiada. Około 359 p.n.e. Filip II Macedoński uzbroił swoją piechotę w sarisę, pikę długości około pięciu–siedmiu metrów, tak że groty pierwszych pięciu szeregów wystawały przed linię. Jego syn Aleksander Wielki podbił z nią imperium perskie.\n\nOd frontu falanga była niemal nie do pokonania, ale była powolna i słaba na skrzydłach oraz w nierównym terenie. Rzymskie legiony wykorzystały dokładnie to pod Kynoskefalaj i Pydną.</BF_Phalanx.history>
+
+  <BF_Quincunx.label>manipuły (kwinkunks)</BF_Quincunx.label>
+  <BF_Quincunx.description>Rzymska republikańska szachownica małych oddziałów. Luki pozwalają tylnym oddziałom podejść, a zmęczonym się wycofać bez łamania linii.</BF_Quincunx.description>
+  <BF_Quincunx.origin>Republika rzymska, prawdopodobnie rozwinięta w czasie wojen samnickich. Starożytna tradycja częściowo przypisuje ją Markowi Furiuszowi Kamillusowi.</BF_Quincunx.origin>
+  <BF_Quincunx.period>ok. IV – II w. p.n.e.</BF_Quincunx.period>
+  <BF_Quincunx.battles>Sentinum (295 p.n.e.), Zama (202 p.n.e.)</BF_Quincunx.battles>
+  <BF_Quincunx.history>Po walkach z Samnitami w górzystym terenie Rzymianie podzielili dawną falangę na manipuły („garście”) liczące około 120 ludzi. Manipuły stały naprzemiennie jak pięć oczek na kostce do gry — kwinkunks. Przez luki świeże oddziały mogły wysuwać się do przodu, a zmęczone się cofać.\n\nPod Zamą Scypion Afrykański ustawił natomiast manipuły jeden za drugim, zostawiając otwarte korytarze, przez które słonie bojowe Hannibala przebiegły, nie czyniąc wielkich szkód. Pod koniec II w. p.n.e. manipuły zastąpiły większe kohorty; zmianę tę tradycyjnie łączy się z reformami Gajusza Mariusza.</BF_Quincunx.history>
+
+  <BF_TriplexAcies.label>triplex acies</BF_TriplexAcies.label>
+  <BF_TriplexAcies.description>Trzy rzymskie linie bojowe z odstępami: miecznicy z przodu, strzelcy pośrodku, weterani z włóczniami w odwodzie z tyłu.</BF_TriplexAcies.description>
+  <BF_TriplexAcies.origin>Armia rzymska: hastati, principes i triarii. Później z kohortami u Mariusza i Cezara.</BF_TriplexAcies.origin>
+  <BF_TriplexAcies.period>ok. IV w. p.n.e. – III w. n.e.</BF_TriplexAcies.period>
+  <BF_TriplexAcies.battles>Kampanie Cezara w Galii, np. Bibracte (58 p.n.e.)</BF_TriplexAcies.battles>
+  <BF_TriplexAcies.history>Rzymianie walczyli w trzech liniach (acies). W armii manipułowej młodzi hastati stali z przodu, principes w sile wieku za nimi, a weterani triarii z długimi włóczniami czekali w odwodzie z tyłu. Gdy bitwa szła źle, Rzymianie mówili „res ad triarios rediit”: doszło do triariuszy.\n\nCezar zachował trzy linie z kohortami: pod Ilerdą ustawił po cztery kohorty każdego legionu w pierwszej linii, po trzy w drugiej i po trzy w trzeciej, by świeże wojska zawsze mogły zluzować front.</BF_TriplexAcies.history>
+
+  <BF_Testudo.label>żółw</BF_Testudo.label>
+  <BF_Testudo.description>Rzymski „żółw”. Mały, zwarty blok z walką wręcz na całym froncie.</BF_Testudo.description>
+  <BF_Testudo.origin>Rzymscy legioniści z wielkimi wygiętymi tarczami (scutum).</BF_Testudo.origin>
+  <BF_Testudo.period>ok. III w. p.n.e. – III w. n.e.</BF_Testudo.period>
+  <BF_Testudo.battles>Odwrót Marka Antoniusza z Partii (36 p.n.e.), liczne oblężenia</BF_Testudo.battles>
+  <BF_Testudo.history>Pierwszy szereg trzymał tarcze przed sobą, zewnętrzne kolumny na boki, a ludzie w środku unosili je nad głowy, tak że cały oddział był przykryty jak skorupą żółwia. Używano go, by podejść pod mury podczas oblężeń i nacierać pod strzałami i kamieniami; Liwiusz wspomina o nim już w czasie wojen samnickich, około 300 p.n.e.\n\nPlutarch i Kasjusz Dion podają, że legioniści Marka Antoniusza tworzyli żółwia przeciw partyjskim konnym łucznikom. Żółw chronił przed pociskami, nie przed szarżą, i był powolny i niezgrabny w walce wręcz. Kolumna Trajana w Rzymie wciąż go przedstawia.</BF_Testudo.history>
+
+  <BF_Orbis.label>orbis</BF_Orbis.label>
+  <BF_Orbis.description>Rzymski krąg na wypadek okrążenia. Walka wręcz i włócznie zwrócone na zewnątrz pierścienia, strzelcy strzelają ze środka.</BF_Orbis.description>
+  <BF_Orbis.origin>Armia rzymska, ostatnia deska ratunku dla odciętych oddziałów.</BF_Orbis.origin>
+  <BF_Orbis.period>ok. I w. p.n.e. – III w. n.e.</BF_Orbis.period>
+  <BF_Orbis.battles>Przeciw Morynom (55 p.n.e.), Atuatuka (54 p.n.e.)</BF_Orbis.battles>
+  <BF_Orbis.history>Okrążony rzymski oddział formował pierścień tarczami na zewnątrz, tak by żadna strona nie była odsłonięta.\n\nCezar opisuje to kilkakrotnie w „Wojnie galijskiej”: około trzystu żołnierzy, którzy wpadli w zasadzkę Morynów, wytrwało w orbisie ponad cztery godziny, aż na odsiecz przybyła jazda. Wojska Sabinusa i Kotty pod Atuatuką też utworzyły krąg, ale ostatecznie zostały zniszczone. Orbis nie wygrywał bitew; zyskiwał czas.</BF_Orbis.history>
+
+  <BF_Oblique.label>szyk skośny</BF_Oblique.label>
+  <BF_Oblique.description>Skośna linia Epaminondasa. Lewe skrzydło prowadzi, każda kolumna bardziej na prawo zostaje w tyle, więc silne skrzydło uderza pierwsze.</BF_Oblique.description>
+  <BF_Oblique.origin>Epaminondas z Teb. Wskrzeszony przez Fryderyka Wielkiego z Prus.</BF_Oblique.origin>
+  <BF_Oblique.period>IV w. p.n.e., ponownie w XVIII w.</BF_Oblique.period>
+  <BF_Oblique.battles>Leuktry (371 p.n.e.), Mantineja (362 p.n.e.), Lutynia (1757)</BF_Oblique.battles>
+  <BF_Oblique.history>Greckie armie zwykle stawiały najlepsze wojska na prawym skrzydle. Pod Leuktrami Epaminondas skupił swoich Tebańczyków w pięćdziesięciu szeregach na lewym skrzydle, naprzeciw spartańskiego króla i jego elity, a słabsze prawe skrzydło wstrzymał. Silne skrzydło uderzyło pierwsze i rozbiło Spartan, zanim reszta linii w ogóle się zetknęła. Tak skończyła się sława niezwyciężonej Sparty.\n\nPonad dwa tysiące lat później Fryderyk Wielki znów rozsławił szyk skośny pod Lutynią.</BF_Oblique.history>
+
+  <BF_Crescent.label>półksiężyc</BF_Crescent.label>
+  <BF_Crescent.description>Półksiężyc Hannibala pod Kannami. Dwa szeregi wygięte do przodu w środku, skrzydła cofnięte, by zamknąć się wokół wroga.</BF_Crescent.description>
+  <BF_Crescent.origin>Hannibal Barkas z Kartaginy.</BF_Crescent.origin>
+  <BF_Crescent.period>216 p.n.e., druga wojna punicka</BF_Crescent.period>
+  <BF_Crescent.battles>Kanny (216 p.n.e.)</BF_Crescent.battles>
+  <BF_Crescent.history>Pod Kannami Hannibal stanął naprzeciw znacznie większej armii rzymskiej. Ustawił piechotę galijską i iberyjską w cienkiej linii wygiętej w stronę wroga, a weteranów z Afryki trzymał z tyłu na obu końcach. Gdy Rzymianie naparli, półksiężyc ugiął się do tyłu zamiast pęknąć i wciągnął ich głębiej. Wtedy Afrykańczycy zwrócili się do środka na skrzydłach, a jazda zamknęła pierścień od tyłu.\n\nArmia rzymska została niemal doszczętnie zniszczona. Kanny stały się podręcznikowym przykładem podwójnego oskrzydlenia i do dziś uczy się o nich w akademiach wojskowych.</BF_Crescent.history>
+
+  <BF_Sparabara.label>sparabara</BF_Sparabara.label>
+  <BF_Sparabara.description>Perski mur tarcz. Jeden szereg walki wręcz z dużymi tarczami z przodu, wszyscy strzelcy w głębokich szeregach za nim, strzelający nad nim. Dla kolonii z wieloma strzelcami.</BF_Sparabara.description>
+  <BF_Sparabara.origin>Imperium perskie Achemenidów. „Sparabara” (tarczownicy) to współczesna nazwa odtworzona ze staroperskiego; nosili wysokie wiklinowe tarcze.</BF_Sparabara.origin>
+  <BF_Sparabara.period>ok. VI – V w. p.n.e.</BF_Sparabara.period>
+  <BF_Sparabara.battles>Plateje (479 p.n.e.), Mykale (479 p.n.e.)</BF_Sparabara.battles>
+  <BF_Sparabara.history>Pierwszy szereg perskiej piechoty nosił wysokie prostokątne wiklinowe tarcze (spara) i krótkie włócznie. Ustawiali tarcze obok siebie jak mur, a łucznicy za nimi strzelali ponad nim salwa za salwą. Historycy odtwarzają oddziały głębokie na dziesięciu ludzi: jeden tarczownik przed dziewięcioma łucznikami.\n\nPrzeciw armiom Azji działało to dobrze. Przeciw greckim hoplitom, którzy szybko szarżowali i walczyli wręcz, zawiodło: Herodot opowiada, jak pod Platejami i Mykale mur tarcz został przełamany, a łucznicy za nim nie wytrzymali starcia z ciężką piechotą.</BF_Sparabara.history>
+
+  <BF_ShieldWall.label>mur tarcz</BF_ShieldWall.label>
+  <BF_ShieldWall.description>Saski i nordycki mur tarcz. Szeroka, płytka linia: walka wręcz z przodu, włócznie nad nimi, strzelcy z tyłu.</BF_ShieldWall.description>
+  <BF_ShieldWall.origin>Ludy germańskie, najlepiej znany u Anglosasów i wikingów.</BF_ShieldWall.origin>
+  <BF_ShieldWall.period>ok. V – XI w. n.e.</BF_ShieldWall.period>
+  <BF_ShieldWall.battles>Maldon (991), Stamford Bridge (1066), Hastings (1066)</BF_ShieldWall.battles>
+  <BF_ShieldWall.history>Wojownicy stali blisko siebie z zachodzącymi na siebie okrągłymi tarczami, często w kilku szeregach, a ci z tyłu dźgali włóczniami ponad pierwszym szeregiem. O wyniku decydowały napór, pchnięcia i utrzymanie linii; gdy mur pękał, bitwa była zwykle przegrana.\n\nPod Hastings huskarlowie króla Harolda przez większą część dnia utrzymywali mur tarcz na wzgórzu przeciw normańskim rycerzom i łucznikom. Złamały go straty od powtarzanych ataków, normańskie pozorowane ucieczki, które zwabiły angielskie oddziały w dół zbocza, i w końcu śmierć Harolda. Jak wielkie znaczenie miały pozorowane ucieczki, wciąż się dyskutuje.</BF_ShieldWall.history>
+
+  <BF_Wedge.label>klin</BF_Wedge.label>
+  <BF_Wedge.description>Svinfylking, „łeb dzika”. Ostry szyk natarcia z najsilniejszymi wojownikami walczącymi wręcz na czubku.</BF_Wedge.description>
+  <BF_Wedge.origin>Nordyccy wojownicy (svinfylking, „świński szyk”). Już Rzymianie opisują plemiona germańskie atakujące klinami (cuneus).</BF_Wedge.origin>
+  <BF_Wedge.period>ok. I w. n.e. (Germanie), VIII – XI w. n.e. (epoka wikingów)</BF_Wedge.period>
+  <BF_Wedge.battles>Opisany w sagach i w „Gesta Danorum” Saxo Grammaticusa (spisanych około 1200 r.)</BF_Wedge.battles>
+  <BF_Wedge.history>Klin stawiał najsilniejszych, najlepiej opancerzonych wojowników na czubku, a szyk rozszerzał się za nimi, by przełamać linię wroga w jednym punkcie.\n\nSaxo Grammaticus opowiada, że sam bóg Odyn nauczył go legendarnych królów duńskich: dwóch ludzi w pierwszym szeregu, czterech w drugim, ośmiu w trzecim. Saxo pisał długo po epoce wikingów, a historycy spierają się, jak naprawdę używano svinfylkingu. Tacyt ponad tysiąc lat wcześniej pisał, że plemiona germańskie ustawiały linie bojowe w kliny.</BF_Wedge.history>
+
+  <BF_Schiltron.label>schiltron</BF_Schiltron.label>
+  <BF_Schiltron.description>Szkocki pusty czworobok pikinierów zwrócony na wszystkie strony, strzelcy chronieni w środku.</BF_Schiltron.description>
+  <BF_Schiltron.origin>Szkocja, w czasie szkockich wojen o niepodległość.</BF_Schiltron.origin>
+  <BF_Schiltron.period>Koniec XIII – XIV w.</BF_Schiltron.period>
+  <BF_Schiltron.battles>Falkirk (1298), Bannockburn (1314)</BF_Schiltron.battles>
+  <BF_Schiltron.history>Szkoccy włócznicy zbijali się w gęste bloki najeżone długimi włóczniami, by zatrzymać angielską ciężką jazdę. Historyczne schiltrony były często okrągłe lub owalne; tutaj to pusty czworobok.\n\nPod Falkirk schiltrony Williama Wallace'a powstrzymały angielskich rycerzy, ale zostały wykrwawione przez łuczników, kuszników i procarzy, a potem stratowane. Szesnaście lat później pod Bannockburn Robert Bruce użył schiltronów do natarcia i przegnał armię Edwarda II z pola bitwy.</BF_Schiltron.history>
+
+  <BF_Herse.label>herse</BF_Herse.label>
+  <BF_Herse.description>Angielski szyk spod Crécy i Azincourt. Zbrojni trzymają środek, łucznicy stoją na obu skrzydłach wysuniętych skośnie do przodu.</BF_Herse.description>
+  <BF_Herse.origin>Anglia, wojna stuletnia. Nazwa pochodzi od kronikarza Froissarta: ustawieni „jak brona”.</BF_Herse.origin>
+  <BF_Herse.period>XIV – XV w.</BF_Herse.period>
+  <BF_Herse.battles>Crécy (1346), Poitiers (1356), Azincourt (1415)</BF_Herse.battles>
+  <BF_Herse.history>Froissart pisze, że pod Crécy łucznicy stali „na kształt herse”, a zbrojni za nimi. Co dokładnie miał na myśli, wciąż się dyskutuje. Powszechna interpretacja, dobrze pasująca do Azincourt: Anglicy walczyli pieszo, spieszeni zbrojni trzymali środek, a łucznicy z długimi łukami stali na skrzydłach wysuniętych skośnie do przodu, by razić boki natarcia. Pod Azincourt przed jazdą chroniły ich zaostrzone pale wbite w ziemię.\n\nFrancuscy rycerze szarżujący na środek musieli najpierw przejechać przez burzę strzał. Edward III pod Crécy i Henryk V pod Azincourt pokonali w ten sposób znacznie większe armie.</BF_Herse.history>
+
+  <BF_Gewalthaufen.label>szwajcarski czworobok (Gewalthaufen)</BF_Gewalthaufen.label>
+  <BF_Gewalthaufen.description>Szwajcarski czworobok pikinierów. Duży, niemal kwadratowy blok pik, który może zwrócić się w każdą stronę, reszta walki wręcz za nimi, strzelcy z tyłu. Szerokość zależy od liczby żołnierzy.</BF_Gewalthaufen.description>
+  <BF_Gewalthaufen.origin>Konfederacja Szwajcarska. „Gewalthaufen” nazywano główne siły między strażą przednią (Vorhut) a tylną (Nachhut). Później naśladowany przez niemieckich lancknechtów.</BF_Gewalthaufen.origin>
+  <BF_Gewalthaufen.period>XV – XVI w.</BF_Gewalthaufen.period>
+  <BF_Gewalthaufen.battles>Grandson (1476), Murten (1476), Nancy (1477), Marignano (1515)</BF_Gewalthaufen.battles>
+  <BF_Gewalthaufen.history>Szwajcarskie kantony prawie nie miały rycerzy, więc walczyły ogromnymi blokami pikinierów i halabardników, często liczącymi tysiące ludzi i niemal kwadratowymi, by móc zwrócić się w każdą stronę. Zamiast czekać na wroga, bloki szybko maszerowały i atakowały.\n\nPod Grandson, Murten i Nancy Szwajcarzy zniszczyli armię Karola Zuchwałego Burgundzkiego, a przez dziesięciolecia szwajcarscy najemnicy byli najbardziej poszukiwaną piechotą Europy. Pod Marignano w 1515 roku francuska artyleria i jazda pokazały, jak bezbronne stały się wielkie czworoboki.</BF_Gewalthaufen.history>
+
+  <BF_Tercio.label>tercio</BF_Tercio.label>
+  <BF_Tercio.description>Hiszpański czworobok pikinierów ze strzelcami podzielonymi na „rękawy” we wszystkich czterech narożnikach. Piki trzymają wroga z dala, narożniki strzelają na wszystkie strony. Wielkość zależy od liczby żołnierzy.</BF_Tercio.description>
+  <BF_Tercio.origin>Hiszpania za cesarza Karola V, zorganizowane w latach 30. XVI wieku.</BF_Tercio.origin>
+  <BF_Tercio.period>XVI – XVII w. (wczesna nowożytność)</BF_Tercio.period>
+  <BF_Tercio.battles>Nördlingen (1634), Rocroi (1643)</BF_Tercio.battles>
+  <BF_Tercio.history>Tercio łączyło duży czworobok pikinierów w środku z arkebuzerami i muszkieterami w „rękawach” (mangas) na narożnikach. Piki trzymały jazdę z dala, a strzelcy prowadzili ogień z narożników i przy szarży mogli schronić się pod pikami.\n\nPrzez ponad sto lat hiszpańskie tercios uchodziły za najlepszą piechotę Europy. Pod Rocroi w 1643 roku Francuzi je rozbili, co często uważa się za koniec ich epoki, choć tercios walczyły jeszcze przez dziesięciolecia.</BF_Tercio.history>
+
+  <BF_DoubleLine.label>podwójna linia</BF_DoubleLine.label>
+  <BF_DoubleLine.description>Dokładnie dwa szeregi: walka wręcz w pierwszej linii, strzelcy tuż za nimi strzelają obok.</BF_DoubleLine.description>
+  <BF_DoubleLine.origin>Powszechna praktyka wielu armii; standardowa linia późnej epoki muszkietów.</BF_DoubleLine.origin>
+  <BF_DoubleLine.period>Wszystkie epoki</BF_DoubleLine.period>
+  <BF_DoubleLine.battles>Bałakława (1854), „cienka czerwona linia”</BF_DoubleLine.battles>
+  <BF_DoubleLine.history>Dwa szeregi to najpłytsza linia, która wciąż ma wsparcie: drugi szereg może zapełniać luki i strzelać lub uderzać obok pierwszego. Łucznicy za linią tarcz lub włóczni są tak starzy jak sama wojna.\n\nDwuszeregową linię rozsławili Brytyjczycy. Pod Bałakławą 93. pułk szkocki stanął w linii głębokiej tylko na dwóch ludzi i odparł rosyjską jazdę: „cienka czerwona linia”.</BF_DoubleLine.history>
+
+  <BF_Column.label>kolumna</BF_Column.label>
+  <BF_Column.description>Wąska kolumna marszowa, dwójkami.</BF_Column.description>
+  <BF_Column.origin>Każda armia, która kiedykolwiek maszerowała. Rzymski porządek marszowy (agmen) był ściśle uregulowany.</BF_Column.origin>
+  <BF_Column.period>Wszystkie epoki</BF_Column.period>
+  <BF_Column.battles>Jezioro Trazymeńskie (217 p.n.e.), Las Teutoburski (9 n.e.), obie zasadzki w marszu</BF_Column.battles>
+  <BF_Column.history>Wąskie kolumny szybko poruszają się drogami, przez bramy i między przeszkodami oraz trzymają oddział razem. Ich słabością jest skrzydło: armia zaskoczona w kolumnie ledwo może się bronić. Hannibal nad Jeziorem Trazymeńskim i plemiona germańskie w Lesie Teutoburskim zniszczyli armie rzymskie, które wciąż były w marszu.\n\nDlatego dowódcy przed bitwą rozwijali kolumnę w linię.</BF_Column.history>
+
+  <BF_Skirmish.label>luźna linia</BF_Skirmish.label>
+  <BF_Skirmish.description>Jedna rozproszona linia z szerokimi odstępami przeciw strzałom i wybuchom.</BF_Skirmish.description>
+  <BF_Skirmish.origin>Wojska lekkie: greccy peltaści i psiloi, rzymscy welici, później lekka piechota.</BF_Skirmish.origin>
+  <BF_Skirmish.period>Wszystkie epoki</BF_Skirmish.period>
+  <BF_Skirmish.battles>Lechajon (390 p.n.e.)</BF_Skirmish.battles>
+  <BF_Skirmish.history>Luźne linie harcowników nękały wroga oszczepami, procami i łukami i unikały walki wręcz. W rozproszeniu każda strzała, kamień czy wybuch trafia mniej ludzi.\n\nPod Lechajonem peltaści ateńskiego wodza Ifikratesa wyczerpali spartański oddział 600 hoplitów: rzucali oszczepami i po prostu cofali się, gdy tylko ciężka piechota szarżowała. Gdy dołączyli ateńscy hoplici, Spartanie uciekli, straciwszy około 250 ludzi. W RimWorld to odpowiedź na granaty, moździerze i masowe łuki.</BF_Skirmish.history>
+
+  <BF_LAmbush.label>zasadzka L</BF_LAmbush.label>
+  <BF_LAmbush.description>Długa linia ognia strzelców z krótkim ramieniem walki wręcz wysuniętym do przodu na prawym skrzydle. Wrogowie przed nią dostają się pod ogień z dwóch stron, a ramię zagradza im drogę.</BF_LAmbush.description>
+  <BF_LAmbush.origin>Schemat zasadzki stary jak wojna; standardowy manewr w nowoczesnych regulaminach piechoty.</BF_LAmbush.origin>
+  <BF_LAmbush.period>Wszystkie epoki</BF_LAmbush.period>
+  <BF_LAmbush.history>Długi bok leży równolegle do drogi lub ścieżki, którą idzie wróg, krótki zamyka jej koniec. Kto wejdzie w strefę rażenia, dostaje ogień jednocześnie z przodu i z boku, a krótki bok nie pozwala po prostu się przebić.\n\nW RimWorld: ustaw ją tak, by najeźdźcy szli wzdłuż długiej linii w stronę ramienia, i umieść swoich wojowników walczących wręcz w ramieniu.</BF_LAmbush.history>
+</LanguageData>

@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <BF_Phalanx.label>phalange</BF_Phalanx.label>
+  <BF_Phalanx.description>Bloc de lances grec et macédonien. Piques aux premiers rangs, le reste de la mêlée derrière, les tireurs à l'arrière.</BF_Phalanx.description>
+  <BF_Phalanx.origin>Cités grecques (hoplites). La phalange de piquiers macédonienne fut créée par Philippe II de Macédoine.</BF_Phalanx.origin>
+  <BF_Phalanx.period>v. VIIe – IIe siècle av. J.-C.</BF_Phalanx.period>
+  <BF_Phalanx.battles>Marathon (490 av. J.-C.), Gaugamèles (331 av. J.-C.), Cynoscéphales (197 av. J.-C.)</BF_Phalanx.battles>
+  <BF_Phalanx.history>Les hoplites grecs combattaient épaule contre épaule en rangs profonds, chaque bouclier rond couvrant en partie le voisin. Vers 359 av. J.-C., Philippe II de Macédoine arma son infanterie de la sarisse, une pique d'environ cinq à sept mètres, si bien que les pointes des cinq premiers rangs dépassaient devant la ligne. Son fils Alexandre le Grand conquit avec elle l'Empire perse.\n\nDe face, la phalange était presque imbattable, mais elle était lente et faible sur ses flancs et en terrain accidenté. Les légions romaines exploitèrent exactement cela à Cynoscéphales et à Pydna.</BF_Phalanx.history>
+
+  <BF_Quincunx.label>manipules (quinconce)</BF_Quincunx.label>
+  <BF_Quincunx.description>Damier de petites unités de la République romaine. Les intervalles permettent aux unités arrière d'avancer ou aux unités fatiguées de reculer sans rompre la ligne.</BF_Quincunx.description>
+  <BF_Quincunx.origin>République romaine, probablement développé pendant les guerres samnites. La tradition antique l'attribue en partie à Marcus Furius Camillus.</BF_Quincunx.origin>
+  <BF_Quincunx.period>v. IVe – IIe siècle av. J.-C.</BF_Quincunx.period>
+  <BF_Quincunx.battles>Sentinum (295 av. J.-C.), Zama (202 av. J.-C.)</BF_Quincunx.battles>
+  <BF_Quincunx.history>Après avoir combattu les Samnites en terrain montagneux, les Romains divisèrent leur ancienne phalange en manipules (« poignées ») d'environ 120 hommes. Les manipules étaient décalés comme les cinq points d'un dé : le quinconce. Par les intervalles, des unités fraîches pouvaient avancer et les unités fatiguées se replier.\n\nÀ Zama, Scipion l'Africain aligna au contraire les manipules les uns derrière les autres, laissant des couloirs par lesquels les éléphants de guerre d'Hannibal passèrent sans faire grand mal. À la fin du IIe siècle av. J.-C., des cohortes plus grandes avaient remplacé les manipules, un changement traditionnellement lié aux réformes de Caius Marius.</BF_Quincunx.history>
+
+  <BF_TriplexAcies.label>triplex acies</BF_TriplexAcies.label>
+  <BF_TriplexAcies.description>Trois lignes de bataille romaines espacées : épéistes devant, tireurs au milieu, lanciers vétérans en réserve à l'arrière.</BF_TriplexAcies.description>
+  <BF_TriplexAcies.origin>Armée romaine : hastati, principes et triarii. Plus tard utilisée avec des cohortes par Marius et César.</BF_TriplexAcies.origin>
+  <BF_TriplexAcies.period>v. IVe siècle av. J.-C. – IIIe siècle apr. J.-C.</BF_TriplexAcies.period>
+  <BF_TriplexAcies.battles>Campagnes de César en Gaule, p. ex. Bibracte (58 av. J.-C.)</BF_TriplexAcies.battles>
+  <BF_TriplexAcies.history>Les Romains combattaient sur trois lignes (acies). Dans l'armée manipulaire, les jeunes hastati se tenaient devant, les principes dans la force de l'âge derrière eux, et les vétérans triarii, avec leurs longues lances, attendaient en réserve à l'arrière. Quand une bataille tournait mal, les Romains disaient « res ad triarios rediit » : on en est arrivé aux triaires.\n\nCésar garda les trois lignes avec des cohortes : à Ilerda, il plaça quatre cohortes de chaque légion en première ligne, trois en deuxième et trois en troisième, afin que des troupes fraîches puissent toujours relever le front.</BF_TriplexAcies.history>
+
+  <BF_Testudo.label>tortue</BF_Testudo.label>
+  <BF_Testudo.description>La tortue romaine. Petit bloc serré avec de la mêlée sur tout le front.</BF_Testudo.description>
+  <BF_Testudo.origin>Légionnaires romains, avec leurs grands boucliers incurvés (scutum).</BF_Testudo.origin>
+  <BF_Testudo.period>v. IIIe siècle av. J.-C. – IIIe siècle apr. J.-C.</BF_Testudo.period>
+  <BF_Testudo.battles>Retraite de Marc Antoine de Parthie (36 av. J.-C.), nombreux sièges</BF_Testudo.battles>
+  <BF_Testudo.history>Le premier rang tenait ses boucliers vers l'avant, les files extérieures sur les côtés, et les hommes à l'intérieur levaient les leurs au-dessus de la tête, si bien que toute l'unité était couverte comme par une carapace de tortue. On l'utilisait pour approcher les murailles lors des sièges et pour avancer sous les flèches et les pierres ; Tite-Live la mentionne dès les guerres samnites, vers 300 av. J.-C.\n\nPlutarque et Dion Cassius rapportent que les légionnaires de Marc Antoine formèrent des tortues contre les archers à cheval parthes. La tortue protégeait des projectiles, pas d'une charge, et elle était lente et maladroite au corps à corps. La colonne Trajane, à Rome, la montre encore aujourd'hui.</BF_Testudo.history>
+
+  <BF_Orbis.label>orbis</BF_Orbis.label>
+  <BF_Orbis.description>Cercle romain en cas d'encerclement. Mêlée et lances tournées vers l'extérieur sur l'anneau, les tireurs tirent depuis le centre.</BF_Orbis.description>
+  <BF_Orbis.origin>Armée romaine, en dernier recours pour les unités coupées du reste.</BF_Orbis.origin>
+  <BF_Orbis.period>v. Ier siècle av. J.-C. – IIIe siècle apr. J.-C.</BF_Orbis.period>
+  <BF_Orbis.battles>Contre les Morins (55 av. J.-C.), Atuatuca (54 av. J.-C.)</BF_Orbis.battles>
+  <BF_Orbis.history>Quand une unité romaine était encerclée, elle formait un anneau, boucliers vers l'extérieur, pour qu'aucun côté ne soit exposé.\n\nCésar le décrit plusieurs fois dans sa Guerre des Gaules : environ trois cents soldats pris en embuscade par les Morins tinrent en orbis plus de quatre heures jusqu'à ce que la cavalerie vienne à leur secours. Les troupes de Sabinus et Cotta à Atuatuca en formèrent un aussi, mais furent anéanties à la fin. L'orbis ne gagnait pas les batailles ; il gagnait du temps.</BF_Orbis.history>
+
+  <BF_Oblique.label>ordre oblique</BF_Oblique.label>
+  <BF_Oblique.description>La ligne oblique d'Épaminondas. L'aile gauche mène, chaque file plus à droite reste en retrait, ainsi l'aile forte frappe en premier.</BF_Oblique.description>
+  <BF_Oblique.origin>Épaminondas de Thèbes. Remis à l'honneur par Frédéric le Grand de Prusse.</BF_Oblique.origin>
+  <BF_Oblique.period>IVe siècle av. J.-C., puis de nouveau au XVIIIe siècle</BF_Oblique.period>
+  <BF_Oblique.battles>Leuctres (371 av. J.-C.), Mantinée (362 av. J.-C.), Leuthen (1757)</BF_Oblique.battles>
+  <BF_Oblique.history>Les armées grecques plaçaient d'ordinaire leurs meilleures troupes à l'aile droite. À Leuctres, Épaminondas massa ses Thébains sur cinquante rangs de profondeur à l'aile gauche, face au roi spartiate et à son élite, et retint son aile droite plus faible. L'aile forte frappa la première et brisa les Spartiates avant même que le reste des lignes ne se rencontre. Ce fut la fin de la réputation d'invincibilité de Sparte.\n\nPlus de deux mille ans plus tard, Frédéric le Grand rendit l'ordre oblique de nouveau célèbre à Leuthen.</BF_Oblique.history>
+
+  <BF_Crescent.label>croissant</BF_Crescent.label>
+  <BF_Crescent.description>Le croissant d'Hannibal à Cannes. Deux rangs bombés vers l'avant au centre, les flancs en retrait pour se refermer sur l'ennemi.</BF_Crescent.description>
+  <BF_Crescent.origin>Hannibal Barca de Carthage.</BF_Crescent.origin>
+  <BF_Crescent.period>216 av. J.-C., deuxième guerre punique</BF_Crescent.period>
+  <BF_Crescent.battles>Cannes (216 av. J.-C.)</BF_Crescent.battles>
+  <BF_Crescent.history>À Cannes, Hannibal affrontait une armée romaine bien plus nombreuse. Il plaça son infanterie gauloise et ibère sur une ligne mince bombée vers l'ennemi et garda son infanterie africaine aguerrie en retrait aux deux extrémités. Quand les Romains poussèrent, le croissant ploya vers l'arrière au lieu de rompre et les attira plus profondément. Alors les Africains se tournèrent vers l'intérieur sur les flancs et la cavalerie referma l'anneau par derrière.\n\nL'armée romaine fut presque anéantie. Cannes devint l'exemple classique du double enveloppement et s'enseigne encore dans les écoles militaires.</BF_Crescent.history>
+
+  <BF_Sparabara.label>sparabara</BF_Sparabara.label>
+  <BF_Sparabara.description>Mur de boucliers perse. Un rang de mêlée avec de grands boucliers devant, tous les tireurs en rangs profonds derrière, tirant par-dessus. Fait pour les colonies avec beaucoup de tireurs.</BF_Sparabara.description>
+  <BF_Sparabara.origin>Empire perse achéménide. « Sparabara » (porteurs de bouclier) est un nom moderne reconstitué à partir du vieux perse ; ils portaient de hauts boucliers en osier.</BF_Sparabara.origin>
+  <BF_Sparabara.period>v. VIe – Ve siècle av. J.-C.</BF_Sparabara.period>
+  <BF_Sparabara.battles>Platées (479 av. J.-C.), Mycale (479 av. J.-C.)</BF_Sparabara.battles>
+  <BF_Sparabara.history>Le premier rang de l'infanterie perse portait de hauts boucliers rectangulaires en osier (spara) et de courtes lances. Ils plantaient les boucliers côte à côte comme un mur, et les archers derrière tiraient par-dessus, volée après volée. Les historiens reconstituent des unités de dix hommes de profondeur : un porteur de bouclier devant neuf archers.\n\nContre les armées d'Asie, cela fonctionnait bien. Contre des hoplites grecs qui chargeaient vite et combattaient au corps à corps, cela échoua : Hérodote raconte comment, à Platées et à Mycale, le mur de boucliers fut enfoncé et les archers derrière ne purent tenir face à l'infanterie lourde.</BF_Sparabara.history>
+
+  <BF_ShieldWall.label>mur de boucliers</BF_ShieldWall.label>
+  <BF_ShieldWall.description>Mur de boucliers saxon et nordique. Ligne large et peu profonde, mêlée devant, lances par-dessus, tireurs derrière.</BF_ShieldWall.description>
+  <BF_ShieldWall.origin>Peuples germaniques, surtout connu chez les Anglo-Saxons et les Vikings.</BF_ShieldWall.origin>
+  <BF_ShieldWall.period>v. Ve – XIe siècle apr. J.-C.</BF_ShieldWall.period>
+  <BF_ShieldWall.battles>Maldon (991), Stamford Bridge (1066), Hastings (1066)</BF_ShieldWall.battles>
+  <BF_ShieldWall.history>Les guerriers se serraient les uns contre les autres, boucliers ronds se chevauchant, souvent sur plusieurs rangs, tandis que ceux de derrière portaient leurs coups de lance par-dessus le premier rang. Pousser, frapper et tenir la ligne décidaient du combat ; une fois le mur brisé, la bataille était généralement perdue.\n\nÀ Hastings, les housecarls du roi Harold tinrent leur mur de boucliers sur la colline contre les chevaliers et archers normands pendant la majeure partie de la journée. Les pertes des assauts répétés, les fuites simulées normandes qui attirèrent des troupes anglaises au bas de la pente et enfin la mort d'Harold le brisèrent. L'importance des fuites simulées est encore débattue.</BF_ShieldWall.history>
+
+  <BF_Wedge.label>coin</BF_Wedge.label>
+  <BF_Wedge.description>Svinfylking, la hure de sanglier. Formation d'attaque en pointe avec les meilleurs combattants de mêlée à la pointe.</BF_Wedge.description>
+  <BF_Wedge.origin>Guerriers nordiques (svinfylking, « formation du porc »). Les Romains décrivent déjà des tribus germaniques attaquant en coins (cuneus).</BF_Wedge.origin>
+  <BF_Wedge.period>v. Ier siècle apr. J.-C. (Germains), VIIIe – XIe siècle apr. J.-C. (âge viking)</BF_Wedge.period>
+  <BF_Wedge.battles>Décrit dans les sagas et dans la Gesta Danorum de Saxo Grammaticus (écrite vers 1200)</BF_Wedge.battles>
+  <BF_Wedge.history>Le coin plaçait les combattants les plus forts et les mieux armés à la pointe, la formation s'élargissant derrière eux, pour percer une ligne ennemie en un seul point.\n\nSaxo Grammaticus raconte que le dieu Odin l'enseigna lui-même à des rois danois légendaires : deux hommes au premier rang, quatre au deuxième, huit au troisième. Saxo écrivit bien après l'âge viking, et les historiens débattent de la façon dont le svinfylking était réellement employé. Tacite écrivait plus de mille ans plus tôt que les tribus germaniques disposaient leurs lignes de bataille en coins.</BF_Wedge.history>
+
+  <BF_Schiltron.label>schiltron</BF_Schiltron.label>
+  <BF_Schiltron.description>Carré creux écossais de piques tourné vers toutes les directions, tireurs protégés à l'intérieur.</BF_Schiltron.description>
+  <BF_Schiltron.origin>Écosse, pendant les guerres d'indépendance de l'Écosse.</BF_Schiltron.origin>
+  <BF_Schiltron.period>Fin du XIIIe – XIVe siècle</BF_Schiltron.period>
+  <BF_Schiltron.battles>Falkirk (1298), Bannockburn (1314)</BF_Schiltron.battles>
+  <BF_Schiltron.history>Les lanciers écossais se serraient en blocs denses hérissés de longues lances pour arrêter la cavalerie lourde anglaise. Les schiltrons historiques étaient souvent ronds ou ovales ; ici, c'est un carré creux.\n\nÀ Falkirk, les schiltrons de William Wallace tinrent les chevaliers anglais en échec, mais furent usés par les archers, arbalétriers et frondeurs, puis écrasés. Seize ans plus tard, à Bannockburn, Robert Bruce utilisa des schiltrons pour attaquer et chassa l'armée d'Édouard II du champ de bataille.</BF_Schiltron.history>
+
+  <BF_Herse.label>herse</BF_Herse.label>
+  <BF_Herse.description>L'ordre anglais de Crécy et d'Azincourt. Les hommes d'armes tiennent le centre, les archers se placent sur les deux flancs, avancés en biais.</BF_Herse.description>
+  <BF_Herse.origin>Angleterre, guerre de Cent Ans. Le nom vient du chroniqueur Froissart : disposés « en herse ».</BF_Herse.origin>
+  <BF_Herse.period>XIVe – XVe siècle</BF_Herse.period>
+  <BF_Herse.battles>Crécy (1346), Poitiers (1356), Azincourt (1415)</BF_Herse.battles>
+  <BF_Herse.history>Froissart écrit qu'à Crécy les archers se tenaient « à la manière d'une herse », avec les hommes d'armes derrière eux. Ce qu'il voulait dire exactement est encore débattu. La lecture courante, qui s'accorde bien avec Azincourt : les Anglais combattaient à pied, les hommes d'armes démontés tenaient le centre, et les archers au long arc se tenaient sur les ailes, avancées en biais pour tirer dans les flancs d'une attaque. À Azincourt, des pieux aiguisés plantés dans le sol les protégeaient de la cavalerie.\n\nLes chevaliers français qui chargeaient le centre devaient d'abord traverser une tempête de flèches. Édouard III à Crécy et Henri V à Azincourt battirent ainsi des armées bien plus nombreuses.</BF_Herse.history>
+
+  <BF_Gewalthaufen.label>carré suisse (Gewalthaufen)</BF_Gewalthaufen.label>
+  <BF_Gewalthaufen.description>Carré de piquiers suisse. Un grand bloc de piques presque carré qui peut faire face dans toutes les directions, le reste de la mêlée derrière elles, les tireurs à l'arrière. La largeur dépend du nombre de soldats.</BF_Gewalthaufen.description>
+  <BF_Gewalthaufen.origin>Confédération suisse. « Gewalthaufen » était le nom du corps principal entre l'avant-garde (Vorhut) et l'arrière-garde (Nachhut). Copié plus tard par les lansquenets allemands.</BF_Gewalthaufen.origin>
+  <BF_Gewalthaufen.period>XVe – XVIe siècle</BF_Gewalthaufen.period>
+  <BF_Gewalthaufen.battles>Grandson (1476), Morat (1476), Nancy (1477), Marignan (1515)</BF_Gewalthaufen.battles>
+  <BF_Gewalthaufen.history>Les cantons suisses n'avaient presque pas de chevaliers ; ils combattaient donc en énormes blocs de piquiers et de hallebardiers, souvent forts de milliers d'hommes et presque carrés, pour pouvoir faire face de tous côtés. Au lieu d'attendre l'ennemi, les blocs marchaient vite et attaquaient.\n\nÀ Grandson, Morat et Nancy, les Suisses détruisirent l'armée de Charles le Téméraire, duc de Bourgogne, et pendant des décennies les mercenaires suisses furent l'infanterie la plus recherchée d'Europe. À Marignan, en 1515, l'artillerie et la cavalerie françaises montrèrent à quel point les grands carrés étaient devenus vulnérables.</BF_Gewalthaufen.history>
+
+  <BF_Tercio.label>tercio</BF_Tercio.label>
+  <BF_Tercio.description>Carré de piquiers espagnol avec les tireurs répartis en « manches » aux quatre coins. Les piques tiennent l'ennemi à distance, les coins tirent dans toutes les directions. La taille dépend du nombre de soldats.</BF_Tercio.description>
+  <BF_Tercio.origin>Espagne sous l'empereur Charles Quint, organisé dans les années 1530.</BF_Tercio.origin>
+  <BF_Tercio.period>XVIe – XVIIe siècle (époque moderne)</BF_Tercio.period>
+  <BF_Tercio.battles>Nördlingen (1634), Rocroi (1643)</BF_Tercio.battles>
+  <BF_Tercio.history>Un tercio associait un grand carré de piquiers au centre à des arquebusiers et mousquetaires en « manches » (mangas) à ses coins. Les piques tenaient la cavalerie à distance, tandis que les tireurs faisaient feu depuis les coins et pouvaient s'abriter sous les piques en cas de charge.\n\nPendant plus d'un siècle, les tercios espagnols passèrent pour la meilleure infanterie d'Europe. À Rocroi, en 1643, les Français les brisèrent, ce qui est souvent vu comme la fin de leur époque, bien que les tercios aient continué à combattre pendant des décennies.</BF_Tercio.history>
+
+  <BF_DoubleLine.label>double ligne</BF_DoubleLine.label>
+  <BF_DoubleLine.description>Exactement deux rangs : la mêlée en première ligne, les tireurs juste derrière tirant entre eux.</BF_DoubleLine.description>
+  <BF_DoubleLine.origin>Pratique courante de nombreuses armées ; la ligne standard de la fin de l'ère du mousquet.</BF_DoubleLine.origin>
+  <BF_DoubleLine.period>Toutes époques</BF_DoubleLine.period>
+  <BF_DoubleLine.battles>Balaklava (1854), la « mince ligne rouge »</BF_DoubleLine.battles>
+  <BF_DoubleLine.history>Deux rangs sont la ligne la moins profonde qui ait encore un soutien : le second rang peut combler les brèches et tirer ou frapper à côté du premier. Des archers derrière une ligne de boucliers ou de lances, c'est aussi vieux que la guerre elle-même.\n\nLes Britanniques rendirent célèbre la ligne sur deux rangs. À Balaklava, le 93e Highlanders se tint sur une ligne de deux hommes de profondeur seulement et repoussa la cavalerie russe : la « mince ligne rouge ».</BF_DoubleLine.history>
+
+  <BF_Column.label>colonne</BF_Column.label>
+  <BF_Column.description>Étroite colonne de marche, deux de front.</BF_Column.description>
+  <BF_Column.origin>Toute armée ayant jamais marché. L'ordre de marche romain (agmen) était strictement réglé.</BF_Column.origin>
+  <BF_Column.period>Toutes époques</BF_Column.period>
+  <BF_Column.battles>Lac Trasimène (217 av. J.-C.), forêt de Teutobourg (9 apr. J.-C.), deux embuscades en marche</BF_Column.battles>
+  <BF_Column.history>Les colonnes étroites se déplacent vite le long des routes, par les portes et entre les obstacles, et gardent une unité groupée. Leur faiblesse est le flanc : une armée surprise en colonne peut à peine se défendre. Hannibal au lac Trasimène et les tribus germaniques dans la forêt de Teutobourg détruisirent tous deux des armées romaines encore en marche.\n\nLes commandants déployaient donc la colonne en ligne avant une bataille.</BF_Column.history>
+
+  <BF_Skirmish.label>ligne dispersée</BF_Skirmish.label>
+  <BF_Skirmish.description>Une seule ligne lâche avec de larges intervalles contre les flèches et les explosions.</BF_Skirmish.description>
+  <BF_Skirmish.origin>Troupes légères : peltastes et psiloi grecs, vélites romains, plus tard l'infanterie légère.</BF_Skirmish.origin>
+  <BF_Skirmish.period>Toutes époques</BF_Skirmish.period>
+  <BF_Skirmish.battles>Léchaion (390 av. J.-C.)</BF_Skirmish.battles>
+  <BF_Skirmish.history>Des lignes lâches de tirailleurs harcelaient l'ennemi à coups de javelots, de frondes et d'arcs et évitaient le corps à corps. Dispersés, chaque flèche, pierre ou explosion touche moins d'hommes.\n\nÀ Léchaion, les peltastes du général athénien Iphicrate usèrent un régiment spartiate de 600 hoplites : ils lançaient leurs javelots et reculaient simplement chaque fois que l'infanterie lourde chargeait. Quand les hoplites athéniens s'y mirent, les Spartiates s'enfuirent après avoir perdu environ 250 hommes. Dans RimWorld, c'est la réponse aux grenades, aux mortiers et aux arcs en masse.</BF_Skirmish.history>
+
+  <BF_LAmbush.label>embuscade en L</BF_LAmbush.label>
+  <BF_LAmbush.description>Une longue ligne de tir de tireurs avec un court bras de mêlée avancé sur le flanc droit. Les ennemis devant sont pris sous le feu de deux côtés, le bras leur barre la route.</BF_LAmbush.description>
+  <BF_LAmbush.origin>Un schéma d'embuscade aussi vieux que la guerre ; une manœuvre standard des manuels d'infanterie modernes.</BF_LAmbush.origin>
+  <BF_LAmbush.period>Toutes époques</BF_LAmbush.period>
+  <BF_LAmbush.history>Le grand côté longe la route ou le chemin qu'emprunte l'ennemi, le petit côté en bloque l'extrémité. Quiconque entre dans la zone de mort est pris sous le feu de face et de flanc à la fois, et le petit côté l'empêche de simplement forcer le passage.\n\nDans RimWorld : placez-la pour que les pillards longent la grande ligne vers le bras, et mettez vos combattants de mêlée dans le bras.</BF_LAmbush.history>
+</LanguageData>

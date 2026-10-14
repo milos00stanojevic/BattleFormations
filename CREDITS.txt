@@ -1,0 +1,6 @@
+Battle Formations - by CICADRAZA
+
+Code, defs and the formation icon are original work for this mod.
+RimWorld is made by Ludeon Studios; this mod uses only the game's own API.
+
+License: MIT (see LICENSE.txt)

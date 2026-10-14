@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <BF_Phalanx.label>falanks</BF_Phalanx.label>
+  <BF_Phalanx.description>Yunan ve Makedon mızrak bloğu. Ön saflarda uzun mızraklar, arkalarında diğer yakın dövüşçüler, en arkada nişancılar.</BF_Phalanx.description>
+  <BF_Phalanx.origin>Yunan şehir devletleri (hoplitler). Makedon mızrak falanksını Makedonyalı II. Filip oluşturdu.</BF_Phalanx.origin>
+  <BF_Phalanx.period>y. MÖ 7. – 2. yüzyıl</BF_Phalanx.period>
+  <BF_Phalanx.battles>Maraton (MÖ 490), Gaugamela (MÖ 331), Kynoskephalai (MÖ 197)</BF_Phalanx.battles>
+  <BF_Phalanx.history>Yunan hoplitleri derin saflarda omuz omuza savaşırdı, her yuvarlak kalkan yanındakini kısmen korurdu. MÖ 359 civarında Makedonyalı II. Filip piyadesini yaklaşık beş ila yedi metre uzunluğundaki sarissa mızrağıyla donattı; böylece ilk beş safın mızrak uçları hattın önüne uzanıyordu. Oğlu Büyük İskender bununla Pers İmparatorluğu'nu fethetti.\n\nÖnden bakıldığında falanks neredeyse yenilmezdi, ama yavaştı, kanatlarda ve engebeli arazide zayıftı. Roma lejyonları Kynoskephalai ve Pydna'da tam da bundan yararlandı.</BF_Phalanx.history>
+
+  <BF_Quincunx.label>manipüller (quincunx)</BF_Quincunx.label>
+  <BF_Quincunx.description>Roma Cumhuriyeti'nin küçük birliklerden oluşan dama tahtası düzeni. Boşluklar, hattı bozmadan arkadaki birliklerin ilerlemesine ya da yorgun olanların geri çekilmesine izin verir.</BF_Quincunx.description>
+  <BF_Quincunx.origin>Roma Cumhuriyeti, muhtemelen Samnit Savaşları sırasında gelişti. Antik gelenek bunu kısmen Marcus Furius Camillus'a atfeder.</BF_Quincunx.origin>
+  <BF_Quincunx.period>y. MÖ 4. – 2. yüzyıl</BF_Quincunx.period>
+  <BF_Quincunx.battles>Sentinum (MÖ 295), Zama (MÖ 202)</BF_Quincunx.battles>
+  <BF_Quincunx.history>Samnitlerle dağlık arazide savaştıktan sonra Romalılar eski falankslarını yaklaşık 120 kişilik manipüllere ("avuç") böldü. Manipüller bir zarın beş noktası gibi kademeli dizilirdi: quincunx. Boşluklardan dinç birlikler ileri çıkabilir, yorgun olanlar geri çekilebilirdi.\n\nZama'da Scipio Africanus ise manipülleri arka arkaya dizerek açık koridorlar bıraktı; Hannibal'in savaş filleri bu koridorlardan pek zarar vermeden geçip gitti. MÖ 2. yüzyılın sonlarında daha büyük kohortlar manipüllerin yerini aldı; bu değişim geleneksel olarak Gaius Marius'un reformlarıyla ilişkilendirilir.</BF_Quincunx.history>
+
+  <BF_TriplexAcies.label>triplex acies</BF_TriplexAcies.label>
+  <BF_TriplexAcies.description>Aralarında boşluk olan üç Roma savaş hattı: önde kılıççılar, ortada nişancılar, arkada yedekte mızraklı kıdemliler.</BF_TriplexAcies.description>
+  <BF_TriplexAcies.origin>Roma ordusu: hastati, principes ve triarii. Daha sonra Marius ve Sezar tarafından kohortlarla kullanıldı.</BF_TriplexAcies.origin>
+  <BF_TriplexAcies.period>y. MÖ 4. yüzyıl – MS 3. yüzyıl</BF_TriplexAcies.period>
+  <BF_TriplexAcies.battles>Sezar'ın Galya seferleri, ör. Bibracte (MÖ 58)</BF_TriplexAcies.battles>
+  <BF_TriplexAcies.history>Romalılar üç hat (acies) halinde savaşırdı. Manipül ordusunda genç hastati önde, olgunluk çağındaki principes onların arkasında dururdu; uzun saplı mızraklarıyla kıdemli triarii ise en arkada yedekte beklerdi. Bir savaş kötü gittiğinde Romalılar "res ad triarios rediit" derdi: iş triarii'ye kaldı.\n\nSezar kohortlarla da üç hattı korudu: Ilerda'da her lejyonun dört kohortunu birinci hatta, üçünü ikinci hatta, üçünü de üçüncü hatta koydu; böylece her zaman dinç birlikler cepheyi rahatlatabiliyordu.</BF_TriplexAcies.history>
+
+  <BF_Testudo.label>testudo</BF_Testudo.label>
+  <BF_Testudo.description>Roma kaplumbağası. Tüm cephesi yakın dövüşçülerle kaplı küçük, sıkı bir blok.</BF_Testudo.description>
+  <BF_Testudo.origin>Büyük kavisli scutum kalkanlarını kullanan Roma lejyonerleri.</BF_Testudo.origin>
+  <BF_Testudo.period>y. MÖ 3. yüzyıl – MS 3. yüzyıl</BF_Testudo.period>
+  <BF_Testudo.battles>Marcus Antonius'un Part'tan geri çekilişi (MÖ 36), pek çok kuşatma</BF_Testudo.battles>
+  <BF_Testudo.history>Ön saf kalkanlarını öne, dış sıralar yanlara tutar, içerideki askerler de kalkanlarını başlarının üzerine kaldırırdı; böylece tüm birlik bir kaplumbağa kabuğu gibi örtülürdü. Kuşatmalarda surlara yaklaşmak ve ok ve taş yağmuru altında ilerlemek için kullanılırdı; Livius bundan MÖ 300 civarındaki Samnit Savaşları'nda bile söz eder.\n\nPlutarkhos ve Cassius Dio, Marcus Antonius'un lejyonerlerinin Part atlı okçularına karşı testudo oluşturduğunu anlatır. Kaplumbağa mermilere karşı korurdu, hücuma karşı değil; göğüs göğüse dövüşte ise yavaş ve hantaldı. Roma'daki Trajan Sütunu onu bugün hâlâ gösterir.</BF_Testudo.history>
+
+  <BF_Orbis.label>orbis</BF_Orbis.label>
+  <BF_Orbis.description>Kuşatıldığında kullanılan Roma çemberi. Yakın dövüşçüler ve mızraklar çemberde dışa bakar, nişancılar ortadan ateş eder.</BF_Orbis.description>
+  <BF_Orbis.origin>Roma ordusu, kuşatılmış birlikler için son çare.</BF_Orbis.origin>
+  <BF_Orbis.period>y. MÖ 1. yüzyıl – MS 3. yüzyıl</BF_Orbis.period>
+  <BF_Orbis.battles>Morinilere karşı (MÖ 55), Atuatuca (MÖ 54)</BF_Orbis.battles>
+  <BF_Orbis.history>Bir Roma birliği kuşatıldığında kalkanları dışa dönük bir halka oluştururdu; böylece hiçbir taraf saldırıya açık kalmazdı.\n\nSezar bunu Galya Savaşı'nda birkaç kez anlatır: Morinilerin pususuna düşen yaklaşık üç yüz asker, süvari kurtarmaya gelene kadar dört saatten fazla orbis içinde dayandı. Sabinus ve Cotta'nın birlikleri de Atuatuca'da bir çember kurdu, ama sonunda yok edildi. Orbis savaş kazandırmazdı; zaman kazandırırdı.</BF_Orbis.history>
+
+  <BF_Oblique.label>eğik düzen</BF_Oblique.label>
+  <BF_Oblique.description>Epaminondas'ın eğik hattı. Sol kanat önden gider, sağa doğru her sıra daha geride kalır; böylece güçlü kanat ilk vurur.</BF_Oblique.description>
+  <BF_Oblique.origin>Thebaili Epaminondas. Prusya Kralı Büyük Friedrich tarafından yeniden canlandırıldı.</BF_Oblique.origin>
+  <BF_Oblique.period>MÖ 4. yüzyıl, 18. yüzyılda yeniden</BF_Oblique.period>
+  <BF_Oblique.battles>Leuktra (MÖ 371), Mantineia (MÖ 362), Leuthen (1757)</BF_Oblique.battles>
+  <BF_Oblique.history>Yunan orduları en iyi birliklerini genellikle sağ kanada koyardı. Leuktra'da Epaminondas Thebailileri sol kanatta elli saf derinliğinde, Sparta kralı ve seçkinlerinin karşısında topladı ve daha zayıf sağ kanadını geride tuttu. Güçlü kanat ilk vurdu ve diğer hatlar daha karşılaşmadan Spartalıları kırdı. Sparta'nın yenilmezlik ünü böylece sona erdi.\n\nİki bin yıldan fazla sonra Büyük Friedrich eğik düzeni Leuthen'de yeniden ünlü yaptı.</BF_Oblique.history>
+
+  <BF_Crescent.label>hilal</BF_Crescent.label>
+  <BF_Crescent.description>Hannibal'in Cannae'deki hilali. Ortada öne doğru kavislenmiş iki saf, düşmanı sarmak için geride tutulan kanatlar.</BF_Crescent.description>
+  <BF_Crescent.origin>Kartacalı Hannibal Barca.</BF_Crescent.origin>
+  <BF_Crescent.period>MÖ 216, İkinci Pön Savaşı</BF_Crescent.period>
+  <BF_Crescent.battles>Cannae (MÖ 216)</BF_Crescent.battles>
+  <BF_Crescent.history>Cannae'de Hannibal çok daha büyük bir Roma ordusuyla karşılaştı. Galyalı ve İspanyol piyadesini düşmana doğru kavislenen ince bir hatta dizdi, kıdemli Afrikalı piyadesini ise iki uçta geride tuttu. Romalılar bastırınca hilal kırılmak yerine geriye doğru büküldü ve onları daha da içeri çekti. Sonra Afrikalılar kanatlardan içe döndü, süvari de çemberi arkadan kapattı.\n\nRoma ordusu neredeyse tamamen yok edildi. Cannae çifte kuşatmanın ders kitabı örneği oldu ve hâlâ askeri akademilerde öğretilir.</BF_Crescent.history>
+
+  <BF_Sparabara.label>sparabara</BF_Sparabara.label>
+  <BF_Sparabara.description>Pers kalkan duvarı. Önde büyük kalkanlı tek bir yakın dövüş safı, arkasında derin saflarda tüm nişancılar, üzerinden ateş ederek. Çok nişancısı olan koloniler için.</BF_Sparabara.description>
+  <BF_Sparabara.origin>Ahameniş Pers İmparatorluğu. "Sparabara" (kalkan taşıyıcılar) Eski Farsçadan yeniden kurulmuş modern bir addır; uzun hasır kalkanlar taşırlardı.</BF_Sparabara.origin>
+  <BF_Sparabara.period>y. MÖ 6. – 5. yüzyıl</BF_Sparabara.period>
+  <BF_Sparabara.battles>Plataia (MÖ 479), Mykale (MÖ 479)</BF_Sparabara.battles>
+  <BF_Sparabara.history>Pers piyadesinin ön safı uzun dikdörtgen hasır kalkanlar (spara) ve kısa mızraklar taşırdı. Kalkanları yan yana bir duvar gibi dikerlerdi, arkalarındaki okçular da üzerinden yaylım üstüne yaylım ateşlerdi. Tarihçiler on kişi derinliğinde birlikler yeniden kurar: dokuz okçunun önünde bir kalkan taşıyıcı.\n\nAsya ordularına karşı bu iyi işledi. Hızlı hücum edip göğüs göğüse dövüşen Yunan hoplitlerine karşı ise başarısız oldu: Herodotos, Plataia ve Mykale'de kalkan duvarının nasıl yarıldığını ve arkasındaki okçuların ağır piyadeye dayanamadığını anlatır.</BF_Sparabara.history>
+
+  <BF_ShieldWall.label>kalkan duvarı</BF_ShieldWall.label>
+  <BF_ShieldWall.description>Sakson ve İskandinav kalkan duvarı. Geniş, sığ bir hat: önde yakın dövüşçüler, üzerlerinden uzanan mızraklar, arkada nişancılar.</BF_ShieldWall.description>
+  <BF_ShieldWall.origin>Germen halkları, en çok Anglo-Saksonlar ve Vikinglerden bilinir.</BF_ShieldWall.origin>
+  <BF_ShieldWall.period>y. MS 5. – 11. yüzyıl</BF_ShieldWall.period>
+  <BF_ShieldWall.battles>Maldon (991), Stamford Bridge (1066), Hastings (1066)</BF_ShieldWall.battles>
+  <BF_ShieldWall.history>Savaşçılar yuvarlak kalkanları üst üste binecek şekilde sıkı dururdu, çoğu zaman birkaç saf derinliğinde; arkadakiler mızraklarını ön safın üzerinden saplardı. İtmek, saplamak ve hattı tutmak savaşı belirlerdi; duvar bir kez kırıldı mı savaş genellikle kaybedilmişti.\n\nHastings'te Kral Harold'un muhafızları (housecarl) tepedeki kalkan duvarını Norman şövalyelerine ve okçularına karşı günün büyük bölümünde tuttu. Tekrarlanan saldırıların kayıpları, İngiliz birliklerini yamaçtan aşağı çeken Norman sahte geri çekilmeleri ve sonunda Harold'un ölümü onu kırdı. Sahte geri çekilmelerin ne kadar önemli olduğu hâlâ tartışılıyor.</BF_ShieldWall.history>
+
+  <BF_Wedge.label>kama</BF_Wedge.label>
+  <BF_Wedge.description>Svinfylking, yaban domuzu başı. En güçlü yakın dövüşçülerin uçta durduğu sivri bir saldırı düzeni.</BF_Wedge.description>
+  <BF_Wedge.origin>İskandinav savaşçılar (svinfylking, "domuz düzeni"). Romalılar da Germen kabilelerinin kamalar (cuneus) halinde saldırdığını anlatır.</BF_Wedge.origin>
+  <BF_Wedge.period>y. MS 1. yüzyıl (Germenler), MS 8. – 11. yüzyıl (Viking Çağı)</BF_Wedge.period>
+  <BF_Wedge.battles>Sagalarda ve Saxo Grammaticus'un Gesta Danorum'unda (1200 civarında yazıldı) anlatılır</BF_Wedge.battles>
+  <BF_Wedge.history>Kama, en güçlü ve en iyi zırhlı savaşçıları uca koyar, düzen onların arkasında genişlerdi; amaç düşman hattını tek bir noktadan yarmaktı.\n\nSaxo Grammaticus, tanrı Odin'in bunu efsanevi Danimarka krallarına bizzat öğrettiğini anlatır: ilk safta iki, ikincide dört, üçüncüde sekiz kişi. Saxo Viking Çağı'ndan çok sonra yazdı ve tarihçiler svinfylking'in gerçekte nasıl kullanıldığını tartışır. Tacitus bin yıldan fazla önce Germen kabilelerinin savaş hatlarını kamalar halinde kurduğunu yazmıştı.</BF_Wedge.history>
+
+  <BF_Schiltron.label>schiltron</BF_Schiltron.label>
+  <BF_Schiltron.description>Her yöne bakan, içi boş İskoç mızrak karesi; nişancılar içeride korunur.</BF_Schiltron.description>
+  <BF_Schiltron.origin>İskoçya, İskoç Bağımsızlık Savaşları sırasında.</BF_Schiltron.origin>
+  <BF_Schiltron.period>13. yüzyıl sonu – 14. yüzyıl</BF_Schiltron.period>
+  <BF_Schiltron.battles>Falkirk (1298), Bannockburn (1314)</BF_Schiltron.battles>
+  <BF_Schiltron.history>İskoç mızrakçılar İngiliz ağır süvarisini durdurmak için uzun mızraklarla kirpi gibi donanmış sık bloklar halinde toplanırdı. Tarihi schiltronlar çoğunlukla yuvarlak ya da ovaldi; burada içi boş bir karedir.\n\nFalkirk'te William Wallace'ın schiltronları İngiliz şövalyelerini durdurdu, ama okçular, arbaletçiler ve sapancılar tarafından yıpratılıp ardından çiğnendi. On altı yıl sonra Bannockburn'de Robert the Bruce schiltronlarla saldırıya geçti ve II. Edward'ın ordusunu savaş alanından sürdü.</BF_Schiltron.history>
+
+  <BF_Herse.label>herse</BF_Herse.label>
+  <BF_Herse.description>Crécy ve Agincourt'un İngiliz düzeni. Zırhlı askerler merkezi tutar, okçular öne doğru açılı iki kanatta durur.</BF_Herse.description>
+  <BF_Herse.origin>İngiltere, Yüz Yıl Savaşları. Ad, vakanüvis Froissart'tan gelir: "tırmık gibi" dizilmiş.</BF_Herse.origin>
+  <BF_Herse.period>14. – 15. yüzyıl</BF_Herse.period>
+  <BF_Herse.battles>Crécy (1346), Poitiers (1356), Agincourt (1415)</BF_Herse.battles>
+  <BF_Herse.history>Froissart, Crécy'de okçuların "bir herse biçiminde" durduğunu, zırhlı askerlerin de arkalarında olduğunu yazar. Tam olarak ne demek istediği hâlâ tartışılıyor. Agincourt'a iyi uyan yaygın yorum şudur: İngilizler yaya savaştı, attan inmiş zırhlı askerler merkezi tuttu, uzun yaylı okçular ise saldırının kanatlarına ateş edebilmek için öne doğru açılı kanatlarda durdu. Agincourt'ta yere çakılmış sivri kazıklar onları süvariden korudu.\n\nMerkeze hücum eden Fransız şövalyeleri önce bir ok fırtınasının içinden geçmek zorundaydı. Crécy'de III. Edward ve Agincourt'ta V. Henry bu şekilde çok daha büyük orduları yendi.</BF_Herse.history>
+
+  <BF_Gewalthaufen.label>İsviçre karesi (Gewalthaufen)</BF_Gewalthaufen.label>
+  <BF_Gewalthaufen.description>İsviçre mızrak karesi. Her yöne dönebilen, neredeyse kare büyük bir mızrak bloğu; diğer yakın dövüşçüler arkalarında, nişancılar arkada. Genişlik asker sayısına göre belirlenir.</BF_Gewalthaufen.description>
+  <BF_Gewalthaufen.origin>İsviçre Konfederasyonu. "Gewalthaufen", öncü (Vorhut) ile artçı (Nachhut) arasındaki ana gövdenin adıydı. Daha sonra Alman Landsknechtleri tarafından taklit edildi.</BF_Gewalthaufen.origin>
+  <BF_Gewalthaufen.period>15. – 16. yüzyıl</BF_Gewalthaufen.period>
+  <BF_Gewalthaufen.battles>Grandson (1476), Murten (1476), Nancy (1477), Marignano (1515)</BF_Gewalthaufen.battles>
+  <BF_Gewalthaufen.history>İsviçre kantonlarının neredeyse hiç şövalyesi yoktu, bu yüzden çoğu zaman binlerce kişilik, her yöne dönebilmek için neredeyse kare biçimli devasa mızrakçı ve teberci blokları halinde savaştılar. Düşmanı beklemek yerine bloklar hızla yürüyüp saldırırdı.\n\nGrandson, Murten ve Nancy'de İsviçreliler Burgonya Dükü Cesur Charles'ın ordusunu yok etti ve onlarca yıl boyunca İsviçreli paralı askerler Avrupa'nın en çok aranan piyadesi oldu. 1515'te Marignano'da Fransız topçusu ve süvarisi büyük karelerin ne kadar savunmasız hale geldiğini gösterdi.</BF_Gewalthaufen.history>
+
+  <BF_Tercio.label>tercio</BF_Tercio.label>
+  <BF_Tercio.description>Nişancıların dört köşede "kollar" halinde bölündüğü İspanyol mızrak karesi. Mızraklar düşmanı uzak tutar, köşeler her yöne ateş eder. Boyut asker sayısına göre belirlenir.</BF_Tercio.description>
+  <BF_Tercio.origin>İmparator V. Karl döneminde İspanya, 1530'larda örgütlendi.</BF_Tercio.origin>
+  <BF_Tercio.period>16. – 17. yüzyıl (erken modern)</BF_Tercio.period>
+  <BF_Tercio.battles>Nördlingen (1634), Rocroi (1643)</BF_Tercio.battles>
+  <BF_Tercio.history>Bir tercio, merkezdeki büyük bir mızrakçı karesini köşelerdeki "kollarda" (mangas) bulunan arkebüzcüler ve tüfekçilerle birleştirirdi. Mızraklar süvariyi uzak tutar, nişancılar köşelerden ateş eder ve hücum edildiklerinde mızrakların altına sığınabilirdi.\n\nYüz yılı aşkın bir süre İspanyol tercioları Avrupa'nın en iyi piyadesi sayıldı. 1643'te Rocroi'da Fransızlar onları kırdı; bu genellikle dönemlerinin sonu olarak görülür, ama tercio'lar sonrasında onlarca yıl savaşmaya devam etti.</BF_Tercio.history>
+
+  <BF_DoubleLine.label>çift hat</BF_DoubleLine.label>
+  <BF_DoubleLine.description>Tam iki saf: ilk hatta yakın dövüşçüler, hemen arkalarında yanlarından ateş eden nişancılar.</BF_DoubleLine.description>
+  <BF_DoubleLine.origin>Pek çok ordunun ortak uygulaması; geç tüfek çağının standart hattı.</BF_DoubleLine.origin>
+  <BF_DoubleLine.period>Tüm çağlar</BF_DoubleLine.period>
+  <BF_DoubleLine.battles>Balaklava (1854), "ince kırmızı çizgi"</BF_DoubleLine.battles>
+  <BF_DoubleLine.history>İki saf, hâlâ desteği olan en sığ hattır: ikinci saf boşlukları doldurabilir ve birinci safın yanından ateş edebilir ya da vurabilir. Kalkan ya da mızrak hattının arkasındaki okçular savaşın kendisi kadar eskidir.\n\nİki saflı hattı İngilizler ünlü yaptı. Balaklava'da 93. Highlanders alayı yalnızca iki kişi derinliğinde bir hatta durdu ve Rus süvarisini püskürttü: "ince kırmızı çizgi".</BF_DoubleLine.history>
+
+  <BF_Column.label>kol</BF_Column.label>
+  <BF_Column.description>İkişerli dar yürüyüş kolu.</BF_Column.description>
+  <BF_Column.origin>Şimdiye kadar yürüyüş yapmış her ordu. Roma yürüyüş düzeni (agmen) sıkı kurallara bağlıydı.</BF_Column.origin>
+  <BF_Column.period>Tüm çağlar</BF_Column.period>
+  <BF_Column.battles>Trasimeno Gölü (MÖ 217), Teutoburg Ormanı (MS 9), ikisi de yürüyüşte pusu</BF_Column.battles>
+  <BF_Column.history>Dar kollar yollar boyunca, kapılardan ve engellerin arasından hızla ilerler ve birliği bir arada tutar. Zayıf yanları kanattır: kol halindeyken yakalanan bir ordu neredeyse karşılık veremez. Trasimeno Gölü'nde Hannibal da, Teutoburg Ormanı'nda Germen kabileleri de hâlâ yürüyüşte olan Roma ordularını yok etti.\n\nBu yüzden komutanlar savaştan önce kolu hatta açardı.</BF_Column.history>
+
+  <BF_Skirmish.label>dağınık hat</BF_Skirmish.label>
+  <BF_Skirmish.description>Oklara ve patlamalara karşı geniş aralıklı tek bir gevşek hat.</BF_Skirmish.description>
+  <BF_Skirmish.origin>Hafif birlikler: Yunan peltastları ve psiloi, Roma velitleri, sonraki hafif piyade.</BF_Skirmish.origin>
+  <BF_Skirmish.period>Tüm çağlar</BF_Skirmish.period>
+  <BF_Skirmish.battles>Lekhaion (MÖ 390)</BF_Skirmish.battles>
+  <BF_Skirmish.history>Gevşek avcı hatları düşmanı ciritler, sapanlar ve yaylarla taciz eder, yakın dövüşten kaçınırdı. Dağınık durunca her ok, taş ya da patlama daha az kişiye isabet eder.\n\nLekhaion'da Atinalı general İfikrates'in peltastları 600 hoplitlik bir Sparta birliğini yıprattı: ciritlerini attılar ve ağır piyade her hücum ettiğinde basitçe geri çekildiler. Atinalı hoplitler katılınca Spartalılar yaklaşık 250 adam kaybederek kaçtı. RimWorld'de bu, el bombalarına, havanlara ve toplu yaylara karşı cevaptır.</BF_Skirmish.history>
+
+  <BF_LAmbush.label>L-pusu</BF_LAmbush.label>
+  <BF_LAmbush.description>Uzun bir nişancı ateş hattı ve sağ kanatta öne uzanan kısa bir yakın dövüş kolu. Öndeki düşmanlar iki taraftan ateş yer, kol yollarını keser.</BF_LAmbush.description>
+  <BF_LAmbush.origin>Savaş kadar eski bir pusu kalıbı; modern piyade talimnamelerinde standart bir manevra.</BF_LAmbush.origin>
+  <BF_LAmbush.period>Tüm çağlar</BF_LAmbush.period>
+  <BF_LAmbush.history>Uzun kenar düşmanın geçtiği yol ya da patikaya paralel uzanır, kısa kenar onun sonunu kapatır. Ölüm bölgesine giren kişi aynı anda önden ve yandan vurulur, kısa kenar da öylece geçip gitmesini engeller.\n\nRimWorld'de: akıncılar uzun hat boyunca kola doğru yürüyecek şekilde yerleştir ve yakın dövüşçülerini kola koy.</BF_LAmbush.history>
+</LanguageData>

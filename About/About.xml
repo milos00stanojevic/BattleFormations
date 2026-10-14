@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>Battle Formations</name>
+  <author>CICADRAZA</author>
+  <packageId>cicadraza.battleformations</packageId>
+  <supportedVersions>
+    <li>1.6</li>
+  </supportedVersions>
+  <description>Ancient and medieval battle formations for drafted colonists.
+
+Draft your colonists (R), click the formation button and pick one of 18 historical formations:
+- Antiquity: phalanx, maniples (quincunx), triplex acies, testudo, orbis, oblique order, crescent, sparabara
+- Middle Ages: shield wall, wedge (svinfylking), schiltron, herse, Swiss square (Gewalthaufen), tercio
+- General: double line, column, scattered line, L-ambush
+
+Every formation fights differently: some hold their ground, some charge, relieve wounded front fighters, fall back as skirmishers or wait in ambush. No stat bonuses: a formation is just a formation. The info card shows the tactic and the history: origin, period and famous battles.
+
+Click to place, or drag to draw the front line (width and facing, 8 directions). Roles (pikes, melee, ranged) are assigned from the weapons and can be changed.
+
+Placed groups become regiments: a normal right-click move order marches the whole regiment in formation. Select regiments from the bar below the colonist bar or with F1-F5.
+
+Languages: English, German, French, Spanish, Portuguese, Italian, Polish, Turkish, Russian, Ukrainian, Chinese (Simplified and Traditional), Japanese, Korean.
+
+No dependencies. Safe to add to existing saves.</description>
+</ModMetaData>

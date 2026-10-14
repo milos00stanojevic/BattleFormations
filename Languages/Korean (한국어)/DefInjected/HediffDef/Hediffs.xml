@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <BF_MarchPace.label>진형 행군 중</BF_MarchPace.label>
+  <BF_MarchPace.description>진형이 흩어지지 않도록 연대에서 가장 느린 구성원의 속도에 맞춥니다. 도착하면 끝납니다.</BF_MarchPace.description>
+</LanguageData>

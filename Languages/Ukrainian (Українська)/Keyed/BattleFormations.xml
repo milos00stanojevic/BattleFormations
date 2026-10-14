@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <BF_Command>Стрій</BF_Command>
+  <BF_CommandDesc>Вишикувати вибраних призваних колоністів у бойовий стрій.</BF_CommandDesc>
+  <BF_DialogTitle>Бойовий стрій</BF_DialogTitle>
+  <BF_Width>Ширина</BF_Width>
+  <BF_Spacing>Інтервал</BF_Spacing>
+  <BF_Front>▲ Фронт</BF_Front>
+  <BF_Roles>Ролі</BF_Roles>
+  <BF_Place>Розмістити стрій</BF_Place>
+  <BF_PlaceHint>Клік: розмістити   Перетягування: провести лінію фронту   Q/E: повернути   ПКМ: скасувати</BF_PlaceHint>
+  <BF_Era_Antiquity>Античність</BF_Era_Antiquity>
+  <BF_Era_Medieval>Середньовіччя</BF_Era_Medieval>
+  <BF_Era_General>Загальне</BF_Era_General>
+  <BF_Hold>Тримати стрій</BF_Hold>
+  <BF_HoldDesc>Група стає полком. Звичайний наказ руху правою кнопкою миші веде весь полк маршем у строю.</BF_HoldDesc>
+  <BF_RolesButton>Ролі...</BF_RolesButton>
+  <BF_Regiment>Полк</BF_Regiment>
+  <BF_RegimentTip>Клік: вибрати (ще раз: перейти)   ПКМ: опції   Клавіша:</BF_RegimentTip>
+  <BF_HoldOn>Тримає стрій під час руху.</BF_HoldOn>
+  <BF_HoldOff>Не тримає стрій (*).</BF_HoldOff>
+  <BF_SetHoldOn>Тримати стрій</BF_SetHoldOn>
+  <BF_SetHoldOff>Не тримати стрій</BF_SetHoldOff>
+  <BF_DraftAll>Призвати всіх</BF_DraftAll>
+  <BF_Disband>Розпустити полк</BF_Disband>
+  <BF_Info>Історія та походження цього строю</BF_Info>
+  <BF_InfoOrigin>Походження</BF_InfoOrigin>
+  <BF_InfoPeriod>Період</BF_InfoPeriod>
+  <BF_InfoBattles>Відомі битви</BF_InfoBattles>
+  <BF_InfoTactic>Поведінка</BF_InfoTactic>
+  <BF_Tactic_Hold>Утримання</BF_Tactic_Hold>
+  <BF_Tactic_HoldDesc>стоїть на місці. Бійці, вибиті зі свого місця, повертаються на нього, коли поблизу немає ворогів.</BF_Tactic_HoldDesc>
+  <BF_Tactic_Relief>Зміна лінії</BF_Tactic_Relief>
+  <BF_Tactic_ReliefDesc>поранені бійці першого ряду міняються місцями зі здоровими із задніх рядів.</BF_Tactic_ReliefDesc>
+  <BF_Tactic_Charge>Атака</BF_Tactic_Charge>
+  <BF_Tactic_ChargeDesc>коли вороги підходять ближче ніж на 12 клітинок, усі бійці ближнього бою кидаються на найближчого ворога, потім повертаються у стрій.</BF_Tactic_ChargeDesc>
+  <BF_Tactic_WingCharge>Сильне крило</BF_Tactic_WingCharge>
+  <BF_Tactic_WingChargeDesc>коли вороги підходять ближче ніж на 12 клітинок, атакують лише бійці ближнього бою лівого крила; праве крило залишається на місці.</BF_Tactic_WingChargeDesc>
+  <BF_Tactic_Envelop>Оточення</BF_Tactic_Envelop>
+  <BF_Tactic_EnvelopDesc>коли вороги підходять ближче ніж на 12 клітинок, центр стоїть, а бійці ближнього бою на обох зовнішніх крилах атакують і замикають кільце.</BF_Tactic_EnvelopDesc>
+  <BF_Tactic_Skirmish>Розсипний бій</BF_Tactic_Skirmish>
+  <BF_Tactic_SkirmishDesc>стрільці відходять, коли ворог ближнього бою підходить ближче ніж на 5 клітинок, і пізніше повертаються в лінію.</BF_Tactic_SkirmishDesc>
+  <BF_Tactic_Ambush>Засідка</BF_Tactic_Ambush>
+  <BF_Tactic_AmbushDesc>усі тримають вогонь, доки ворог не підійде ближче ніж на 14 клітинок або когось не поранять, тоді всі разом відкривають вогонь. Увімкнення вільного вогню в одного бійця теж запускає засідку.</BF_Tactic_AmbushDesc>
+  <BF_AmbushSprung>Засідка спрацювала: {0} відкриває вогонь!</BF_AmbushSprung>
+  <BF_Role_Auto>Авто</BF_Role_Auto>
+  <BF_Role_Pike>Піка</BF_Role_Pike>
+  <BF_Role_Melee>Ближній бій</BF_Role_Melee>
+  <BF_Role_Ranged>Дальній бій</BF_Role_Ranged>
+</LanguageData>

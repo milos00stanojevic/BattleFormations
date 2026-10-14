@@ -1,0 +1,447 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+
+  <!--
+    rankOrder: which roles stand in front.
+    shape: Block, Wedge, Ring (hollow square), Circle (orbis), Checker (quincunx), Flanks (rearmost role on the wings).
+    fixedRanks: number of ranks is fixed (width follows). rankGap: empty cells between ranks.
+    echelon: step back per column (oblique). curve: center bulges forward (crescent).
+  -->
+
+  <BattleFormations.FormationDef Name="BF_FormationBase" Abstract="True">
+    <defaultSpacing>1</defaultSpacing>
+  </BattleFormations.FormationDef>
+
+  <!-- ===== Antiquity ===== -->
+
+  <BattleFormations.FormationDef ParentName="BF_FormationBase">
+    <defName>BF_Phalanx</defName>
+    <label>phalanx</label>
+    <description>Greek and Macedonian spear block. Pikes in the front ranks, other melee behind, ranged at the back.</description>
+    <origin>Greek city-states (hoplites). The Macedonian pike phalanx was created by Philip II of Macedon.</origin>
+    <period>c. 7th – 2nd century BC</period>
+    <battles>Marathon (490 BC), Gaugamela (331 BC), Cynoscephalae (197 BC)</battles>
+    <history>Greek hoplites fought shoulder to shoulder in deep ranks, each round shield partly covering the neighbour. Around 359 BC Philip II of Macedon armed his infantry with the sarissa, a pike about five to seven metres long, so that the points of the first five ranks reached out in front of the line. His son Alexander the Great conquered the Persian Empire with it.\n\nFrom the front the phalanx was almost unbeatable, but it was slow and weak on its flanks and on broken ground. The Roman legions exploited exactly that at Cynoscephalae and Pydna.</history>
+    <era>Antiquity</era>
+    <order>10</order>
+    <tactic>Hold</tactic>
+    <iconPath>UI/BattleFormations/Formations/Phalanx</iconPath>
+    <shape>Block</shape>
+    <defaultWidth>8</defaultWidth>
+    <rankOrder>
+      <li>Pike</li>
+      <li>Melee</li>
+      <li>Ranged</li>
+    </rankOrder>
+  </BattleFormations.FormationDef>
+
+  <BattleFormations.FormationDef ParentName="BF_FormationBase">
+    <defName>BF_Quincunx</defName>
+    <label>maniples (quincunx)</label>
+    <description>Roman republican checkerboard of small units. The gaps let rear units move up or tired ones fall back without breaking the line.</description>
+    <origin>Roman Republic, probably developed during the Samnite Wars. Ancient tradition partly credits Marcus Furius Camillus.</origin>
+    <period>c. 4th – 2nd century BC</period>
+    <battles>Sentinum (295 BC), Zama (202 BC)</battles>
+    <history>After fighting the Samnites in rough hill country, the Romans broke up their old phalanx into maniples ("handfuls") of about 120 men. The maniples stood staggered like the five dots on a die, the quincunx. Through the gaps fresh units could move forward and tired ones fall back.\n\nAt Zama, Scipio Africanus lined the maniples up one behind the other instead, leaving open lanes through which Hannibal's war elephants ran without doing much harm. By the late 2nd century BC larger cohorts had replaced the maniples, a change traditionally linked to the reforms of Gaius Marius.</history>
+    <era>Antiquity</era>
+    <order>12</order>
+    <tactic>Relief</tactic>
+    <iconPath>UI/BattleFormations/Formations/Quincunx</iconPath>
+    <shape>Checker</shape>
+    <defaultWidth>8</defaultWidth>
+    <rankOrder>
+      <li>Melee</li>
+      <li>Pike</li>
+      <li>Ranged</li>
+    </rankOrder>
+  </BattleFormations.FormationDef>
+
+  <BattleFormations.FormationDef ParentName="BF_FormationBase">
+    <defName>BF_TriplexAcies</defName>
+    <label>triplex acies</label>
+    <description>Three Roman battle lines with space between them: swordsmen in front, ranged in the middle, veteran spears in reserve at the back.</description>
+    <origin>Roman army: hastati, principes and triarii. Later used with cohorts by Marius and Caesar.</origin>
+    <period>c. 4th century BC – 3rd century AD</period>
+    <battles>Caesar's campaigns in Gaul, e.g. Bibracte (58 BC)</battles>
+    <history>The Romans fought in three lines (acies). In the manipular army the young hastati stood in front, the principes in their prime behind them, and the veteran triarii with their long thrusting spears waited in reserve at the back. When a battle went badly, Romans said "res ad triarios rediit": it has come down to the triarii.\n\nCaesar kept the three lines with cohorts: at Ilerda he put four cohorts of each legion in the first line, three in the second and three in the third, so fresh troops could always relieve the front.</history>
+    <era>Antiquity</era>
+    <order>14</order>
+    <tactic>Relief</tactic>
+    <iconPath>UI/BattleFormations/Formations/TriplexAcies</iconPath>
+    <shape>Block</shape>
+    <fixedRanks>3</fixedRanks>
+    <rankGap>2</rankGap>
+    <defaultWidth>8</defaultWidth>
+    <rankOrder>
+      <li>Melee</li>
+      <li>Ranged</li>
+      <li>Pike</li>
+    </rankOrder>
+  </BattleFormations.FormationDef>
+
+  <BattleFormations.FormationDef ParentName="BF_FormationBase">
+    <defName>BF_Testudo</defName>
+    <label>testudo</label>
+    <description>Roman tortoise. Small, tight block with melee all around the front.</description>
+    <origin>Roman legionaries, using their large curved scutum shields.</origin>
+    <period>c. 3rd century BC – 3rd century AD</period>
+    <battles>Mark Antony's retreat from Parthia (36 BC), many sieges</battles>
+    <history>The front rank held their shields forward, the outer files to the sides, and the men inside raised theirs over their heads, so the whole unit was covered like a tortoise shell. It was used to approach walls during sieges and to advance under arrows and stones; Livy mentions it as early as the Samnite Wars around 300 BC.\n\nPlutarch and Cassius Dio report that Mark Antony's legionaries formed testudos against the Parthian horse archers. The tortoise protected against missiles, not against a charge, and it was slow and clumsy in hand-to-hand fighting. Trajan's Column in Rome still shows it today.</history>
+    <era>Antiquity</era>
+    <order>16</order>
+    <tactic>Hold</tactic>
+    <iconPath>UI/BattleFormations/Formations/Testudo</iconPath>
+    <shape>Block</shape>
+    <defaultWidth>4</defaultWidth>
+    <rankOrder>
+      <li>Melee</li>
+      <li>Pike</li>
+      <li>Ranged</li>
+    </rankOrder>
+    <iconSample>
+      <li>4</li>
+      <li>8</li>
+      <li>4</li>
+    </iconSample>
+  </BattleFormations.FormationDef>
+
+  <BattleFormations.FormationDef ParentName="BF_FormationBase">
+    <defName>BF_Orbis</defName>
+    <label>orbis</label>
+    <description>Roman circle for when surrounded. Melee and spears face outward on the ring, ranged shoot from the middle.</description>
+    <origin>Roman army, as a last resort for units that were cut off.</origin>
+    <period>c. 1st century BC – 3rd century AD</period>
+    <battles>Against the Morini (55 BC), Atuatuca (54 BC)</battles>
+    <history>When a Roman unit was surrounded, it formed a ring with the shields facing outward, so no side was open to attack.\n\nCaesar describes it several times in his Gallic War: about three hundred soldiers ambushed by the Morini held out in an orbis for more than four hours until the cavalry came to their rescue. The troops of Sabinus and Cotta at Atuatuca formed one as well, but were destroyed in the end. The orbis did not win battles; it bought time.</history>
+    <era>Antiquity</era>
+    <order>18</order>
+    <tactic>Hold</tactic>
+    <iconPath>UI/BattleFormations/Formations/Orbis</iconPath>
+    <shape>Circle</shape>
+    <defaultWidth>6</defaultWidth>
+    <rankOrder>
+      <li>Melee</li>
+      <li>Pike</li>
+      <li>Ranged</li>
+    </rankOrder>
+  </BattleFormations.FormationDef>
+
+  <BattleFormations.FormationDef ParentName="BF_FormationBase">
+    <defName>BF_Oblique</defName>
+    <label>oblique order</label>
+    <description>Epaminondas' oblique line. The left wing leads, every file further right hangs back, so the strong wing strikes first.</description>
+    <origin>Epaminondas of Thebes. Revived by Frederick the Great of Prussia.</origin>
+    <period>4th century BC, again in the 18th century</period>
+    <battles>Leuctra (371 BC), Mantinea (362 BC), Leuthen (1757)</battles>
+    <history>Greek armies usually put their best troops on the right wing. At Leuctra, Epaminondas massed his Thebans fifty ranks deep on the left wing, facing the Spartan king and his elite, and held his weaker right wing back. The strong wing struck first and broke the Spartans before the rest of the lines even met. It ended Sparta's reputation of being invincible.\n\nMore than two thousand years later Frederick the Great made the oblique order famous again at Leuthen.</history>
+    <era>Antiquity</era>
+    <order>20</order>
+    <tactic>WingCharge</tactic>
+    <iconPath>UI/BattleFormations/Formations/Oblique</iconPath>
+    <shape>Block</shape>
+    <echelon>0.5</echelon>
+    <defaultWidth>10</defaultWidth>
+    <rankOrder>
+      <li>Pike</li>
+      <li>Melee</li>
+      <li>Ranged</li>
+    </rankOrder>
+    <iconSample>
+      <li>10</li>
+      <li>0</li>
+      <li>10</li>
+    </iconSample>
+  </BattleFormations.FormationDef>
+
+  <BattleFormations.FormationDef ParentName="BF_FormationBase">
+    <defName>BF_Crescent</defName>
+    <label>crescent</label>
+    <description>Hannibal's crescent at Cannae. Two ranks bowed forward in the center, the flanks held back to close in on the enemy.</description>
+    <origin>Hannibal Barca of Carthage.</origin>
+    <period>216 BC, Second Punic War</period>
+    <battles>Cannae (216 BC)</battles>
+    <history>At Cannae Hannibal faced a much larger Roman army. He placed his Gallic and Spanish infantry in a thin line bowed toward the enemy and kept his veteran African infantry back on both ends. As the Romans pushed, the crescent bent backwards instead of breaking and drew them deeper in. Then the Africans turned inward on the flanks and the cavalry closed the ring from behind.\n\nThe Roman army was almost annihilated. Cannae became the textbook example of a double envelopment and is still taught at military academies.</history>
+    <era>Antiquity</era>
+    <order>22</order>
+    <tactic>Envelop</tactic>
+    <iconPath>UI/BattleFormations/Formations/Crescent</iconPath>
+    <shape>Block</shape>
+    <fixedRanks>2</fixedRanks>
+    <curve>3</curve>
+    <defaultWidth>12</defaultWidth>
+    <rankOrder>
+      <li>Melee</li>
+      <li>Pike</li>
+      <li>Ranged</li>
+    </rankOrder>
+  </BattleFormations.FormationDef>
+
+  <BattleFormations.FormationDef ParentName="BF_FormationBase">
+    <defName>BF_Sparabara</defName>
+    <label>sparabara</label>
+    <description>Persian shield wall. One rank of melee with big shields in front, all ranged in deep ranks behind, shooting over them. Made for colonies with many shooters.</description>
+    <origin>Achaemenid Persian Empire. "Sparabara" (shield bearers) is a modern name reconstructed from Old Persian; they carried tall wicker shields.</origin>
+    <period>c. 6th – 5th century BC</period>
+    <battles>Plataea (479 BC), Mycale (479 BC)</battles>
+    <history>The front rank of Persian infantry carried tall rectangular wicker shields (spara) and short spears. They planted the shields side by side as a wall, and the archers behind them shot volley after volley over it. Historians reconstruct units ten men deep: one shield bearer in front of nine archers.\n\nAgainst the armies of Asia this worked well. Against Greek hoplites who charged fast and fought hand to hand it failed: Herodotus tells how at Plataea and Mycale the wall of shields was broken, and the archers behind it could not stand up to the heavy infantry.</history>
+    <era>Antiquity</era>
+    <order>24</order>
+    <tactic>Hold</tactic>
+    <iconPath>UI/BattleFormations/Formations/Sparabara</iconPath>
+    <shape>Block</shape>
+    <defaultWidth>10</defaultWidth>
+    <rankOrder>
+      <li>Melee</li>
+      <li>Pike</li>
+      <li>Ranged</li>
+    </rankOrder>
+    <iconSample>
+      <li>0</li>
+      <li>10</li>
+      <li>30</li>
+    </iconSample>
+  </BattleFormations.FormationDef>
+
+  <!-- ===== Middle Ages ===== -->
+
+  <BattleFormations.FormationDef ParentName="BF_FormationBase">
+    <defName>BF_ShieldWall</defName>
+    <label>shield wall</label>
+    <description>Saxon and Norse shield wall. Wide, shallow line, melee in front, spears reaching over them, ranged behind.</description>
+    <origin>Germanic peoples, best known from the Anglo-Saxons and the Vikings.</origin>
+    <period>c. 5th – 11th century AD</period>
+    <battles>Maldon (991), Stamford Bridge (1066), Hastings (1066)</battles>
+    <history>Warriors stood close together with overlapping round shields, often several ranks deep, while the men behind thrust their spears over the front rank. Pushing, stabbing and holding the line decided the fight; once the wall broke, the battle was usually lost.\n\nAt Hastings, King Harold's housecarls held their shield wall on the hill against Norman knights and archers for most of the day. Losses from repeated attacks, Norman feigned flights that lured English troops down the slope, and finally Harold's death broke it. How much the feigned flights mattered is still debated.</history>
+    <era>Medieval</era>
+    <order>30</order>
+    <tactic>Hold</tactic>
+    <iconPath>UI/BattleFormations/Formations/ShieldWall</iconPath>
+    <shape>Block</shape>
+    <defaultWidth>12</defaultWidth>
+    <rankOrder>
+      <li>Melee</li>
+      <li>Pike</li>
+      <li>Ranged</li>
+    </rankOrder>
+  </BattleFormations.FormationDef>
+
+  <BattleFormations.FormationDef ParentName="BF_FormationBase">
+    <defName>BF_Wedge</defName>
+    <label>wedge</label>
+    <description>Svinfylking, the boar's head. Pointed attack formation with the strongest melee fighters at the tip.</description>
+    <origin>Norse warriors (svinfylking, "swine array"). The Romans already describe Germanic tribes attacking in wedges (cuneus).</origin>
+    <period>c. 1st century AD (Germanic), 8th – 11th century AD (Viking Age)</period>
+    <battles>Described in the sagas and in Saxo Grammaticus' Gesta Danorum (written around 1200)</battles>
+    <history>The wedge put the strongest, best-armoured fighters at the tip, with the formation widening behind them, to break through an enemy line at a single point.\n\nSaxo Grammaticus tells that the god Odin himself taught it to legendary Danish kings: two men in the first row, four in the second, eight in the third. Saxo wrote long after the Viking Age, and historians debate how the svinfylking was really used. Tacitus wrote over a thousand years earlier that the Germanic tribes drew up their battle lines in wedges.</history>
+    <era>Medieval</era>
+    <order>32</order>
+    <tactic>Charge</tactic>
+    <iconPath>UI/BattleFormations/Formations/Wedge</iconPath>
+    <shape>Wedge</shape>
+    <defaultWidth>9</defaultWidth>
+    <rankOrder>
+      <li>Melee</li>
+      <li>Pike</li>
+      <li>Ranged</li>
+    </rankOrder>
+  </BattleFormations.FormationDef>
+
+  <BattleFormations.FormationDef ParentName="BF_FormationBase">
+    <defName>BF_Schiltron</defName>
+    <label>schiltron</label>
+    <description>Scottish hollow square of pikes facing every direction, ranged protected inside.</description>
+    <origin>Scotland, during the Wars of Scottish Independence.</origin>
+    <period>Late 13th – 14th century</period>
+    <battles>Falkirk (1298), Bannockburn (1314)</battles>
+    <history>Scottish spearmen packed themselves into dense blocks bristling with long spears to stop English heavy cavalry. Historical schiltrons were often round or oval; here it is a hollow square.\n\nAt Falkirk, William Wallace's schiltrons held off the English knights, but were worn down by archers, crossbowmen and slingers and then ridden down. Sixteen years later at Bannockburn, Robert the Bruce used schiltrons to attack and drove the army of Edward II from the field.</history>
+    <era>Medieval</era>
+    <order>34</order>
+    <tactic>Hold</tactic>
+    <iconPath>UI/BattleFormations/Formations/Schiltron</iconPath>
+    <shape>Ring</shape>
+    <defaultWidth>5</defaultWidth>
+    <rankOrder>
+      <li>Pike</li>
+      <li>Melee</li>
+      <li>Ranged</li>
+    </rankOrder>
+    <iconSample>
+      <li>8</li>
+      <li>4</li>
+      <li>4</li>
+    </iconSample>
+  </BattleFormations.FormationDef>
+
+  <BattleFormations.FormationDef ParentName="BF_FormationBase">
+    <defName>BF_Herse</defName>
+    <label>herse</label>
+    <description>English order of Crécy and Agincourt. Men-at-arms hold the center, the archers stand on both flanks, angled forward.</description>
+    <origin>England, Hundred Years' War. The name comes from the chronicler Froissart: arranged "like a harrow".</origin>
+    <period>14th – 15th century</period>
+    <battles>Crécy (1346), Poitiers (1356), Agincourt (1415)</battles>
+    <history>Froissart writes that at Crécy the archers stood "in the manner of a herse", with the men-at-arms behind them. What exactly he meant is still debated. The common reading, which fits Agincourt well: the English fought on foot, dismounted men-at-arms held the center, and the longbowmen stood on the wings, angled forward so they could shoot into the flanks of an attack. At Agincourt sharpened stakes driven into the ground protected them from cavalry.\n\nFrench knights charging the center first had to ride through a storm of arrows. Edward III at Crécy and Henry V at Agincourt beat much larger armies this way.</history>
+    <era>Medieval</era>
+    <order>36</order>
+    <tactic>Hold</tactic>
+    <iconPath>UI/BattleFormations/Formations/Herse</iconPath>
+    <shape>Flanks</shape>
+    <defaultWidth>6</defaultWidth>
+    <rankOrder>
+      <li>Melee</li>
+      <li>Pike</li>
+      <li>Ranged</li>
+    </rankOrder>
+  </BattleFormations.FormationDef>
+
+  <BattleFormations.FormationDef ParentName="BF_FormationBase">
+    <defName>BF_Gewalthaufen</defName>
+    <label>Swiss square (Gewalthaufen)</label>
+    <description>Swiss pike square. A big, almost square block of pikes that can face any direction, other melee behind them, ranged at the back. The width follows the number of soldiers.</description>
+    <origin>Swiss Confederacy. "Gewalthaufen" was the name of the main body between vanguard (Vorhut) and rearguard (Nachhut). Later copied by the German Landsknechts.</origin>
+    <period>15th – 16th century</period>
+    <battles>Grandson (1476), Murten (1476), Nancy (1477), Marignano (1515)</battles>
+    <history>The Swiss cantons had hardly any knights, so they fought in huge blocks of pikemen and halberdiers, often thousands of men strong and almost square, so they could turn to face any side. Instead of waiting for the enemy, the blocks marched fast and attacked.\n\nAt Grandson, Murten and Nancy the Swiss destroyed the army of Charles the Bold of Burgundy, and for decades Swiss mercenaries were the most sought-after infantry in Europe. At Marignano in 1515 French artillery and cavalry showed how vulnerable the great squares had become.</history>
+    <era>Medieval</era>
+    <order>38</order>
+    <tactic>Charge</tactic>
+    <iconPath>UI/BattleFormations/Formations/Gewalthaufen</iconPath>
+    <shape>Block</shape>
+    <square>true</square>
+    <defaultWidth>6</defaultWidth>
+    <rankOrder>
+      <li>Pike</li>
+      <li>Melee</li>
+      <li>Ranged</li>
+    </rankOrder>
+    <iconSample>
+      <li>24</li>
+      <li>6</li>
+      <li>6</li>
+    </iconSample>
+  </BattleFormations.FormationDef>
+
+  <BattleFormations.FormationDef ParentName="BF_FormationBase">
+    <defName>BF_Tercio</defName>
+    <label>tercio</label>
+    <description>Spanish pike square with the ranged split into "sleeves" at all four corners. The pikes keep enemies off, the corners shoot in every direction. The size follows the number of soldiers.</description>
+    <origin>Spain under Emperor Charles V, organised in the 1530s.</origin>
+    <period>16th – 17th century (early modern)</period>
+    <battles>Nördlingen (1634), Rocroi (1643)</battles>
+    <history>A tercio combined a large square of pikemen in the center with arquebusiers and musketeers in "sleeves" (mangas) at its corners. The pikes kept cavalry at bay, while the shooters fired from the corners and could take cover under the pikes when charged.\n\nFor more than a century the Spanish tercios counted as the best infantry in Europe. At Rocroi in 1643 the French broke them, which is often seen as the end of their era, although tercios kept fighting for decades after.</history>
+    <era>Medieval</era>
+    <order>40</order>
+    <tactic>Hold</tactic>
+    <iconPath>UI/BattleFormations/Formations/Tercio</iconPath>
+    <shape>Tercio</shape>
+    <square>true</square>
+    <defaultWidth>6</defaultWidth>
+    <rankOrder>
+      <li>Pike</li>
+      <li>Melee</li>
+      <li>Ranged</li>
+    </rankOrder>
+    <iconSample>
+      <li>16</li>
+      <li>0</li>
+      <li>16</li>
+    </iconSample>
+  </BattleFormations.FormationDef>
+
+  <!-- ===== General ===== -->
+
+  <BattleFormations.FormationDef ParentName="BF_FormationBase">
+    <defName>BF_DoubleLine</defName>
+    <label>double line</label>
+    <description>Exactly two ranks: melee in the first line, ranged right behind them shooting past.</description>
+    <origin>Common practice of many armies; the standard line of the late musket era.</origin>
+    <period>All eras</period>
+    <battles>Balaclava (1854), the "thin red line"</battles>
+    <history>Two ranks are the shallowest line that still has a backup: the second rank can step into gaps and shoot or strike past the first. Archers behind a line of shields or spears are as old as warfare itself.\n\nThe British made the two-deep line famous. At Balaclava the 93rd Highlanders stood in a line only two men deep and drove off Russian cavalry: the "thin red line".</history>
+    <order>50</order>
+    <tactic>Hold</tactic>
+    <iconPath>UI/BattleFormations/Formations/DoubleLine</iconPath>
+    <shape>Block</shape>
+    <fixedRanks>2</fixedRanks>
+    <defaultWidth>10</defaultWidth>
+    <rankOrder>
+      <li>Pike</li>
+      <li>Melee</li>
+      <li>Ranged</li>
+    </rankOrder>
+  </BattleFormations.FormationDef>
+
+  <BattleFormations.FormationDef ParentName="BF_FormationBase">
+    <defName>BF_Column</defName>
+    <label>column</label>
+    <description>Narrow marching column, two abreast.</description>
+    <origin>Every army that ever marched. The Roman marching order (agmen) was strictly regulated.</origin>
+    <period>All eras</period>
+    <battles>Lake Trasimene (217 BC), Teutoburg Forest (AD 9), both ambushes on the march</battles>
+    <history>Narrow columns move fast along roads, through gates and between obstacles, and keep a unit together. Their weakness is the flank: an army caught in column can hardly fight back. Hannibal at Lake Trasimene and the Germanic tribes in the Teutoburg Forest both destroyed Roman armies that were still on the march.\n\nCommanders therefore deployed from column into line before a battle.</history>
+    <order>52</order>
+    <tactic>Hold</tactic>
+    <iconPath>UI/BattleFormations/Formations/Column</iconPath>
+    <shape>Block</shape>
+    <defaultWidth>2</defaultWidth>
+    <rankOrder>
+      <li>Melee</li>
+      <li>Pike</li>
+      <li>Ranged</li>
+    </rankOrder>
+  </BattleFormations.FormationDef>
+
+  <BattleFormations.FormationDef ParentName="BF_FormationBase">
+    <defName>BF_Skirmish</defName>
+    <label>scattered line</label>
+    <description>A single loose line with wide gaps against arrows and explosions.</description>
+    <origin>Light troops: Greek peltasts and psiloi, Roman velites, later light infantry.</origin>
+    <period>All eras</period>
+    <battles>Lechaeum (390 BC)</battles>
+    <history>Loose lines of skirmishers harassed the enemy with javelins, slings and bows and avoided close combat. Spread out, every arrow, stone or blast hits fewer men.\n\nAt Lechaeum the peltasts of the Athenian general Iphicrates wore down a Spartan regiment of 600 hoplites: they threw their javelins and simply fell back whenever the heavy infantry charged. When Athenian hoplites joined in, the Spartans fled, having lost about 250 men. In RimWorld it is the answer to grenades, mortars and massed bows.</history>
+    <order>54</order>
+    <tactic>Skirmish</tactic>
+    <iconPath>UI/BattleFormations/Formations/Scattered</iconPath>
+    <shape>Block</shape>
+    <fixedRanks>1</fixedRanks>
+    <defaultWidth>10</defaultWidth>
+    <defaultSpacing>3</defaultSpacing>
+    <rankOrder>
+      <li>Ranged</li>
+      <li>Melee</li>
+      <li>Pike</li>
+    </rankOrder>
+  </BattleFormations.FormationDef>
+
+  <BattleFormations.FormationDef ParentName="BF_FormationBase">
+    <defName>BF_LAmbush</defName>
+    <label>L-ambush</label>
+    <description>A long firing line of ranged with a short arm of melee reaching forward on the right flank. Enemies in front take fire from two sides, the arm blocks their way.</description>
+    <origin>An ambush pattern as old as warfare; a standard drill in modern infantry manuals.</origin>
+    <period>All eras</period>
+    <history>The long leg lies parallel to the road or path the enemy takes, the short leg blocks its end. Whoever walks into the kill zone is hit from the front and the flank at the same time, and the short leg stops them from simply pushing through.\n\nIn RimWorld: place it so raiders walk along the long line toward the arm, and put your melee fighters in the arm.</history>
+    <order>56</order>
+    <tactic>Ambush</tactic>
+    <iconPath>UI/BattleFormations/Formations/LAmbush</iconPath>
+    <shape>LShape</shape>
+    <defaultWidth>10</defaultWidth>
+    <rankOrder>
+      <li>Ranged</li>
+      <li>Pike</li>
+      <li>Melee</li>
+    </rankOrder>
+    <iconSample>
+      <li>0</li>
+      <li>4</li>
+      <li>10</li>
+    </iconSample>
+  </BattleFormations.FormationDef>
+
+  <JobDef>
+    <defName>BF_TakeFormationPosition</defName>
+    <driverClass>BattleFormations.JobDriver_TakeFormationPosition</driverClass>
+    <reportString>taking formation position.</reportString>
+    <casualInterruptible>false</casualInterruptible>
+    <alwaysShowWeapon>true</alwaysShowWeapon>
+  </JobDef>
+
+</Defs>

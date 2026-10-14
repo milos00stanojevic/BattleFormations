@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <BF_Phalanx.label>falange</BF_Phalanx.label>
+  <BF_Phalanx.description>Blocco di lance greco e macedone. Picche nelle prime file, il resto della mischia dietro, i tiratori in fondo.</BF_Phalanx.description>
+  <BF_Phalanx.origin>Città-stato greche (opliti). La falange di picchieri macedone fu creata da Filippo II di Macedonia.</BF_Phalanx.origin>
+  <BF_Phalanx.period>c. VII – II secolo a.C.</BF_Phalanx.period>
+  <BF_Phalanx.battles>Maratona (490 a.C.), Gaugamela (331 a.C.), Cinoscefale (197 a.C.)</BF_Phalanx.battles>
+  <BF_Phalanx.history>Gli opliti greci combattevano spalla a spalla in file profonde, ogni scudo rotondo copriva in parte il vicino. Verso il 359 a.C. Filippo II di Macedonia armò la sua fanteria con la sarissa, una picca lunga circa da cinque a sette metri, così che le punte delle prime cinque file sporgevano davanti alla linea. Suo figlio Alessandro Magno conquistò con essa l'Impero persiano.\n\nDi fronte la falange era quasi imbattibile, ma era lenta e debole sui fianchi e su terreno accidentato. Le legioni romane sfruttarono proprio questo a Cinoscefale e a Pidna.</BF_Phalanx.history>
+
+  <BF_Quincunx.label>manipoli (quincunx)</BF_Quincunx.label>
+  <BF_Quincunx.description>Scacchiera di piccole unità della Repubblica romana. I varchi permettono alle unità di retroguardia di avanzare o a quelle stanche di ritirarsi senza spezzare la linea.</BF_Quincunx.description>
+  <BF_Quincunx.origin>Repubblica romana, probabilmente sviluppata durante le guerre sannitiche. La tradizione antica la attribuisce in parte a Marco Furio Camillo.</BF_Quincunx.origin>
+  <BF_Quincunx.period>c. IV – II secolo a.C.</BF_Quincunx.period>
+  <BF_Quincunx.battles>Sentino (295 a.C.), Zama (202 a.C.)</BF_Quincunx.battles>
+  <BF_Quincunx.history>Dopo aver combattuto i Sanniti su terreno montuoso, i Romani divisero la loro vecchia falange in manipoli («manciate») di circa 120 uomini. I manipoli erano sfalsati come i cinque punti di un dado: il quincunx. Attraverso i varchi, unità fresche potevano avanzare e quelle stanche ritirarsi.\n\nA Zama Scipione l'Africano allineò invece i manipoli uno dietro l'altro, lasciando corridoi aperti attraverso cui gli elefanti da guerra di Annibale passarono senza fare molti danni. Alla fine del II secolo a.C. coorti più grandi avevano sostituito i manipoli, un cambiamento tradizionalmente legato alle riforme di Gaio Mario.</BF_Quincunx.history>
+
+  <BF_TriplexAcies.label>triplex acies</BF_TriplexAcies.label>
+  <BF_TriplexAcies.description>Tre linee di battaglia romane distanziate: spadaccini davanti, tiratori al centro, lancieri veterani di riserva in fondo.</BF_TriplexAcies.description>
+  <BF_TriplexAcies.origin>Esercito romano: hastati, principes e triarii. Poi usata con le coorti da Mario e Cesare.</BF_TriplexAcies.origin>
+  <BF_TriplexAcies.period>c. IV secolo a.C. – III secolo d.C.</BF_TriplexAcies.period>
+  <BF_TriplexAcies.battles>Campagne di Cesare in Gallia, ad es. Bibracte (58 a.C.)</BF_TriplexAcies.battles>
+  <BF_TriplexAcies.history>I Romani combattevano su tre linee (acies). Nell'esercito manipolare i giovani hastati stavano davanti, i principes nel fiore degli anni dietro di loro, e i veterani triarii con le loro lunghe lance attendevano di riserva in fondo. Quando una battaglia andava male, i Romani dicevano «res ad triarios rediit»: si è arrivati ai triari.\n\nCesare mantenne le tre linee con le coorti: a Ilerda schierò quattro coorti di ogni legione in prima linea, tre in seconda e tre in terza, così che truppe fresche potessero sempre dare il cambio al fronte.</BF_TriplexAcies.history>
+
+  <BF_Testudo.label>testuggine</BF_Testudo.label>
+  <BF_Testudo.description>La testuggine romana. Blocco piccolo e compatto con la mischia lungo tutto il fronte.</BF_Testudo.description>
+  <BF_Testudo.origin>Legionari romani, con i loro grandi scudi ricurvi (scutum).</BF_Testudo.origin>
+  <BF_Testudo.period>c. III secolo a.C. – III secolo d.C.</BF_Testudo.period>
+  <BF_Testudo.battles>Ritirata di Marco Antonio dalla Partia (36 a.C.), molti assedi</BF_Testudo.battles>
+  <BF_Testudo.history>La prima fila teneva gli scudi in avanti, le file esterne ai lati, e gli uomini all'interno li alzavano sopra la testa, così che l'intera unità era coperta come dal guscio di una tartaruga. Si usava per avvicinarsi alle mura durante gli assedi e per avanzare sotto frecce e pietre; Livio la menziona già nelle guerre sannitiche, verso il 300 a.C.\n\nPlutarco e Cassio Dione riferiscono che i legionari di Marco Antonio formarono testuggini contro gli arcieri a cavallo parti. La testuggine proteggeva dai proiettili, non da una carica, ed era lenta e goffa nel corpo a corpo. La Colonna Traiana a Roma la mostra ancora oggi.</BF_Testudo.history>
+
+  <BF_Orbis.label>orbis</BF_Orbis.label>
+  <BF_Orbis.description>Cerchio romano per quando si è circondati. Mischia e lance rivolte verso l'esterno sull'anello, i tiratori sparano dal centro.</BF_Orbis.description>
+  <BF_Orbis.origin>Esercito romano, come ultima risorsa per le unità isolate.</BF_Orbis.origin>
+  <BF_Orbis.period>c. I secolo a.C. – III secolo d.C.</BF_Orbis.period>
+  <BF_Orbis.battles>Contro i Morini (55 a.C.), Atuatuca (54 a.C.)</BF_Orbis.battles>
+  <BF_Orbis.history>Quando un'unità romana era circondata, formava un anello con gli scudi rivolti verso l'esterno, così che nessun lato restasse scoperto.\n\nCesare lo descrive più volte nel De bello Gallico: circa trecento soldati caduti in un'imboscata dei Morini resistettero in orbis per più di quattro ore finché la cavalleria non venne in loro soccorso. Anche le truppe di Sabino e Cotta ad Atuatuca ne formarono uno, ma alla fine furono annientate. L'orbis non vinceva le battaglie; faceva guadagnare tempo.</BF_Orbis.history>
+
+  <BF_Oblique.label>ordine obliquo</BF_Oblique.label>
+  <BF_Oblique.description>La linea obliqua di Epaminonda. L'ala sinistra avanza per prima, ogni fila più a destra resta indietro, così l'ala forte colpisce per prima.</BF_Oblique.description>
+  <BF_Oblique.origin>Epaminonda di Tebe. Ripreso da Federico il Grande di Prussia.</BF_Oblique.origin>
+  <BF_Oblique.period>IV secolo a.C., di nuovo nel XVIII secolo</BF_Oblique.period>
+  <BF_Oblique.battles>Leuttra (371 a.C.), Mantinea (362 a.C.), Leuthen (1757)</BF_Oblique.battles>
+  <BF_Oblique.history>Gli eserciti greci mettevano di solito le truppe migliori sull'ala destra. A Leuttra Epaminonda ammassò i suoi Tebani su cinquanta file di profondità sull'ala sinistra, di fronte al re spartano e alla sua élite, e trattenne la più debole ala destra. L'ala forte colpì per prima e spezzò gli Spartani prima ancora che il resto delle linee venisse a contatto. Così finì la fama di invincibilità di Sparta.\n\nPiù di duemila anni dopo, Federico il Grande rese di nuovo famoso l'ordine obliquo a Leuthen.</BF_Oblique.history>
+
+  <BF_Crescent.label>mezzaluna</BF_Crescent.label>
+  <BF_Crescent.description>La mezzaluna di Annibale a Canne. Due file incurvate in avanti al centro, i fianchi arretrati per chiudersi sul nemico.</BF_Crescent.description>
+  <BF_Crescent.origin>Annibale Barca di Cartagine.</BF_Crescent.origin>
+  <BF_Crescent.period>216 a.C., seconda guerra punica</BF_Crescent.period>
+  <BF_Crescent.battles>Canne (216 a.C.)</BF_Crescent.battles>
+  <BF_Crescent.history>A Canne Annibale affrontò un esercito romano molto più grande. Schierò la fanteria gallica e iberica in una linea sottile incurvata verso il nemico e tenne indietro la sua veterana fanteria africana a entrambe le estremità. Quando i Romani spinsero, la mezzaluna si piegò all'indietro invece di spezzarsi e li attirò più in profondità. Allora gli Africani si voltarono verso l'interno sui fianchi e la cavalleria chiuse l'anello da dietro.\n\nL'esercito romano fu quasi annientato. Canne divenne l'esempio da manuale del doppio accerchiamento ed è ancora insegnata nelle accademie militari.</BF_Crescent.history>
+
+  <BF_Sparabara.label>sparabara</BF_Sparabara.label>
+  <BF_Sparabara.description>Muro di scudi persiano. Una fila di mischia con grandi scudi davanti, tutti i tiratori in file profonde dietro, che sparano sopra di loro. Pensato per colonie con molti tiratori.</BF_Sparabara.description>
+  <BF_Sparabara.origin>Impero persiano achemenide. «Sparabara» (portatori di scudo) è un nome moderno ricostruito dall'antico persiano; portavano alti scudi di vimini.</BF_Sparabara.origin>
+  <BF_Sparabara.period>c. VI – V secolo a.C.</BF_Sparabara.period>
+  <BF_Sparabara.battles>Platea (479 a.C.), Micale (479 a.C.)</BF_Sparabara.battles>
+  <BF_Sparabara.history>La prima fila della fanteria persiana portava alti scudi rettangolari di vimini (spara) e lance corte. Piantavano gli scudi uno accanto all'altro come un muro, e gli arcieri dietro tiravano sopra di esso una raffica dopo l'altra. Gli storici ricostruiscono unità profonde dieci uomini: un portatore di scudo davanti a nove arcieri.\n\nContro gli eserciti dell'Asia funzionava bene. Contro gli opliti greci, che caricavano rapidi e combattevano corpo a corpo, fallì: Erodoto racconta come a Platea e a Micale il muro di scudi venne sfondato e gli arcieri dietro non riuscirono a reggere la fanteria pesante.</BF_Sparabara.history>
+
+  <BF_ShieldWall.label>muro di scudi</BF_ShieldWall.label>
+  <BF_ShieldWall.description>Muro di scudi sassone e norreno. Linea larga e poco profonda, mischia davanti, lance sopra di loro, tiratori dietro.</BF_ShieldWall.description>
+  <BF_ShieldWall.origin>Popoli germanici, noto soprattutto presso Anglosassoni e Vichinghi.</BF_ShieldWall.origin>
+  <BF_ShieldWall.period>c. V – XI secolo d.C.</BF_ShieldWall.period>
+  <BF_ShieldWall.battles>Maldon (991), Stamford Bridge (1066), Hastings (1066)</BF_ShieldWall.battles>
+  <BF_ShieldWall.history>I guerrieri stavano stretti con gli scudi rotondi sovrapposti, spesso su più file, mentre quelli dietro colpivano con le lance sopra la prima fila. Spingere, colpire e tenere la linea decidevano lo scontro; una volta rotto il muro, la battaglia era di solito persa.\n\nA Hastings gli housecarl di re Aroldo tennero il loro muro di scudi sulla collina contro cavalieri e arcieri normanni per gran parte della giornata. Le perdite degli attacchi ripetuti, le finte ritirate normanne che attirarono truppe inglesi giù per il pendio e infine la morte di Aroldo lo spezzarono. Quanto contassero le finte ritirate è ancora dibattuto.</BF_ShieldWall.history>
+
+  <BF_Wedge.label>cuneo</BF_Wedge.label>
+  <BF_Wedge.description>Svinfylking, la testa di cinghiale. Formazione d'attacco a punta con i combattenti in mischia più forti sulla punta.</BF_Wedge.description>
+  <BF_Wedge.origin>Guerrieri norreni (svinfylking, «schieramento a maiale»). Già i Romani descrivono tribù germaniche che attaccano a cuneo (cuneus).</BF_Wedge.origin>
+  <BF_Wedge.period>c. I secolo d.C. (Germani), VIII – XI secolo d.C. (età vichinga)</BF_Wedge.period>
+  <BF_Wedge.battles>Descritto nelle saghe e nei Gesta Danorum di Saxo Grammatico (scritti verso il 1200)</BF_Wedge.battles>
+  <BF_Wedge.history>Il cuneo metteva i combattenti più forti e meglio corazzati sulla punta, con la formazione che si allargava dietro di loro, per sfondare una linea nemica in un solo punto.\n\nSaxo Grammatico racconta che fu il dio Odino in persona a insegnarlo a leggendari re danesi: due uomini in prima fila, quattro in seconda, otto in terza. Saxo scrisse molto dopo l'età vichinga, e gli storici discutono su come lo svinfylking fosse davvero usato. Tacito scriveva più di mille anni prima che le tribù germaniche disponevano le loro linee di battaglia a cuneo.</BF_Wedge.history>
+
+  <BF_Schiltron.label>schiltron</BF_Schiltron.label>
+  <BF_Schiltron.description>Quadrato cavo scozzese di picche rivolto in ogni direzione, tiratori protetti all'interno.</BF_Schiltron.description>
+  <BF_Schiltron.origin>Scozia, durante le guerre d'indipendenza scozzesi.</BF_Schiltron.origin>
+  <BF_Schiltron.period>Fine XIII – XIV secolo</BF_Schiltron.period>
+  <BF_Schiltron.battles>Falkirk (1298), Bannockburn (1314)</BF_Schiltron.battles>
+  <BF_Schiltron.history>I lancieri scozzesi si serravano in blocchi densi irti di lunghe lance per fermare la cavalleria pesante inglese. Gli schiltron storici erano spesso rotondi o ovali; qui è un quadrato cavo.\n\nA Falkirk gli schiltron di William Wallace tennero a bada i cavalieri inglesi, ma furono logorati da arcieri, balestrieri e frombolieri e poi travolti. Sedici anni dopo, a Bannockburn, Robert Bruce usò gli schiltron per attaccare e cacciò dal campo l'esercito di Edoardo II.</BF_Schiltron.history>
+
+  <BF_Herse.label>herse</BF_Herse.label>
+  <BF_Herse.description>L'ordine inglese di Crécy e Azincourt. Gli uomini d'arme tengono il centro, gli arcieri stanno su entrambi i fianchi, avanzati in diagonale.</BF_Herse.description>
+  <BF_Herse.origin>Inghilterra, guerra dei Cent'anni. Il nome viene dal cronista Froissart: disposti «come un erpice».</BF_Herse.origin>
+  <BF_Herse.period>XIV – XV secolo</BF_Herse.period>
+  <BF_Herse.battles>Crécy (1346), Poitiers (1356), Azincourt (1415)</BF_Herse.battles>
+  <BF_Herse.history>Froissart scrive che a Crécy gli arcieri stavano «alla maniera di una herse», con gli uomini d'arme dietro di loro. Cosa intendesse esattamente è ancora dibattuto. La lettura comune, che si adatta bene ad Azincourt: gli Inglesi combatterono a piedi, gli uomini d'arme appiedati tennero il centro e gli arcieri con l'arco lungo stavano sulle ali, avanzate in diagonale per tirare sui fianchi di un attacco. Ad Azincourt pali appuntiti piantati nel terreno li proteggevano dalla cavalleria.\n\nI cavalieri francesi che caricavano il centro dovevano prima attraversare una tempesta di frecce. Edoardo III a Crécy ed Enrico V ad Azincourt sconfissero così eserciti molto più grandi.</BF_Herse.history>
+
+  <BF_Gewalthaufen.label>quadrato svizzero (Gewalthaufen)</BF_Gewalthaufen.label>
+  <BF_Gewalthaufen.description>Quadrato di picchieri svizzero. Un grande blocco di picche quasi quadrato che può fronteggiare ogni direzione, il resto della mischia dietro di loro, i tiratori dietro. La larghezza dipende dal numero di soldati.</BF_Gewalthaufen.description>
+  <BF_Gewalthaufen.origin>Confederazione svizzera. «Gewalthaufen» era il nome del corpo principale tra avanguardia (Vorhut) e retroguardia (Nachhut). In seguito copiato dai lanzichenecchi tedeschi.</BF_Gewalthaufen.origin>
+  <BF_Gewalthaufen.period>XV – XVI secolo</BF_Gewalthaufen.period>
+  <BF_Gewalthaufen.battles>Grandson (1476), Morat (1476), Nancy (1477), Marignano (1515)</BF_Gewalthaufen.battles>
+  <BF_Gewalthaufen.history>I cantoni svizzeri non avevano quasi cavalieri, quindi combattevano in enormi blocchi di picchieri e alabardieri, spesso di migliaia di uomini e quasi quadrati, per poter fronteggiare qualsiasi lato. Invece di aspettare il nemico, i blocchi marciavano veloci e attaccavano.\n\nA Grandson, Morat e Nancy gli Svizzeri distrussero l'esercito di Carlo il Temerario di Borgogna, e per decenni i mercenari svizzeri furono la fanteria più ricercata d'Europa. A Marignano, nel 1515, l'artiglieria e la cavalleria francesi mostrarono quanto fossero diventati vulnerabili i grandi quadrati.</BF_Gewalthaufen.history>
+
+  <BF_Tercio.label>tercio</BF_Tercio.label>
+  <BF_Tercio.description>Quadrato di picchieri spagnolo con i tiratori divisi in «maniche» ai quattro angoli. Le picche tengono lontano il nemico, gli angoli sparano in ogni direzione. La dimensione dipende dal numero di soldati.</BF_Tercio.description>
+  <BF_Tercio.origin>Spagna sotto l'imperatore Carlo V, organizzato negli anni 1530.</BF_Tercio.origin>
+  <BF_Tercio.period>XVI – XVII secolo (prima età moderna)</BF_Tercio.period>
+  <BF_Tercio.battles>Nördlingen (1634), Rocroi (1643)</BF_Tercio.battles>
+  <BF_Tercio.history>Un tercio univa un grande quadrato di picchieri al centro con archibugieri e moschettieri in «maniche» (mangas) agli angoli. Le picche tenevano a bada la cavalleria, mentre i tiratori sparavano dagli angoli e potevano ripararsi sotto le picche quando venivano caricati.\n\nPer più di un secolo i tercios spagnoli furono considerati la migliore fanteria d'Europa. A Rocroi, nel 1643, i Francesi li spezzarono, il che è spesso visto come la fine della loro epoca, anche se i tercios continuarono a combattere per decenni.</BF_Tercio.history>
+
+  <BF_DoubleLine.label>doppia linea</BF_DoubleLine.label>
+  <BF_DoubleLine.description>Esattamente due file: mischia in prima linea, tiratori subito dietro che sparano di lato.</BF_DoubleLine.description>
+  <BF_DoubleLine.origin>Pratica comune di molti eserciti; la linea standard della tarda età del moschetto.</BF_DoubleLine.origin>
+  <BF_DoubleLine.period>Tutte le epoche</BF_DoubleLine.period>
+  <BF_DoubleLine.battles>Balaklava (1854), la «sottile linea rossa»</BF_DoubleLine.battles>
+  <BF_DoubleLine.history>Due file sono la linea meno profonda che abbia ancora un sostegno: la seconda fila può colmare i varchi e sparare o colpire a lato della prima. Arcieri dietro una linea di scudi o lance sono antichi quanto la guerra stessa.\n\nI Britannici resero famosa la linea su due file. A Balaklava il 93° Highlanders si schierò su una linea profonda solo due uomini e respinse la cavalleria russa: la «sottile linea rossa».</BF_DoubleLine.history>
+
+  <BF_Column.label>colonna</BF_Column.label>
+  <BF_Column.description>Stretta colonna di marcia, due per fila.</BF_Column.description>
+  <BF_Column.origin>Ogni esercito che abbia mai marciato. L'ordine di marcia romano (agmen) era rigidamente regolato.</BF_Column.origin>
+  <BF_Column.period>Tutte le epoche</BF_Column.period>
+  <BF_Column.battles>Lago Trasimeno (217 a.C.), foresta di Teutoburgo (9 d.C.), entrambe imboscate in marcia</BF_Column.battles>
+  <BF_Column.history>Le colonne strette si muovono veloci lungo le strade, attraverso le porte e tra gli ostacoli, e tengono unita un'unità. Il loro punto debole è il fianco: un esercito sorpreso in colonna riesce a stento a reagire. Annibale al Lago Trasimeno e le tribù germaniche nella foresta di Teutoburgo distrussero eserciti romani ancora in marcia.\n\nPer questo i comandanti dispiegavano la colonna in linea prima di una battaglia.</BF_Column.history>
+
+  <BF_Skirmish.label>linea sparsa</BF_Skirmish.label>
+  <BF_Skirmish.description>Un'unica linea rada con ampi intervalli contro frecce ed esplosioni.</BF_Skirmish.description>
+  <BF_Skirmish.origin>Truppe leggere: peltasti e psiloi greci, veliti romani, più tardi la fanteria leggera.</BF_Skirmish.origin>
+  <BF_Skirmish.period>Tutte le epoche</BF_Skirmish.period>
+  <BF_Skirmish.battles>Lecheo (390 a.C.)</BF_Skirmish.battles>
+  <BF_Skirmish.history>Linee rade di schermagliatori molestavano il nemico con giavellotti, fionde e archi ed evitavano il corpo a corpo. Sparpagliati, ogni freccia, pietra o esplosione colpisce meno uomini.\n\nA Lecheo i peltasti del generale ateniese Ificrate logorarono un reggimento spartano di 600 opliti: lanciavano i giavellotti e semplicemente si ritiravano ogni volta che la fanteria pesante caricava. Quando si unirono gli opliti ateniesi, gli Spartani fuggirono dopo aver perso circa 250 uomini. In RimWorld è la risposta a granate, mortai e archi in massa.</BF_Skirmish.history>
+
+  <BF_LAmbush.label>imboscata a L</BF_LAmbush.label>
+  <BF_LAmbush.description>Una lunga linea di fuoco di tiratori con un corto braccio di mischia proteso in avanti sul fianco destro. I nemici davanti finiscono sotto il fuoco da due lati, il braccio sbarra loro la strada.</BF_LAmbush.description>
+  <BF_LAmbush.origin>Uno schema d'imboscata antico quanto la guerra; manovra standard nei moderni manuali di fanteria.</BF_LAmbush.origin>
+  <BF_LAmbush.period>Tutte le epoche</BF_LAmbush.period>
+  <BF_LAmbush.history>Il lato lungo corre parallelo alla strada o al sentiero percorso dal nemico, il lato corto ne blocca la fine. Chi entra nella zona di fuoco viene colpito contemporaneamente di fronte e di fianco, e il lato corto gli impedisce di aprirsi semplicemente un varco.\n\nIn RimWorld: posizionala in modo che i predoni avanzino lungo la linea lunga verso il braccio, e metti i tuoi combattenti in mischia nel braccio.</BF_LAmbush.history>
+</LanguageData>

@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <BF_Phalanx.label>方阵</BF_Phalanx.label>
+  <BF_Phalanx.description>希腊与马其顿的长矛方阵。长枪在前排，其他近战在后，远程在最后。</BF_Phalanx.description>
+  <BF_Phalanx.origin>希腊城邦（重装步兵）。马其顿长枪方阵由马其顿的腓力二世创立。</BF_Phalanx.origin>
+  <BF_Phalanx.period>约公元前7世纪至前2世纪</BF_Phalanx.period>
+  <BF_Phalanx.battles>马拉松（前490年）、高加米拉（前331年）、库诺斯克法莱（前197年）</BF_Phalanx.battles>
+  <BF_Phalanx.history>希腊重装步兵肩并肩排成纵深很大的队列，每面圆盾都部分掩护着身旁的战友。约公元前359年，马其顿的腓力二世为步兵配备了萨里沙长枪，长约五到七米，使前五排的枪尖都能伸到阵线之前。他的儿子亚历山大大帝凭此征服了波斯帝国。\n\n从正面看，方阵几乎不可战胜，但它行动缓慢，侧翼和崎岖地形是其弱点。罗马军团在库诺斯克法莱和皮德纳正是利用了这一点。</BF_Phalanx.history>
+
+  <BF_Quincunx.label>中队（梅花阵）</BF_Quincunx.label>
+  <BF_Quincunx.description>罗马共和国的小队棋盘阵。空隙让后方部队可以上前、疲惫的部队可以后撤，而不会打乱阵线。</BF_Quincunx.description>
+  <BF_Quincunx.origin>罗马共和国，可能形成于萨姆尼特战争期间。古代传说将其部分归功于马库斯·弗里乌斯·卡米卢斯。</BF_Quincunx.origin>
+  <BF_Quincunx.period>约公元前4世纪至前2世纪</BF_Quincunx.period>
+  <BF_Quincunx.battles>森提努姆（前295年）、扎马（前202年）</BF_Quincunx.battles>
+  <BF_Quincunx.history>在山地与萨姆尼特人作战后，罗马人把旧方阵拆分为约120人的中队（"一把"之意）。各中队像骰子上的五个点一样交错排列，即梅花阵。新锐部队可以从空隙中上前，疲惫的部队则可以后撤。\n\n在扎马，西庇阿·阿非利加努斯反而将中队前后对齐排列，留出通道，让汉尼拔的战象从中穿过而没造成多大伤害。到公元前2世纪末，更大的步兵大队取代了中队，这一变化传统上与盖乌斯·马略的改革联系在一起。</BF_Quincunx.history>
+
+  <BF_TriplexAcies.label>三线阵</BF_TriplexAcies.label>
+  <BF_TriplexAcies.description>三条罗马战线，彼此留有间隔：剑士在前，远程居中，持矛老兵在后方预备。</BF_TriplexAcies.description>
+  <BF_TriplexAcies.origin>罗马军队：青年兵、壮年兵与后备兵。后来马略和恺撒以大队编成沿用。</BF_TriplexAcies.origin>
+  <BF_TriplexAcies.period>约公元前4世纪至公元3世纪</BF_TriplexAcies.period>
+  <BF_TriplexAcies.battles>恺撒的高卢战役，例如比布拉克特（前58年）</BF_TriplexAcies.battles>
+  <BF_TriplexAcies.history>罗马人分三线（acies）作战。在中队制军队中，年轻的青年兵站在最前，正值壮年的壮年兵在其后，手持长刺矛的老兵后备兵在最后方待命。战局不利时，罗马人会说"res ad triarios rediit"：轮到后备兵了。\n\n恺撒在大队制下保留了三线：在伊莱尔达，他让每个军团以四个大队站第一线，三个站第二线，三个站第三线，这样总有生力军可以替换前线。</BF_TriplexAcies.history>
+
+  <BF_Testudo.label>龟甲阵</BF_Testudo.label>
+  <BF_Testudo.description>罗马龟甲阵。小而紧密的方块，正面全是近战。</BF_Testudo.description>
+  <BF_Testudo.origin>罗马军团士兵，使用他们巨大的弧形长方盾（scutum）。</BF_Testudo.origin>
+  <BF_Testudo.period>约公元前3世纪至公元3世纪</BF_Testudo.period>
+  <BF_Testudo.battles>马克·安东尼从帕提亚撤退（前36年），以及许多围城战</BF_Testudo.battles>
+  <BF_Testudo.history>前排将盾牌向前举起，外侧纵列举向两侧，内部的士兵将盾牌举过头顶，整支部队就像被龟甲覆盖一样。它用于围城时接近城墙，以及在箭矢和石块下推进；李维早在约公元前300年的萨姆尼特战争中就提到过它。\n\n普鲁塔克和卡西乌斯·狄奥记载，马克·安东尼的军团士兵曾结成龟甲阵对抗帕提亚骑射手。龟甲阵能防御投射物，却挡不住冲锋，在肉搏中也迟缓笨拙。罗马的图拉真柱至今仍刻有它的形象。</BF_Testudo.history>
+
+  <BF_Orbis.label>圆阵</BF_Orbis.label>
+  <BF_Orbis.description>罗马被包围时的圆阵。近战与长枪在环上朝外，远程从中间射击。</BF_Orbis.description>
+  <BF_Orbis.origin>罗马军队，被切断的部队最后的手段。</BF_Orbis.origin>
+  <BF_Orbis.period>约公元前1世纪至公元3世纪</BF_Orbis.period>
+  <BF_Orbis.battles>对抗莫里尼人（前55年）、阿杜亚都卡（前54年）</BF_Orbis.battles>
+  <BF_Orbis.history>罗马部队被包围时，会结成盾牌朝外的圆环，使任何一面都不暴露在攻击之下。\n\n恺撒在《高卢战记》中多次描述过它：约三百名遭莫里尼人伏击的士兵结成圆阵坚守了四个多小时，直到骑兵前来救援。萨比努斯和科塔的部队在阿杜亚都卡也结成了圆阵，但最终仍被歼灭。圆阵赢不了战斗，它争取的是时间。</BF_Orbis.history>
+
+  <BF_Oblique.label>斜线阵</BF_Oblique.label>
+  <BF_Oblique.description>伊巴密浓达的斜线阵。左翼领先，越往右的纵列越靠后，因此强翼最先出击。</BF_Oblique.description>
+  <BF_Oblique.origin>底比斯的伊巴密浓达。由普鲁士的腓特烈大帝复兴。</BF_Oblique.origin>
+  <BF_Oblique.period>公元前4世纪，18世纪再次出现</BF_Oblique.period>
+  <BF_Oblique.battles>留克特拉（前371年）、曼丁尼亚（前362年）、洛伊滕（1757年）</BF_Oblique.battles>
+  <BF_Oblique.history>希腊军队通常把最精锐的部队放在右翼。在留克特拉，伊巴密浓达将底比斯人在左翼排成五十排纵深，正对斯巴达国王及其精锐，同时让较弱的右翼按兵不动。强翼率先出击，在其余战线交锋之前就击溃了斯巴达人。斯巴达不可战胜的名声就此终结。\n\n两千多年后，腓特烈大帝在洛伊滕让斜线阵再次闻名于世。</BF_Oblique.history>
+
+  <BF_Crescent.label>新月阵</BF_Crescent.label>
+  <BF_Crescent.description>汉尼拔在坎尼的新月阵。中央两排向前凸出，两翼后缩以便合围敌人。</BF_Crescent.description>
+  <BF_Crescent.origin>迦太基的汉尼拔·巴卡。</BF_Crescent.origin>
+  <BF_Crescent.period>公元前216年，第二次布匿战争</BF_Crescent.period>
+  <BF_Crescent.battles>坎尼（前216年）</BF_Crescent.battles>
+  <BF_Crescent.history>在坎尼，汉尼拔面对的是一支规模大得多的罗马军队。他把高卢和西班牙步兵排成一条向敌方凸出的薄线，把久经沙场的非洲步兵留在两端后方。罗马人向前推进时，新月阵没有断裂，而是向后弯曲，把他们引得更深。随后非洲步兵从两翼向内转，骑兵从后方封闭了包围圈。\n\n罗马军队几乎全军覆没。坎尼成为双重包围的教科书范例，至今仍在军事院校中讲授。</BF_Crescent.history>
+
+  <BF_Sparabara.label>盾墙弓阵</BF_Sparabara.label>
+  <BF_Sparabara.description>波斯盾墙。前方一排持大盾的近战，所有远程在其后排成纵深队列，越过盾墙射击。适合射手众多的殖民地。</BF_Sparabara.description>
+  <BF_Sparabara.origin>阿契美尼德波斯帝国。"Sparabara"（持盾者）是根据古波斯语复原的现代名称；他们手持高大的柳条盾。</BF_Sparabara.origin>
+  <BF_Sparabara.period>约公元前6世纪至前5世纪</BF_Sparabara.period>
+  <BF_Sparabara.battles>普拉提亚（前479年）、米卡勒（前479年）</BF_Sparabara.battles>
+  <BF_Sparabara.history>波斯步兵的第一排手持高大的长方形柳条盾（spara）和短矛。他们把盾牌并排插在地上组成一道墙，后方的弓箭手越过盾墙一轮接一轮地齐射。历史学家复原出十人纵深的单位：一名持盾者在前，九名弓箭手在后。\n\n对付亚洲的军队，这很有效。但面对迅速冲锋、短兵相接的希腊重装步兵就失败了：希罗多德记载，在普拉提亚和米卡勒，盾墙被冲破，后面的弓箭手抵挡不住重步兵。</BF_Sparabara.history>
+
+  <BF_ShieldWall.label>盾墙</BF_ShieldWall.label>
+  <BF_ShieldWall.description>撒克逊与北欧盾墙。宽而浅的阵线，近战在前，长矛从他们上方伸出，远程在后。</BF_ShieldWall.description>
+  <BF_ShieldWall.origin>日耳曼诸民族，以盎格鲁-撒克逊人和维京人最为著名。</BF_ShieldWall.origin>
+  <BF_ShieldWall.period>约公元5世纪至11世纪</BF_ShieldWall.period>
+  <BF_ShieldWall.battles>莫尔登（991年）、斯坦福桥（1066年）、黑斯廷斯（1066年）</BF_ShieldWall.battles>
+  <BF_ShieldWall.history>战士们紧靠在一起，圆盾相互交叠，常常有好几排纵深，后排的人越过前排刺出长矛。推挤、刺杀和守住阵线决定胜负；盾墙一旦破裂，战斗通常就输了。\n\n在黑斯廷斯，哈罗德国王的亲卫在山上守住盾墙，对抗诺曼骑士和弓箭手长达大半天。反复进攻造成的损失、诱使英格兰人冲下山坡的诺曼佯退，以及最终哈罗德的阵亡，才将其击破。佯退究竟起了多大作用，至今仍有争论。</BF_ShieldWall.history>
+
+  <BF_Wedge.label>楔形阵</BF_Wedge.label>
+  <BF_Wedge.description>野猪头阵（Svinfylking）。尖锐的进攻阵型，最强的近战战士位于尖端。</BF_Wedge.description>
+  <BF_Wedge.origin>北欧战士（svinfylking，"猪阵"）。罗马人早已记载日耳曼部落以楔形（cuneus）进攻。</BF_Wedge.origin>
+  <BF_Wedge.period>约公元1世纪（日耳曼人），公元8世纪至11世纪（维京时代）</BF_Wedge.period>
+  <BF_Wedge.battles>见于萨迦以及萨克索·格拉玛提库斯的《丹麦人事迹》（约1200年成书）</BF_Wedge.battles>
+  <BF_Wedge.history>楔形阵把最强壮、护甲最好的战士放在尖端，阵型在其后逐渐展开，以便在一点上突破敌方阵线。\n\n萨克索·格拉玛提库斯讲述，是奥丁神亲自将它传授给传说中的丹麦国王：第一排两人，第二排四人，第三排八人。萨克索的写作年代远晚于维京时代，历史学家对野猪头阵的真实用法仍有争论。早在一千多年前，塔西佗就写过日耳曼部落以楔形排列战线。</BF_Wedge.history>
+
+  <BF_Schiltron.label>刺猬阵</BF_Schiltron.label>
+  <BF_Schiltron.description>苏格兰空心长枪方阵，面向四方，远程在内部受保护。</BF_Schiltron.description>
+  <BF_Schiltron.origin>苏格兰，苏格兰独立战争期间。</BF_Schiltron.origin>
+  <BF_Schiltron.period>13世纪末至14世纪</BF_Schiltron.period>
+  <BF_Schiltron.battles>福尔柯克（1298年）、班诺克本（1314年）</BF_Schiltron.battles>
+  <BF_Schiltron.history>苏格兰长矛兵挤成密集的方块，长矛林立，以阻挡英格兰重骑兵。历史上的刺猬阵常为圆形或椭圆形；这里是空心方阵。\n\n在福尔柯克，威廉·华莱士的刺猬阵挡住了英格兰骑士，却被长弓手、弩手和投石手消耗殆尽，随后被骑兵冲垮。十六年后在班诺克本，罗伯特·布鲁斯用刺猬阵主动进攻，把爱德华二世的军队赶出了战场。</BF_Schiltron.history>
+
+  <BF_Herse.label>耙形阵</BF_Herse.label>
+  <BF_Herse.description>克雷西与阿金库尔的英格兰阵型。重甲兵守中央，弓箭手站在两翼并向前斜出。</BF_Herse.description>
+  <BF_Herse.origin>英格兰，百年战争。名称来自编年史家傅华萨：排列"如耙"。</BF_Herse.origin>
+  <BF_Herse.period>14世纪至15世纪</BF_Herse.period>
+  <BF_Herse.battles>克雷西（1346年）、普瓦捷（1356年）、阿金库尔（1415年）</BF_Herse.battles>
+  <BF_Herse.history>傅华萨写道，在克雷西，弓箭手"以耙的样式"站立，重甲兵在他们后面。他的确切含义至今仍有争论。常见的解读与阿金库尔十分吻合：英格兰人徒步作战，下马的重甲兵守住中央，长弓手站在向前斜出的两翼，以便射击来袭敌人的侧翼。在阿金库尔，插在地上的尖木桩保护他们免受骑兵冲击。\n\n冲向中央的法国骑士必须先穿过箭雨。爱德华三世在克雷西、亨利五世在阿金库尔都以此击败了规模大得多的军队。</BF_Herse.history>
+
+  <BF_Gewalthaufen.label>瑞士方阵（Gewalthaufen）</BF_Gewalthaufen.label>
+  <BF_Gewalthaufen.description>瑞士长枪方阵。一个巨大、近乎正方形的长枪方块，可以面向任何方向，其他近战在后，远程在后。宽度随士兵数量而定。</BF_Gewalthaufen.description>
+  <BF_Gewalthaufen.origin>瑞士邦联。"Gewalthaufen"是前卫（Vorhut）与后卫（Nachhut）之间主力部队的名称。后被德意志雇佣兵（Landsknecht）效仿。</BF_Gewalthaufen.origin>
+  <BF_Gewalthaufen.period>15世纪至16世纪</BF_Gewalthaufen.period>
+  <BF_Gewalthaufen.battles>格朗松（1476年）、穆尔滕（1476年）、南锡（1477年）、马里尼亚诺（1515年）</BF_Gewalthaufen.battles>
+  <BF_Gewalthaufen.history>瑞士各州几乎没有骑士，所以他们以巨大的长枪兵和戟兵方块作战，常常有数千人之众，近乎正方形，可以转向任何一面。这些方块不等敌人上门，而是快速行进并主动进攻。\n\n在格朗松、穆尔滕和南锡，瑞士人摧毁了勃艮第大胆查理的军队，此后数十年间，瑞士雇佣兵是欧洲最抢手的步兵。1515年的马里尼亚诺之战中，法国炮兵和骑兵显示出这些大方阵已变得多么脆弱。</BF_Gewalthaufen.history>
+
+  <BF_Tercio.label>西班牙大方阵</BF_Tercio.label>
+  <BF_Tercio.description>西班牙长枪方阵，远程分成"袖子"布置在四个角上。长枪拒敌于外，四角向各个方向射击。规模随士兵数量而定。</BF_Tercio.description>
+  <BF_Tercio.origin>查理五世皇帝治下的西班牙，组建于1530年代。</BF_Tercio.origin>
+  <BF_Tercio.period>16世纪至17世纪（近代早期）</BF_Tercio.period>
+  <BF_Tercio.battles>讷德林根（1634年）、罗克鲁瓦（1643年）</BF_Tercio.battles>
+  <BF_Tercio.history>大方阵在中央结合一个巨大的长枪兵方块，四角的"袖子"（mangas）里布置火绳枪手和火枪手。长枪阻挡骑兵，射手从四角射击，遭到冲锋时可躲到长枪之下。\n\n一个多世纪里，西班牙大方阵被视为欧洲最好的步兵。1643年在罗克鲁瓦，法军击败了它们，这常被视为其时代的终结，尽管大方阵此后又作战了数十年。</BF_Tercio.history>
+
+  <BF_DoubleLine.label>双线阵</BF_DoubleLine.label>
+  <BF_DoubleLine.description>正好两排：近战在第一线，远程紧随其后从旁射击。</BF_DoubleLine.description>
+  <BF_DoubleLine.origin>许多军队的常见做法；晚期火枪时代的标准阵线。</BF_DoubleLine.origin>
+  <BF_DoubleLine.period>所有时代</BF_DoubleLine.period>
+  <BF_DoubleLine.battles>巴拉克拉瓦（1854年），"细细的红线"</BF_DoubleLine.battles>
+  <BF_DoubleLine.history>两排是仍有后援的最浅阵线：第二排可以填补缺口，并越过第一排射击或攻击。弓箭手站在盾墙或矛墙之后，这与战争本身一样古老。\n\n英国人让两排阵线声名远扬。在巴拉克拉瓦，第93高地团仅排成两人纵深的阵线，便击退了俄国骑兵："细细的红线"。</BF_DoubleLine.history>
+
+  <BF_Column.label>纵队</BF_Column.label>
+  <BF_Column.description>两人并排的狭窄行军纵队。</BF_Column.description>
+  <BF_Column.origin>每一支行过军的军队。罗马的行军序列（agmen）有严格规定。</BF_Column.origin>
+  <BF_Column.period>所有时代</BF_Column.period>
+  <BF_Column.battles>特拉西梅诺湖（前217年）、条顿堡森林（公元9年），均为行军中遭伏击</BF_Column.battles>
+  <BF_Column.history>狭窄的纵队能沿道路、穿过城门、在障碍之间快速移动，并使部队保持集中。它的弱点是侧翼：以纵队状态被截住的军队几乎无法还击。汉尼拔在特拉西梅诺湖、日耳曼部落在条顿堡森林，都歼灭了仍在行军中的罗马军队。\n\n因此，指挥官会在战斗前将纵队展开成横队。</BF_Column.history>
+
+  <BF_Skirmish.label>散兵线</BF_Skirmish.label>
+  <BF_Skirmish.description>一条间隔很大的松散阵线，用来应对箭矢和爆炸。</BF_Skirmish.description>
+  <BF_Skirmish.origin>轻装部队：希腊轻盾兵与轻装兵，罗马轻步兵（velites），后来的轻步兵。</BF_Skirmish.origin>
+  <BF_Skirmish.period>所有时代</BF_Skirmish.period>
+  <BF_Skirmish.battles>勒凯翁（前390年）</BF_Skirmish.battles>
+  <BF_Skirmish.history>松散的散兵线用标枪、投石索和弓骚扰敌人，避免近身肉搏。分散开来，每支箭、每块石头或每次爆炸波及的人都更少。\n\n在勒凯翁，雅典将军伊菲克拉特斯的轻盾兵拖垮了一支600人的斯巴达重装步兵队：他们投出标枪，重步兵一冲锋就后撤。雅典重装步兵加入后，斯巴达人损失约250人后溃逃。在RimWorld中，它是应对手榴弹、迫击炮和大批弓箭的办法。</BF_Skirmish.history>
+
+  <BF_LAmbush.label>L形伏击</BF_LAmbush.label>
+  <BF_LAmbush.description>一条长长的远程火力线，右翼有一段短的近战侧臂向前伸出。前方的敌人会受到两面夹击，侧臂挡住他们的去路。</BF_LAmbush.description>
+  <BF_LAmbush.origin>与战争一样古老的伏击模式；现代步兵教范中的标准战术。</BF_LAmbush.origin>
+  <BF_LAmbush.period>所有时代</BF_LAmbush.period>
+  <BF_LAmbush.history>长边与敌人经过的道路或小径平行，短边封住其尽头。走进杀伤区的人会同时遭到正面和侧翼的射击，短边则阻止他们径直冲过去。\n\n在RimWorld中：布置时让袭击者沿着长线朝侧臂走来，并把近战战士放在侧臂上。</BF_LAmbush.history>
+</LanguageData>

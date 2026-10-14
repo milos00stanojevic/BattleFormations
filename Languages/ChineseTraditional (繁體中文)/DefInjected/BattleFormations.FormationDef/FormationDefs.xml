@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <BF_Phalanx.label>方陣</BF_Phalanx.label>
+  <BF_Phalanx.description>希臘與馬其頓的長矛方陣。長槍在前排，其他近戰在後，遠程在最後。</BF_Phalanx.description>
+  <BF_Phalanx.origin>希臘城邦（重裝步兵）。馬其頓長槍方陣由馬其頓的腓力二世創立。</BF_Phalanx.origin>
+  <BF_Phalanx.period>約西元前7世紀至前2世紀</BF_Phalanx.period>
+  <BF_Phalanx.battles>馬拉松（前490年）、高加米拉（前331年）、庫諾斯克法萊（前197年）</BF_Phalanx.battles>
+  <BF_Phalanx.history>希臘重裝步兵肩並肩排成縱深很大的隊列，每面圓盾都部分掩護著身旁的戰友。約西元前359年，馬其頓的腓力二世為步兵配備了薩里沙長槍，長約五到七公尺，使前五排的槍尖都能伸到陣線之前。他的兒子亞歷山大大帝憑此征服了波斯帝國。\n\n從正面看，方陣幾乎不可戰勝，但它行動緩慢，側翼和崎嶇地形是其弱點。羅馬軍團在庫諾斯克法萊和皮德納正是利用了這一點。</BF_Phalanx.history>
+
+  <BF_Quincunx.label>中隊（梅花陣）</BF_Quincunx.label>
+  <BF_Quincunx.description>羅馬共和國的小隊棋盤陣。空隙讓後方部隊可以上前、疲憊的部隊可以後撤，而不會打亂陣線。</BF_Quincunx.description>
+  <BF_Quincunx.origin>羅馬共和國，可能形成於薩姆尼特戰爭期間。古代傳說將其部分歸功於馬庫斯·弗里烏斯·卡米盧斯。</BF_Quincunx.origin>
+  <BF_Quincunx.period>約西元前4世紀至前2世紀</BF_Quincunx.period>
+  <BF_Quincunx.battles>森提努姆（前295年）、扎馬（前202年）</BF_Quincunx.battles>
+  <BF_Quincunx.history>在山地與薩姆尼特人作戰後，羅馬人把舊方陣拆分為約120人的中隊（「一把」之意）。各中隊像骰子上的五個點一樣交錯排列，即梅花陣。新銳部隊可以從空隙中上前，疲憊的部隊則可以後撤。\n\n在扎馬，西庇阿·阿非利加努斯反而將中隊前後對齊排列，留出通道，讓漢尼拔的戰象從中穿過而沒造成多大傷害。到西元前2世紀末，更大的步兵大隊取代了中隊，這一變化傳統上與蓋烏斯·馬略的改革聯繫在一起。</BF_Quincunx.history>
+
+  <BF_TriplexAcies.label>三線陣</BF_TriplexAcies.label>
+  <BF_TriplexAcies.description>三條羅馬戰線，彼此留有間隔：劍士在前，遠程居中，持矛老兵在後方預備。</BF_TriplexAcies.description>
+  <BF_TriplexAcies.origin>羅馬軍隊：青年兵、壯年兵與後備兵。後來馬略和凱撒以大隊編成沿用。</BF_TriplexAcies.origin>
+  <BF_TriplexAcies.period>約西元前4世紀至西元3世紀</BF_TriplexAcies.period>
+  <BF_TriplexAcies.battles>凱撒的高盧戰役，例如比布拉克特（前58年）</BF_TriplexAcies.battles>
+  <BF_TriplexAcies.history>羅馬人分三線（acies）作戰。在中隊制軍隊中，年輕的青年兵站在最前，正值壯年的壯年兵在其後，手持長刺矛的老兵後備兵在最後方待命。戰局不利時，羅馬人會說「res ad triarios rediit」：輪到後備兵了。\n\n凱撒在大隊制下保留了三線：在伊萊爾達，他讓每個軍團以四個大隊站第一線，三個站第二線，三個站第三線，這樣總有生力軍可以替換前線。</BF_TriplexAcies.history>
+
+  <BF_Testudo.label>龜甲陣</BF_Testudo.label>
+  <BF_Testudo.description>羅馬龜甲陣。小而緊密的方塊，正面全是近戰。</BF_Testudo.description>
+  <BF_Testudo.origin>羅馬軍團士兵，使用他們巨大的弧形長方盾（scutum）。</BF_Testudo.origin>
+  <BF_Testudo.period>約西元前3世紀至西元3世紀</BF_Testudo.period>
+  <BF_Testudo.battles>馬克·安東尼從帕提亞撤退（前36年），以及許多圍城戰</BF_Testudo.battles>
+  <BF_Testudo.history>前排將盾牌向前舉起，外側縱列舉向兩側，內部的士兵將盾牌舉過頭頂，整支部隊就像被龜甲覆蓋一樣。它用於圍城時接近城牆，以及在箭矢和石塊下推進；李維早在約西元前300年的薩姆尼特戰爭中就提到過它。\n\n普魯塔克和卡西烏斯·狄奧記載，馬克·安東尼的軍團士兵曾結成龜甲陣對抗帕提亞騎射手。龜甲陣能防禦投射物，卻擋不住衝鋒，在肉搏中也遲緩笨拙。羅馬的圖拉真柱至今仍刻有它的形象。</BF_Testudo.history>
+
+  <BF_Orbis.label>圓陣</BF_Orbis.label>
+  <BF_Orbis.description>羅馬被包圍時的圓陣。近戰與長槍在環上朝外，遠程從中間射擊。</BF_Orbis.description>
+  <BF_Orbis.origin>羅馬軍隊，被切斷的部隊最後的手段。</BF_Orbis.origin>
+  <BF_Orbis.period>約西元前1世紀至西元3世紀</BF_Orbis.period>
+  <BF_Orbis.battles>對抗莫里尼人（前55年）、阿杜亞都卡（前54年）</BF_Orbis.battles>
+  <BF_Orbis.history>羅馬部隊被包圍時，會結成盾牌朝外的圓環，使任何一面都不暴露在攻擊之下。\n\n凱撒在《高盧戰記》中多次描述過它：約三百名遭莫里尼人伏擊的士兵結成圓陣堅守了四個多小時，直到騎兵前來救援。薩比努斯和科塔的部隊在阿杜亞都卡也結成了圓陣，但最終仍被殲滅。圓陣贏不了戰鬥，它爭取的是時間。</BF_Orbis.history>
+
+  <BF_Oblique.label>斜線陣</BF_Oblique.label>
+  <BF_Oblique.description>伊巴密濃達的斜線陣。左翼領先，越往右的縱列越靠後，因此強翼最先出擊。</BF_Oblique.description>
+  <BF_Oblique.origin>底比斯的伊巴密濃達。由普魯士的腓特烈大帝復興。</BF_Oblique.origin>
+  <BF_Oblique.period>西元前4世紀，18世紀再次出現</BF_Oblique.period>
+  <BF_Oblique.battles>留克特拉（前371年）、曼丁尼亞（前362年）、洛伊滕（1757年）</BF_Oblique.battles>
+  <BF_Oblique.history>希臘軍隊通常把最精銳的部隊放在右翼。在留克特拉，伊巴密濃達將底比斯人在左翼排成五十排縱深，正對斯巴達國王及其精銳，同時讓較弱的右翼按兵不動。強翼率先出擊，在其餘戰線交鋒之前就擊潰了斯巴達人。斯巴達不可戰勝的名聲就此終結。\n\n兩千多年後，腓特烈大帝在洛伊滕讓斜線陣再次聞名於世。</BF_Oblique.history>
+
+  <BF_Crescent.label>新月陣</BF_Crescent.label>
+  <BF_Crescent.description>漢尼拔在坎尼的新月陣。中央兩排向前凸出，兩翼後縮以便合圍敵人。</BF_Crescent.description>
+  <BF_Crescent.origin>迦太基的漢尼拔·巴卡。</BF_Crescent.origin>
+  <BF_Crescent.period>西元前216年，第二次布匿戰爭</BF_Crescent.period>
+  <BF_Crescent.battles>坎尼（前216年）</BF_Crescent.battles>
+  <BF_Crescent.history>在坎尼，漢尼拔面對的是一支規模大得多的羅馬軍隊。他把高盧和西班牙步兵排成一條向敵方凸出的薄線，把久經沙場的非洲步兵留在兩端後方。羅馬人向前推進時，新月陣沒有斷裂，而是向後彎曲，把他們引得更深。隨後非洲步兵從兩翼向內轉，騎兵從後方封閉了包圍圈。\n\n羅馬軍隊幾乎全軍覆沒。坎尼成為雙重包圍的教科書範例，至今仍在軍事院校中講授。</BF_Crescent.history>
+
+  <BF_Sparabara.label>盾牆弓陣</BF_Sparabara.label>
+  <BF_Sparabara.description>波斯盾牆。前方一排持大盾的近戰，所有遠程在其後排成縱深隊列，越過盾牆射擊。適合射手眾多的殖民地。</BF_Sparabara.description>
+  <BF_Sparabara.origin>阿契美尼德波斯帝國。「Sparabara」（持盾者）是根據古波斯語復原的現代名稱；他們手持高大的柳條盾。</BF_Sparabara.origin>
+  <BF_Sparabara.period>約西元前6世紀至前5世紀</BF_Sparabara.period>
+  <BF_Sparabara.battles>普拉提亞（前479年）、米卡勒（前479年）</BF_Sparabara.battles>
+  <BF_Sparabara.history>波斯步兵的第一排手持高大的長方形柳條盾（spara）和短矛。他們把盾牌並排插在地上組成一道牆，後方的弓箭手越過盾牆一輪接一輪地齊射。歷史學家復原出十人縱深的單位：一名持盾者在前，九名弓箭手在後。\n\n對付亞洲的軍隊，這很有效。但面對迅速衝鋒、短兵相接的希臘重裝步兵就失敗了：希羅多德記載，在普拉提亞和米卡勒，盾牆被衝破，後面的弓箭手抵擋不住重步兵。</BF_Sparabara.history>
+
+  <BF_ShieldWall.label>盾牆</BF_ShieldWall.label>
+  <BF_ShieldWall.description>撒克遜與北歐盾牆。寬而淺的陣線，近戰在前，長矛從他們上方伸出，遠程在後。</BF_ShieldWall.description>
+  <BF_ShieldWall.origin>日耳曼諸民族，以盎格魯-撒克遜人和維京人最為著名。</BF_ShieldWall.origin>
+  <BF_ShieldWall.period>約西元5世紀至11世紀</BF_ShieldWall.period>
+  <BF_ShieldWall.battles>莫爾登（991年）、斯坦福橋（1066年）、黑斯廷斯（1066年）</BF_ShieldWall.battles>
+  <BF_ShieldWall.history>戰士們緊靠在一起，圓盾相互交疊，常常有好幾排縱深，後排的人越過前排刺出長矛。推擠、刺殺和守住陣線決定勝負；盾牆一旦破裂，戰鬥通常就輸了。\n\n在黑斯廷斯，哈羅德國王的親衛在山上守住盾牆，對抗諾曼騎士和弓箭手長達大半天。反覆進攻造成的損失、誘使英格蘭人衝下山坡的諾曼佯退，以及最終哈羅德的陣亡，才將其擊破。佯退究竟起了多大作用，至今仍有爭論。</BF_ShieldWall.history>
+
+  <BF_Wedge.label>楔形陣</BF_Wedge.label>
+  <BF_Wedge.description>野豬頭陣（Svinfylking）。尖銳的進攻陣型，最強的近戰戰士位於尖端。</BF_Wedge.description>
+  <BF_Wedge.origin>北歐戰士（svinfylking，「豬陣」）。羅馬人早已記載日耳曼部落以楔形（cuneus）進攻。</BF_Wedge.origin>
+  <BF_Wedge.period>約西元1世紀（日耳曼人），西元8世紀至11世紀（維京時代）</BF_Wedge.period>
+  <BF_Wedge.battles>見於薩迦以及薩克索·格拉瑪提庫斯的《丹麥人事蹟》（約1200年成書）</BF_Wedge.battles>
+  <BF_Wedge.history>楔形陣把最強壯、護甲最好的戰士放在尖端，陣型在其後逐漸展開，以便在一點上突破敵方陣線。\n\n薩克索·格拉瑪提庫斯講述，是奧丁神親自將它傳授給傳說中的丹麥國王：第一排兩人，第二排四人，第三排八人。薩克索的寫作年代遠晚於維京時代，歷史學家對野豬頭陣的真實用法仍有爭論。早在一千多年前，塔西佗就寫過日耳曼部落以楔形排列戰線。</BF_Wedge.history>
+
+  <BF_Schiltron.label>刺蝟陣</BF_Schiltron.label>
+  <BF_Schiltron.description>蘇格蘭空心長槍方陣，面向四方，遠程在內部受保護。</BF_Schiltron.description>
+  <BF_Schiltron.origin>蘇格蘭，蘇格蘭獨立戰爭期間。</BF_Schiltron.origin>
+  <BF_Schiltron.period>13世紀末至14世紀</BF_Schiltron.period>
+  <BF_Schiltron.battles>福爾柯克（1298年）、班諾克本（1314年）</BF_Schiltron.battles>
+  <BF_Schiltron.history>蘇格蘭長矛兵擠成密集的方塊，長矛林立，以阻擋英格蘭重騎兵。歷史上的刺蝟陣常為圓形或橢圓形；這裡是空心方陣。\n\n在福爾柯克，威廉·華萊士的刺蝟陣擋住了英格蘭騎士，卻被長弓手、弩手和投石手消耗殆盡，隨後被騎兵衝垮。十六年後在班諾克本，羅伯特·布魯斯用刺蝟陣主動進攻，把愛德華二世的軍隊趕出了戰場。</BF_Schiltron.history>
+
+  <BF_Herse.label>耙形陣</BF_Herse.label>
+  <BF_Herse.description>克雷西與阿金庫爾的英格蘭陣型。重甲兵守中央，弓箭手站在兩翼並向前斜出。</BF_Herse.description>
+  <BF_Herse.origin>英格蘭，百年戰爭。名稱來自編年史家傅華薩：排列「如耙」。</BF_Herse.origin>
+  <BF_Herse.period>14世紀至15世紀</BF_Herse.period>
+  <BF_Herse.battles>克雷西（1346年）、普瓦捷（1356年）、阿金庫爾（1415年）</BF_Herse.battles>
+  <BF_Herse.history>傅華薩寫道，在克雷西，弓箭手「以耙的樣式」站立，重甲兵在他們後面。他的確切含義至今仍有爭論。常見的解讀與阿金庫爾十分吻合：英格蘭人徒步作戰，下馬的重甲兵守住中央，長弓手站在向前斜出的兩翼，以便射擊來襲敵人的側翼。在阿金庫爾，插在地上的尖木樁保護他們免受騎兵衝擊。\n\n衝向中央的法國騎士必須先穿過箭雨。愛德華三世在克雷西、亨利五世在阿金庫爾都以此擊敗了規模大得多的軍隊。</BF_Herse.history>
+
+  <BF_Gewalthaufen.label>瑞士方陣（Gewalthaufen）</BF_Gewalthaufen.label>
+  <BF_Gewalthaufen.description>瑞士長槍方陣。一個巨大、近乎正方形的長槍方塊，可以面向任何方向，其他近戰在後，遠程在後。寬度隨士兵數量而定。</BF_Gewalthaufen.description>
+  <BF_Gewalthaufen.origin>瑞士邦聯。「Gewalthaufen」是前衛（Vorhut）與後衛（Nachhut）之間主力部隊的名稱。後被德意志傭兵（Landsknecht）效仿。</BF_Gewalthaufen.origin>
+  <BF_Gewalthaufen.period>15世紀至16世紀</BF_Gewalthaufen.period>
+  <BF_Gewalthaufen.battles>格朗松（1476年）、穆爾滕（1476年）、南錫（1477年）、馬里尼亞諾（1515年）</BF_Gewalthaufen.battles>
+  <BF_Gewalthaufen.history>瑞士各州幾乎沒有騎士，所以他們以巨大的長槍兵和戟兵方塊作戰，常常有數千人之眾，近乎正方形，可以轉向任何一面。這些方塊不等敵人上門，而是快速行進並主動進攻。\n\n在格朗松、穆爾滕和南錫，瑞士人摧毀了勃艮第大膽查理的軍隊，此後數十年間，瑞士傭兵是歐洲最搶手的步兵。1515年的馬里尼亞諾之戰中，法國砲兵和騎兵顯示出這些大方陣已變得多麼脆弱。</BF_Gewalthaufen.history>
+
+  <BF_Tercio.label>西班牙大方陣</BF_Tercio.label>
+  <BF_Tercio.description>西班牙長槍方陣，遠程分成「袖子」佈置在四個角上。長槍拒敵於外，四角向各個方向射擊。規模隨士兵數量而定。</BF_Tercio.description>
+  <BF_Tercio.origin>查理五世皇帝治下的西班牙，組建於1530年代。</BF_Tercio.origin>
+  <BF_Tercio.period>16世紀至17世紀（近代早期）</BF_Tercio.period>
+  <BF_Tercio.battles>訥德林根（1634年）、羅克魯瓦（1643年）</BF_Tercio.battles>
+  <BF_Tercio.history>大方陣在中央結合一個巨大的長槍兵方塊，四角的「袖子」（mangas）裡佈置火繩槍手和火槍手。長槍阻擋騎兵，射手從四角射擊，遭到衝鋒時可躲到長槍之下。\n\n一個多世紀裡，西班牙大方陣被視為歐洲最好的步兵。1643年在羅克魯瓦，法軍擊敗了它們，這常被視為其時代的終結，儘管大方陣此後又作戰了數十年。</BF_Tercio.history>
+
+  <BF_DoubleLine.label>雙線陣</BF_DoubleLine.label>
+  <BF_DoubleLine.description>正好兩排：近戰在第一線，遠程緊隨其後從旁射擊。</BF_DoubleLine.description>
+  <BF_DoubleLine.origin>許多軍隊的常見做法；晚期火槍時代的標準陣線。</BF_DoubleLine.origin>
+  <BF_DoubleLine.period>所有時代</BF_DoubleLine.period>
+  <BF_DoubleLine.battles>巴拉克拉瓦（1854年），「細細的紅線」</BF_DoubleLine.battles>
+  <BF_DoubleLine.history>兩排是仍有後援的最淺陣線：第二排可以填補缺口，並越過第一排射擊或攻擊。弓箭手站在盾牆或矛牆之後，這與戰爭本身一樣古老。\n\n英國人讓兩排陣線聲名遠揚。在巴拉克拉瓦，第93高地團僅排成兩人縱深的陣線，便擊退了俄國騎兵：「細細的紅線」。</BF_DoubleLine.history>
+
+  <BF_Column.label>縱隊</BF_Column.label>
+  <BF_Column.description>兩人並排的狹窄行軍縱隊。</BF_Column.description>
+  <BF_Column.origin>每一支行過軍的軍隊。羅馬的行軍序列（agmen）有嚴格規定。</BF_Column.origin>
+  <BF_Column.period>所有時代</BF_Column.period>
+  <BF_Column.battles>特拉西梅諾湖（前217年）、條頓堡森林（西元9年），均為行軍中遭伏擊</BF_Column.battles>
+  <BF_Column.history>狹窄的縱隊能沿道路、穿過城門、在障礙之間快速移動，並使部隊保持集中。它的弱點是側翼：以縱隊狀態被截住的軍隊幾乎無法還擊。漢尼拔在特拉西梅諾湖、日耳曼部落在條頓堡森林，都殲滅了仍在行軍中的羅馬軍隊。\n\n因此，指揮官會在戰鬥前將縱隊展開成橫隊。</BF_Column.history>
+
+  <BF_Skirmish.label>散兵線</BF_Skirmish.label>
+  <BF_Skirmish.description>一條間隔很大的鬆散陣線，用來應對箭矢和爆炸。</BF_Skirmish.description>
+  <BF_Skirmish.origin>輕裝部隊：希臘輕盾兵與輕裝兵，羅馬輕步兵（velites），後來的輕步兵。</BF_Skirmish.origin>
+  <BF_Skirmish.period>所有時代</BF_Skirmish.period>
+  <BF_Skirmish.battles>勒凱翁（前390年）</BF_Skirmish.battles>
+  <BF_Skirmish.history>鬆散的散兵線用標槍、投石索和弓騷擾敵人，避免近身肉搏。分散開來，每支箭、每塊石頭或每次爆炸波及的人都更少。\n\n在勒凱翁，雅典將軍伊菲克拉特斯的輕盾兵拖垮了一支600人的斯巴達重裝步兵隊：他們投出標槍，重步兵一衝鋒就後撤。雅典重裝步兵加入後，斯巴達人損失約250人後潰逃。在RimWorld中，它是應對手榴彈、迫擊砲和大批弓箭的辦法。</BF_Skirmish.history>
+
+  <BF_LAmbush.label>L形伏擊</BF_LAmbush.label>
+  <BF_LAmbush.description>一條長長的遠程火力線，右翼有一段短的近戰側臂向前伸出。前方的敵人會受到兩面夾擊，側臂擋住他們的去路。</BF_LAmbush.description>
+  <BF_LAmbush.origin>與戰爭一樣古老的伏擊模式；現代步兵教範中的標準戰術。</BF_LAmbush.origin>
+  <BF_LAmbush.period>所有時代</BF_LAmbush.period>
+  <BF_LAmbush.history>長邊與敵人經過的道路或小徑平行，短邊封住其盡頭。走進殺傷區的人會同時遭到正面和側翼的射擊，短邊則阻止他們逕直衝過去。\n\n在RimWorld中：佈置時讓襲擊者沿著長線朝側臂走來，並把近戰戰士放在側臂上。</BF_LAmbush.history>
+</LanguageData>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <BF_Command>Formazione</BF_Command>
+  <BF_CommandDesc>Disponi i coloni arruolati selezionati in una formazione di battaglia.</BF_CommandDesc>
+  <BF_DialogTitle>Formazione di battaglia</BF_DialogTitle>
+  <BF_Width>Larghezza</BF_Width>
+  <BF_Spacing>Spaziatura</BF_Spacing>
+  <BF_Front>▲ Fronte</BF_Front>
+  <BF_Roles>Ruoli</BF_Roles>
+  <BF_Place>Posiziona formazione</BF_Place>
+  <BF_PlaceHint>Clic: posiziona   Trascina: traccia la linea del fronte   Q/E: ruota   Clic destro: annulla</BF_PlaceHint>
+  <BF_Era_Antiquity>Antichità</BF_Era_Antiquity>
+  <BF_Era_Medieval>Medioevo</BF_Era_Medieval>
+  <BF_Era_General>Generale</BF_Era_General>
+  <BF_Hold>Mantieni formazione</BF_Hold>
+  <BF_HoldDesc>Il gruppo diventa un reggimento. Un normale ordine di movimento con clic destro fa poi marciare l'intero reggimento in formazione.</BF_HoldDesc>
+  <BF_RolesButton>Ruoli...</BF_RolesButton>
+  <BF_Regiment>Reggimento</BF_Regiment>
+  <BF_RegimentTip>Clic: seleziona (di nuovo: vai a)   Clic destro: opzioni   Tasto:</BF_RegimentTip>
+  <BF_HoldOn>Mantiene la formazione in movimento.</BF_HoldOn>
+  <BF_HoldOff>Non mantiene la formazione (*).</BF_HoldOff>
+  <BF_SetHoldOn>Mantieni formazione</BF_SetHoldOn>
+  <BF_SetHoldOff>Smetti di mantenere la formazione</BF_SetHoldOff>
+  <BF_DraftAll>Arruola tutti</BF_DraftAll>
+  <BF_Disband>Sciogli reggimento</BF_Disband>
+  <BF_Info>Storia e contesto di questa formazione</BF_Info>
+  <BF_InfoOrigin>Origine</BF_InfoOrigin>
+  <BF_InfoPeriod>Periodo</BF_InfoPeriod>
+  <BF_InfoBattles>Battaglie famose</BF_InfoBattles>
+  <BF_InfoTactic>Comportamento</BF_InfoTactic>
+  <BF_Tactic_Hold>Tenere</BF_Tactic_Hold>
+  <BF_Tactic_HoldDesc>tiene la posizione. I combattenti spinti fuori posto tornano al loro posto quando non ci sono nemici vicini.</BF_Tactic_HoldDesc>
+  <BF_Tactic_Relief>Cambio di linea</BF_Tactic_Relief>
+  <BF_Tactic_ReliefDesc>i feriti della prima fila si scambiano di posto con combattenti sani delle file posteriori.</BF_Tactic_ReliefDesc>
+  <BF_Tactic_Charge>Carica</BF_Tactic_Charge>
+  <BF_Tactic_ChargeDesc>quando i nemici arrivano entro 12 caselle, tutti i combattenti in mischia caricano il nemico più vicino, poi tornano in formazione.</BF_Tactic_ChargeDesc>
+  <BF_Tactic_WingCharge>Ala forte</BF_Tactic_WingCharge>
+  <BF_Tactic_WingChargeDesc>quando i nemici arrivano entro 12 caselle, caricano solo i combattenti in mischia dell'ala sinistra; l'ala destra resta indietro.</BF_Tactic_WingChargeDesc>
+  <BF_Tactic_Envelop>Accerchiamento</BF_Tactic_Envelop>
+  <BF_Tactic_EnvelopDesc>quando i nemici arrivano entro 12 caselle, il centro tiene mentre i combattenti in mischia di entrambe le ali esterne caricano e chiudono l'accerchiamento.</BF_Tactic_EnvelopDesc>
+  <BF_Tactic_Skirmish>Schermaglia</BF_Tactic_Skirmish>
+  <BF_Tactic_SkirmishDesc>i tiratori arretrano quando un nemico in mischia arriva entro 5 caselle, e tornano in linea più tardi.</BF_Tactic_SkirmishDesc>
+  <BF_Tactic_Ambush>Imboscata</BF_Tactic_Ambush>
+  <BF_Tactic_AmbushDesc>tutti trattengono il fuoco finché un nemico non arriva entro 14 caselle o qualcuno viene colpito, poi aprono il fuoco tutti insieme. Attivare il fuoco a volontà per un membro la fa scattare a sua volta.</BF_Tactic_AmbushDesc>
+  <BF_AmbushSprung>Imboscata scattata: {0} apre il fuoco!</BF_AmbushSprung>
+  <BF_Role_Auto>Auto</BF_Role_Auto>
+  <BF_Role_Pike>Picca</BF_Role_Pike>
+  <BF_Role_Melee>Mischia</BF_Role_Melee>
+  <BF_Role_Ranged>Distanza</BF_Role_Ranged>
+</LanguageData>

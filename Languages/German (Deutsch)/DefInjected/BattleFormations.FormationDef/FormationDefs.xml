@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Antike -->
+  <BF_Phalanx.label>Phalanx</BF_Phalanx.label>
+  <BF_Phalanx.description>Griechischer und makedonischer Speerblock. Pikeniere in den vorderen Reihen, übriger Nahkampf dahinter, Fernkampf hinten.</BF_Phalanx.description>
+  <BF_Phalanx.origin>Griechische Stadtstaaten (Hopliten). Die makedonische Pikenphalanx schuf Philipp II. von Makedonien.</BF_Phalanx.origin>
+  <BF_Phalanx.period>ca. 7. – 2. Jahrhundert v. Chr.</BF_Phalanx.period>
+  <BF_Phalanx.battles>Marathon (490 v. Chr.), Gaugamela (331 v. Chr.), Kynoskephalai (197 v. Chr.)</BF_Phalanx.battles>
+  <BF_Phalanx.history>Griechische Hopliten kämpften Schulter an Schulter in tiefen Reihen, jeder Rundschild deckte zum Teil den Nebenmann. Um 359 v. Chr. bewaffnete Philipp II. von Makedonien seine Infanterie mit der Sarissa, einer etwa fünf bis sieben Meter langen Pike, sodass die Spitzen der ersten fünf Reihen vor die Linie ragten. Sein Sohn Alexander der Große eroberte damit das Perserreich.\n\nVon vorne war die Phalanx kaum zu schlagen, aber sie war langsam und an den Flanken und in unebenem Gelände verwundbar. Genau das nutzten die römischen Legionen bei Kynoskephalai und Pydna aus.</BF_Phalanx.history>
+
+  <BF_Quincunx.label>Manipel (Quincunx)</BF_Quincunx.label>
+  <BF_Quincunx.description>Römisches Schachbrett aus kleinen Trupps. Durch die Lücken können hintere Trupps nachrücken und erschöpfte sich zurückziehen, ohne die Linie zu brechen.</BF_Quincunx.description>
+  <BF_Quincunx.origin>Römische Republik, vermutlich in den Samnitenkriegen entwickelt. Die antike Überlieferung schreibt sie teilweise Marcus Furius Camillus zu.</BF_Quincunx.origin>
+  <BF_Quincunx.period>ca. 4. – 2. Jahrhundert v. Chr.</BF_Quincunx.period>
+  <BF_Quincunx.battles>Sentinum (295 v. Chr.), Zama (202 v. Chr.)</BF_Quincunx.battles>
+  <BF_Quincunx.history>Nach den Kämpfen gegen die Samniten im zerklüfteten Bergland teilten die Römer ihre alte Phalanx in Manipel („Handvoll“) zu je etwa 120 Mann. Die Manipel standen versetzt wie die fünf Augen auf einem Würfel, dem Quincunx. Durch die Lücken konnten frische Trupps nach vorne und erschöpfte zurück.\n\nBei Zama stellte Scipio Africanus die Manipel stattdessen hintereinander auf und ließ Gassen frei, durch die Hannibals Kriegselefanten fast ohne Schaden hindurchliefen. Bis zum späten 2. Jahrhundert v. Chr. hatten größere Kohorten die Manipel abgelöst, eine Änderung, die traditionell mit den Reformen des Gaius Marius verbunden wird.</BF_Quincunx.history>
+
+  <BF_TriplexAcies.label>Triplex Acies</BF_TriplexAcies.label>
+  <BF_TriplexAcies.description>Drei römische Treffen mit Abstand: Schwertkämpfer vorne, Fernkampf in der Mitte, erfahrene Speerträger als Reserve hinten.</BF_TriplexAcies.description>
+  <BF_TriplexAcies.origin>Römisches Heer: Hastati, Principes und Triarier. Später mit Kohorten unter Marius und Caesar.</BF_TriplexAcies.origin>
+  <BF_TriplexAcies.period>ca. 4. Jahrhundert v. Chr. – 3. Jahrhundert n. Chr.</BF_TriplexAcies.period>
+  <BF_TriplexAcies.battles>Caesars Feldzüge in Gallien, z. B. Bibracte (58 v. Chr.)</BF_TriplexAcies.battles>
+  <BF_TriplexAcies.history>Die Römer kämpften in drei Treffen (acies). Im Manipelheer standen die jungen Hastati vorne, dahinter die Principes im besten Alter, und ganz hinten warteten die erfahrenen Triarier mit langen Stoßlanzen als Reserve. Lief eine Schlacht schlecht, sagten die Römer „res ad triarios rediit“: Es ist bis zu den Triariern gekommen.\n\nCaesar behielt die drei Treffen mit Kohorten bei: Bei Ilerda stellte er von jeder Legion vier Kohorten ins erste Treffen, drei ins zweite und drei ins dritte, damit immer frische Truppen die Front ablösen konnten.</BF_TriplexAcies.history>
+
+  <BF_Testudo.label>Testudo</BF_Testudo.label>
+  <BF_Testudo.description>Römische Schildkröte. Kleiner, dichter Block mit Nahkämpfern rundum vorne.</BF_Testudo.description>
+  <BF_Testudo.origin>Römische Legionäre mit ihren großen, gewölbten Scutum-Schilden.</BF_Testudo.origin>
+  <BF_Testudo.period>ca. 3. Jahrhundert v. Chr. – 3. Jahrhundert n. Chr.</BF_Testudo.period>
+  <BF_Testudo.battles>Marcus Antonius' Rückzug aus Parthien (36 v. Chr.), viele Belagerungen</BF_Testudo.battles>
+  <BF_Testudo.history>Die vorderste Reihe hielt die Schilde nach vorne, die äußeren Reihen zur Seite, und die Männer innen hoben ihre über den Kopf, sodass die ganze Einheit wie von einem Schildkrötenpanzer bedeckt war. So näherte man sich bei Belagerungen den Mauern und rückte unter Pfeilen und Steinen vor; Livius erwähnt sie schon in den Samnitenkriegen um 300 v. Chr.\n\nPlutarch und Cassius Dio berichten, dass die Legionäre des Marcus Antonius gegen die parthischen Reiterbogenschützen Schildkröten bildeten. Die Schildkröte schützte vor Geschossen, nicht vor einem Ansturm, und im Nahkampf war sie langsam und schwerfällig. Die Trajanssäule in Rom zeigt sie bis heute.</BF_Testudo.history>
+
+  <BF_Orbis.label>Orbis</BF_Orbis.label>
+  <BF_Orbis.description>Römischer Kreis bei Einkesselung. Nahkampf und Speere stehen nach außen auf dem Ring, Fernkampf schießt aus der Mitte.</BF_Orbis.description>
+  <BF_Orbis.origin>Römisches Heer, als letzter Ausweg für abgeschnittene Einheiten.</BF_Orbis.origin>
+  <BF_Orbis.period>ca. 1. Jahrhundert v. Chr. – 3. Jahrhundert n. Chr.</BF_Orbis.period>
+  <BF_Orbis.battles>Gegen die Moriner (55 v. Chr.), Atuatuca (54 v. Chr.)</BF_Orbis.battles>
+  <BF_Orbis.history>Wurde eine römische Einheit eingekesselt, bildete sie einen Ring mit den Schilden nach außen, sodass keine Seite offen blieb.\n\nCaesar beschreibt das mehrmals im Gallischen Krieg: Etwa dreihundert Soldaten, die von den Morinern überfallen wurden, hielten sich im Orbis über vier Stunden, bis die Reiterei zu Hilfe kam. Auch die Truppen von Sabinus und Cotta bildeten bei Atuatuca einen, wurden am Ende aber vernichtet. Der Orbis gewann keine Schlachten, er verschaffte Zeit.</BF_Orbis.history>
+
+  <BF_Oblique.label>Schiefe Schlachtordnung</BF_Oblique.label>
+  <BF_Oblique.description>Die schräge Linie des Epaminondas. Der linke Flügel führt, jede Reihe weiter rechts bleibt etwas zurück, damit der starke Flügel zuerst trifft.</BF_Oblique.description>
+  <BF_Oblique.origin>Epaminondas von Theben. Wiederbelebt von Friedrich dem Großen von Preußen.</BF_Oblique.origin>
+  <BF_Oblique.period>4. Jahrhundert v. Chr., erneut im 18. Jahrhundert</BF_Oblique.period>
+  <BF_Oblique.battles>Leuktra (371 v. Chr.), Mantineia (362 v. Chr.), Leuthen (1757)</BF_Oblique.battles>
+  <BF_Oblique.history>Griechische Heere stellten ihre besten Truppen meist auf den rechten Flügel. Bei Leuktra ballte Epaminondas seine Thebaner fünfzig Reihen tief auf dem linken Flügel, gegenüber dem spartanischen König und seiner Elite, und hielt den schwächeren rechten Flügel zurück. Der starke Flügel traf zuerst und brach die Spartaner, bevor sich die übrigen Linien überhaupt berührten. Damit endete Spartas Ruf der Unbesiegbarkeit.\n\nÜber zweitausend Jahre später machte Friedrich der Große die schiefe Schlachtordnung bei Leuthen wieder berühmt.</BF_Oblique.history>
+
+  <BF_Crescent.label>Halbmond</BF_Crescent.label>
+  <BF_Crescent.description>Hannibals Halbmond bei Cannae. Zwei Reihen, die Mitte nach vorne gewölbt, die Flanken zurückgehalten, um den Feind einzuschließen.</BF_Crescent.description>
+  <BF_Crescent.origin>Hannibal Barkas von Karthago.</BF_Crescent.origin>
+  <BF_Crescent.period>216 v. Chr., Zweiter Punischer Krieg</BF_Crescent.period>
+  <BF_Crescent.battles>Cannae (216 v. Chr.)</BF_Crescent.battles>
+  <BF_Crescent.history>Bei Cannae stand Hannibal einem viel größeren römischen Heer gegenüber. Er stellte seine gallische und spanische Infanterie in einer dünnen, zum Feind gewölbten Linie auf und hielt seine erfahrene afrikanische Infanterie an beiden Enden zurück. Als die Römer drückten, bog sich der Halbmond nach hinten durch, statt zu brechen, und zog sie immer tiefer hinein. Dann schwenkten die Afrikaner an den Flanken ein, und die Reiterei schloss den Ring von hinten.\n\nDas römische Heer wurde fast vollständig vernichtet. Cannae wurde zum Lehrbuchbeispiel der doppelten Umfassung und wird bis heute an Militärakademien gelehrt.</BF_Crescent.history>
+
+  <BF_Sparabara.label>Sparabara</BF_Sparabara.label>
+  <BF_Sparabara.description>Persischer Schildwall. Eine Reihe Nahkämpfer mit großen Schilden vorne, alle Fernkämpfer in tiefen Reihen dahinter, die darüber hinweg schießen. Gemacht für Kolonien mit vielen Schützen.</BF_Sparabara.description>
+  <BF_Sparabara.origin>Persisches Achämenidenreich. „Sparabara“ (Schildträger) ist ein moderner, aus dem Altpersischen rekonstruierter Name; sie trugen hohe Flechtschilde.</BF_Sparabara.origin>
+  <BF_Sparabara.period>ca. 6. – 5. Jahrhundert v. Chr.</BF_Sparabara.period>
+  <BF_Sparabara.battles>Plataiai (479 v. Chr.), Mykale (479 v. Chr.)</BF_Sparabara.battles>
+  <BF_Sparabara.history>Die vorderste Reihe der persischen Infanterie trug hohe, rechteckige Flechtschilde (spara) und kurze Speere. Sie stellten die Schilde nebeneinander als Wand auf, und die Bogenschützen dahinter schossen Salve um Salve darüber hinweg. Historiker rekonstruieren Einheiten zehn Mann tief: ein Schildträger vor neun Bogenschützen.\n\nGegen die Heere Asiens funktionierte das gut. Gegen griechische Hopliten, die schnell angriffen und Mann gegen Mann kämpften, scheiterte es: Herodot berichtet, wie bei Plataiai und Mykale die Schildwand durchbrochen wurde und die Bogenschützen dahinter der schweren Infanterie nicht standhielten.</BF_Sparabara.history>
+
+  <!-- Mittelalter -->
+  <BF_ShieldWall.label>Schildwall</BF_ShieldWall.label>
+  <BF_ShieldWall.description>Sächsischer und nordischer Schildwall. Breite, flache Linie, Nahkämpfer vorne, Speere stechen über sie hinweg, Fernkampf dahinter.</BF_ShieldWall.description>
+  <BF_ShieldWall.origin>Germanische Völker, am bekanntesten von den Angelsachsen und den Wikingern.</BF_ShieldWall.origin>
+  <BF_ShieldWall.period>ca. 5. – 11. Jahrhundert n. Chr.</BF_ShieldWall.period>
+  <BF_ShieldWall.battles>Maldon (991), Stamford Bridge (1066), Hastings (1066)</BF_ShieldWall.battles>
+  <BF_ShieldWall.history>Die Krieger standen dicht an dicht mit überlappenden Rundschilden, oft mehrere Reihen tief, während die Männer dahinter ihre Speere über die erste Reihe stießen. Drücken, Stechen und Standhalten entschieden den Kampf; brach der Wall, war die Schlacht meist verloren.\n\nBei Hastings hielten die Huscarls von König Harold ihren Schildwall auf dem Hügel fast den ganzen Tag gegen normannische Ritter und Bogenschützen. Verluste durch wiederholte Angriffe, vorgetäuschte Fluchten der Normannen, die englische Truppen den Hang hinunterlockten, und schließlich Harolds Tod brachen ihn. Wie viel die vorgetäuschten Fluchten ausmachten, ist bis heute umstritten.</BF_ShieldWall.history>
+
+  <BF_Wedge.label>Keil</BF_Wedge.label>
+  <BF_Wedge.description>Svinfylking, der Eberkopf. Spitze Angriffsformation mit den stärksten Nahkämpfern an der Spitze.</BF_Wedge.description>
+  <BF_Wedge.origin>Nordische Krieger (Svinfylking, „Schweinsordnung“). Schon die Römer beschreiben germanische Stämme, die im Keil (cuneus) angreifen.</BF_Wedge.origin>
+  <BF_Wedge.period>ca. 1. Jahrhundert n. Chr. (Germanen), 8. – 11. Jahrhundert n. Chr. (Wikingerzeit)</BF_Wedge.period>
+  <BF_Wedge.battles>Beschrieben in den Sagas und in Saxo Grammaticus' Gesta Danorum (um 1200 geschrieben)</BF_Wedge.battles>
+  <BF_Wedge.history>Der Keil stellte die stärksten, am besten gepanzerten Kämpfer an die Spitze, dahinter wurde die Formation immer breiter, um die feindliche Linie an einem einzigen Punkt zu durchbrechen.\n\nSaxo Grammaticus erzählt, der Gott Odin selbst habe ihn sagenhaften Dänenkönigen gelehrt: zwei Mann in der ersten Reihe, vier in der zweiten, acht in der dritten. Saxo schrieb lange nach der Wikingerzeit, und Historiker streiten, wie die Svinfylking wirklich eingesetzt wurde. Tacitus schrieb über tausend Jahre früher, dass die Germanen ihre Schlachtreihen in Keilen aufstellten.</BF_Wedge.history>
+
+  <BF_Schiltron.label>Schiltron</BF_Schiltron.label>
+  <BF_Schiltron.description>Schottisches hohles Viereck aus Piken in alle Richtungen, Fernkämpfer geschützt in der Mitte.</BF_Schiltron.description>
+  <BF_Schiltron.origin>Schottland, während der Schottischen Unabhängigkeitskriege.</BF_Schiltron.origin>
+  <BF_Schiltron.period>Spätes 13. – 14. Jahrhundert</BF_Schiltron.period>
+  <BF_Schiltron.battles>Falkirk (1298), Bannockburn (1314)</BF_Schiltron.battles>
+  <BF_Schiltron.history>Schottische Speerträger drängten sich zu dichten Blöcken voller langer Speere zusammen, um die schwere englische Reiterei aufzuhalten. Historische Schiltrons waren oft rund oder oval; hier ist es ein hohles Viereck.\n\nBei Falkirk hielten die Schiltrons von William Wallace den englischen Rittern stand, wurden aber von Bogenschützen, Armbrustschützen und Schleuderern zermürbt und dann niedergeritten. Sechzehn Jahre später griff Robert the Bruce bei Bannockburn mit Schiltrons an und trieb das Heer Eduards II. vom Feld.</BF_Schiltron.history>
+
+  <BF_Herse.label>Herse</BF_Herse.label>
+  <BF_Herse.description>Englische Ordnung von Crécy und Azincourt. Fußritter halten die Mitte, die Bogenschützen stehen auf beiden Flanken, nach vorne angewinkelt.</BF_Herse.description>
+  <BF_Herse.origin>England, Hundertjähriger Krieg. Der Name stammt vom Chronisten Froissart: aufgestellt „wie eine Egge“.</BF_Herse.origin>
+  <BF_Herse.period>14. – 15. Jahrhundert</BF_Herse.period>
+  <BF_Herse.battles>Crécy (1346), Poitiers (1356), Azincourt (1415)</BF_Herse.battles>
+  <BF_Herse.history>Froissart schreibt, dass bei Crécy die Bogenschützen „nach Art einer Herse“ standen, die Ritter dahinter. Was er genau meinte, ist bis heute umstritten. Die übliche Deutung, die gut zu Azincourt passt: Die Engländer kämpften zu Fuß, abgesessene Ritter hielten die Mitte, und die Langbogenschützen standen auf den Flügeln, nach vorne angewinkelt, damit sie in die Flanken eines Angriffs schießen konnten. Bei Azincourt schützten sie angespitzte, in den Boden gerammte Pfähle vor Reiterei.\n\nFranzösische Ritter, die auf die Mitte anritten, mussten erst durch einen Hagel aus Pfeilen. So schlugen Eduard III. bei Crécy und Heinrich V. bei Azincourt viel größere Heere.</BF_Herse.history>
+
+  <BF_Gewalthaufen.label>Gewalthaufen</BF_Gewalthaufen.label>
+  <BF_Gewalthaufen.description>Schweizer Pikenquadrat. Ein großer, fast quadratischer Pikenblock, der sich in jede Richtung wenden kann, übriger Nahkampf dahinter, Fernkampf hinten. Die Breite richtet sich nach der Zahl der Soldaten.</BF_Gewalthaufen.description>
+  <BF_Gewalthaufen.origin>Schweizerische Eidgenossenschaft. „Gewalthaufen“ hieß der Haupthaufen zwischen Vorhut und Nachhut. Später von den deutschen Landsknechten übernommen.</BF_Gewalthaufen.origin>
+  <BF_Gewalthaufen.period>15. – 16. Jahrhundert</BF_Gewalthaufen.period>
+  <BF_Gewalthaufen.battles>Grandson (1476), Murten (1476), Nancy (1477), Marignano (1515)</BF_Gewalthaufen.battles>
+  <BF_Gewalthaufen.history>Die Eidgenossen hatten kaum Ritter, also kämpften sie in riesigen Haufen aus Pikenieren und Hellebardieren, oft Tausende Mann stark und fast quadratisch, damit sie sich nach jeder Seite wenden konnten. Statt auf den Feind zu warten, marschierten die Haufen schnell und griffen an.\n\nBei Grandson, Murten und Nancy vernichteten die Schweizer das Heer Karls des Kühnen von Burgund, und jahrzehntelang waren Schweizer Söldner die begehrteste Infanterie Europas. Bei Marignano 1515 zeigten französische Artillerie und Reiterei, wie verwundbar die großen Haufen geworden waren.</BF_Gewalthaufen.history>
+
+  <BF_Tercio.label>Tercio</BF_Tercio.label>
+  <BF_Tercio.description>Spanisches Pikenquadrat, die Fernkämpfer als „Ärmel“ an allen vier Ecken. Die Piken halten den Feind fern, die Ecken schießen in jede Richtung. Die Größe richtet sich nach der Zahl der Soldaten.</BF_Tercio.description>
+  <BF_Tercio.origin>Spanien unter Kaiser Karl V., aufgestellt in den 1530er Jahren.</BF_Tercio.origin>
+  <BF_Tercio.period>16. – 17. Jahrhundert (frühe Neuzeit)</BF_Tercio.period>
+  <BF_Tercio.battles>Nördlingen (1634), Rocroi (1643)</BF_Tercio.battles>
+  <BF_Tercio.history>Ein Tercio verband ein großes Quadrat aus Pikenieren in der Mitte mit Arkebusieren und Musketieren in „Ärmeln“ (mangas) an den Ecken. Die Piken hielten die Reiterei fern, die Schützen feuerten von den Ecken und konnten bei einem Angriff unter den Piken Schutz suchen.\n\nÜber ein Jahrhundert lang galten die spanischen Tercios als beste Infanterie Europas. Bei Rocroi 1643 brachen die Franzosen sie, was oft als Ende ihrer Zeit gesehen wird, obwohl Tercios noch Jahrzehnte danach kämpften.</BF_Tercio.history>
+
+  <!-- Allgemein -->
+  <BF_DoubleLine.label>Doppellinie</BF_DoubleLine.label>
+  <BF_DoubleLine.description>Genau zwei Reihen: Nahkampf in der ersten Linie, Fernkampf direkt dahinter schießt vorbei.</BF_DoubleLine.description>
+  <BF_DoubleLine.origin>Übliche Praxis vieler Heere; die Standardlinie der späten Musketenzeit.</BF_DoubleLine.origin>
+  <BF_DoubleLine.period>Alle Epochen</BF_DoubleLine.period>
+  <BF_DoubleLine.battles>Balaklawa (1854), die „dünne rote Linie“</BF_DoubleLine.battles>
+  <BF_DoubleLine.history>Zwei Reihen sind die flachste Linie, die noch eine Reserve hat: Die zweite Reihe kann in Lücken treten und an der ersten vorbei schießen oder zustechen. Bogenschützen hinter einer Reihe aus Schilden oder Speeren sind so alt wie der Krieg selbst.\n\nBerühmt machten die Briten die zweireihige Linie. Bei Balaklawa standen die 93rd Highlanders in einer nur zwei Mann tiefen Linie und schlugen russische Reiterei zurück: die „dünne rote Linie“.</BF_DoubleLine.history>
+
+  <BF_Column.label>Kolonne</BF_Column.label>
+  <BF_Column.description>Schmale Marschkolonne, zwei nebeneinander.</BF_Column.description>
+  <BF_Column.origin>Jedes Heer, das je marschiert ist. Die römische Marschordnung (agmen) war streng geregelt.</BF_Column.origin>
+  <BF_Column.period>Alle Epochen</BF_Column.period>
+  <BF_Column.battles>Trasimenischer See (217 v. Chr.), Varusschlacht (9 n. Chr.), beides Überfälle auf dem Marsch</BF_Column.battles>
+  <BF_Column.history>Schmale Kolonnen kommen auf Straßen, durch Tore und zwischen Hindernissen schnell voran und halten eine Einheit zusammen. Ihre Schwäche ist die Flanke: Ein Heer, das in der Kolonne überrascht wird, kann sich kaum wehren. Hannibal am Trasimenischen See und die Germanen in der Varusschlacht vernichteten beide römische Heere, die noch auf dem Marsch waren.\n\nDeshalb ließen Feldherren vor einer Schlacht aus der Kolonne in die Linie aufmarschieren.</BF_Column.history>
+
+  <BF_Skirmish.label>Aufgelockerte Linie</BF_Skirmish.label>
+  <BF_Skirmish.description>Eine einzelne lockere Linie mit großen Lücken gegen Pfeile und Explosionen.</BF_Skirmish.description>
+  <BF_Skirmish.origin>Leichte Truppen: griechische Peltasten und Psiloi, römische Veliten, später leichte Infanterie.</BF_Skirmish.origin>
+  <BF_Skirmish.period>Alle Epochen</BF_Skirmish.period>
+  <BF_Skirmish.battles>Lechaion (390 v. Chr.)</BF_Skirmish.battles>
+  <BF_Skirmish.history>Lockere Plänklerlinien setzten dem Feind mit Speeren, Schleudern und Bögen zu und mieden den Nahkampf. Weit verteilt trifft jeder Pfeil, Stein oder jede Explosion weniger Männer.\n\nBei Lechaion zermürbten die Peltasten des athenischen Feldherrn Iphikrates eine spartanische Abteilung von 600 Hopliten: Sie warfen ihre Speere und wichen einfach zurück, sobald die schwere Infanterie angriff. Als athenische Hopliten eingriffen, flohen die Spartaner, nachdem sie etwa 250 Mann verloren hatten. In RimWorld ist sie die Antwort auf Granaten, Mörser und viele Bögen.</BF_Skirmish.history>
+
+  <BF_LAmbush.label>L-Hinterhalt</BF_LAmbush.label>
+  <BF_LAmbush.description>Eine lange Feuerlinie aus Fernkämpfern mit einem kurzen Arm aus Nahkämpfern, der an der rechten Flanke nach vorne ragt. Feinde davor werden von zwei Seiten beschossen, der Arm versperrt ihnen den Weg.</BF_LAmbush.description>
+  <BF_LAmbush.origin>Ein Hinterhaltsmuster, so alt wie der Krieg; Standard in modernen Infanterie-Dienstvorschriften.</BF_LAmbush.origin>
+  <BF_LAmbush.period>Alle Epochen</BF_LAmbush.period>
+  <BF_LAmbush.history>Der lange Schenkel liegt parallel zur Straße oder zum Weg des Feindes, der kurze Schenkel versperrt dessen Ende. Wer in die Todeszone läuft, wird gleichzeitig von vorne und von der Flanke getroffen, und der kurze Schenkel verhindert, dass er einfach durchbricht.\n\nIn RimWorld: so aufstellen, dass die Angreifer an der langen Linie entlang auf den Arm zulaufen, und die Nahkämpfer in den Arm stellen.</BF_LAmbush.history>
+
+</LanguageData>

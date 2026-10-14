@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <BF_MarchPace.label>marschiert in Formation</BF_MarchPace.label>
+  <BF_MarchPace.description>Hält das Tempo des langsamsten Regimentsmitglieds, damit die Formation geschlossen bleibt. Endet bei Ankunft.</BF_MarchPace.description>
+</LanguageData>

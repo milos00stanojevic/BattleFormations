@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <BF_Command>진형</BF_Command>
+  <BF_CommandDesc>선택한 징집된 정착민을 전투 진형으로 배치합니다.</BF_CommandDesc>
+  <BF_DialogTitle>전투 진형</BF_DialogTitle>
+  <BF_Width>너비</BF_Width>
+  <BF_Spacing>간격</BF_Spacing>
+  <BF_Front>▲ 정면</BF_Front>
+  <BF_Roles>역할</BF_Roles>
+  <BF_Place>진형 배치</BF_Place>
+  <BF_PlaceHint>클릭: 배치   드래그: 전열 그리기   Q/E: 회전   우클릭: 취소</BF_PlaceHint>
+  <BF_Era_Antiquity>고대</BF_Era_Antiquity>
+  <BF_Era_Medieval>중세</BF_Era_Medieval>
+  <BF_Era_General>일반</BF_Era_General>
+  <BF_Hold>진형 유지</BF_Hold>
+  <BF_HoldDesc>그룹이 연대가 됩니다. 이후 일반 우클릭 이동 명령을 내리면 연대 전체가 진형을 유지한 채 행군합니다.</BF_HoldDesc>
+  <BF_RolesButton>역할...</BF_RolesButton>
+  <BF_Regiment>연대</BF_Regiment>
+  <BF_RegimentTip>클릭: 선택 (다시: 이동)   우클릭: 옵션   단축키:</BF_RegimentTip>
+  <BF_HoldOn>이동 중 진형을 유지합니다.</BF_HoldOn>
+  <BF_HoldOff>진형을 유지하지 않습니다 (*).</BF_HoldOff>
+  <BF_SetHoldOn>진형 유지</BF_SetHoldOn>
+  <BF_SetHoldOff>진형 유지 해제</BF_SetHoldOff>
+  <BF_DraftAll>모두 징집</BF_DraftAll>
+  <BF_Disband>연대 해산</BF_Disband>
+  <BF_Info>이 진형의 역사와 배경</BF_Info>
+  <BF_InfoOrigin>기원</BF_InfoOrigin>
+  <BF_InfoPeriod>시대</BF_InfoPeriod>
+  <BF_InfoBattles>유명한 전투</BF_InfoBattles>
+  <BF_InfoTactic>행동</BF_InfoTactic>
+  <BF_Tactic_Hold>사수</BF_Tactic_Hold>
+  <BF_Tactic_HoldDesc>자리를 지킵니다. 위치에서 밀려난 전투원은 주변에 적이 없으면 자기 자리로 돌아갑니다.</BF_Tactic_HoldDesc>
+  <BF_Tactic_Relief>전열 교대</BF_Tactic_Relief>
+  <BF_Tactic_ReliefDesc>최전열의 부상자가 후열의 건강한 전투원과 자리를 바꿉니다.</BF_Tactic_ReliefDesc>
+  <BF_Tactic_Charge>돌격</BF_Tactic_Charge>
+  <BF_Tactic_ChargeDesc>적이 12칸 이내로 들어오면 모든 근접 전투원이 가장 가까운 적에게 돌격한 뒤 진형으로 돌아옵니다.</BF_Tactic_ChargeDesc>
+  <BF_Tactic_WingCharge>강한 날개</BF_Tactic_WingCharge>
+  <BF_Tactic_WingChargeDesc>적이 12칸 이내로 들어오면 왼쪽 날개의 근접 전투원만 돌격하고, 오른쪽 날개는 대기합니다.</BF_Tactic_WingChargeDesc>
+  <BF_Tactic_Envelop>포위</BF_Tactic_Envelop>
+  <BF_Tactic_EnvelopDesc>적이 12칸 이내로 들어오면 중앙은 버티고, 양쪽 바깥 날개의 근접 전투원이 돌격해 포위망을 좁힙니다.</BF_Tactic_EnvelopDesc>
+  <BF_Tactic_Skirmish>산개전</BF_Tactic_Skirmish>
+  <BF_Tactic_SkirmishDesc>근접 적이 5칸 이내로 들어오면 원거리 전투원이 물러났다가 나중에 전열로 돌아옵니다.</BF_Tactic_SkirmishDesc>
+  <BF_Tactic_Ambush>매복</BF_Tactic_Ambush>
+  <BF_Tactic_AmbushDesc>적이 14칸 이내로 들어오거나 누군가 피격될 때까지 모두 사격을 멈추고 있다가, 그 후 일제히 사격을 시작합니다. 구성원 한 명의 자유 사격을 켜도 매복이 발동됩니다.</BF_Tactic_AmbushDesc>
+  <BF_AmbushSprung>매복 발동: {0} 사격 개시!</BF_AmbushSprung>
+  <BF_Role_Auto>자동</BF_Role_Auto>
+  <BF_Role_Pike>장창</BF_Role_Pike>
+  <BF_Role_Melee>근접</BF_Role_Melee>
+  <BF_Role_Ranged>원거리</BF_Role_Ranged>
+</LanguageData>

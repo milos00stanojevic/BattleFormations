@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <BF_Command>Szyk</BF_Command>
+  <BF_CommandDesc>Ustaw wybranych powołanych kolonistów w szyk bojowy.</BF_CommandDesc>
+  <BF_DialogTitle>Szyk bojowy</BF_DialogTitle>
+  <BF_Width>Szerokość</BF_Width>
+  <BF_Spacing>Odstęp</BF_Spacing>
+  <BF_Front>▲ Front</BF_Front>
+  <BF_Roles>Role</BF_Roles>
+  <BF_Place>Ustaw szyk</BF_Place>
+  <BF_PlaceHint>Klik: ustaw   Przeciągnij: narysuj linię frontu   Q/E: obróć   PPM: anuluj</BF_PlaceHint>
+  <BF_Era_Antiquity>Starożytność</BF_Era_Antiquity>
+  <BF_Era_Medieval>Średniowiecze</BF_Era_Medieval>
+  <BF_Era_General>Ogólne</BF_Era_General>
+  <BF_Hold>Utrzymuj szyk</BF_Hold>
+  <BF_HoldDesc>Grupa staje się pułkiem. Zwykły rozkaz ruchu prawym przyciskiem myszy prowadzi wtedy cały pułk marszem w szyku.</BF_HoldDesc>
+  <BF_RolesButton>Role...</BF_RolesButton>
+  <BF_Regiment>Pułk</BF_Regiment>
+  <BF_RegimentTip>Klik: zaznacz (ponownie: przejdź)   PPM: opcje   Klawisz:</BF_RegimentTip>
+  <BF_HoldOn>Utrzymuje szyk w ruchu.</BF_HoldOn>
+  <BF_HoldOff>Nie utrzymuje szyku (*).</BF_HoldOff>
+  <BF_SetHoldOn>Utrzymuj szyk</BF_SetHoldOn>
+  <BF_SetHoldOff>Przestań utrzymywać szyk</BF_SetHoldOff>
+  <BF_DraftAll>Powołaj wszystkich</BF_DraftAll>
+  <BF_Disband>Rozwiąż pułk</BF_Disband>
+  <BF_Info>Historia i tło tego szyku</BF_Info>
+  <BF_InfoOrigin>Pochodzenie</BF_InfoOrigin>
+  <BF_InfoPeriod>Okres</BF_InfoPeriod>
+  <BF_InfoBattles>Słynne bitwy</BF_InfoBattles>
+  <BF_InfoTactic>Zachowanie</BF_InfoTactic>
+  <BF_Tactic_Hold>Trwanie</BF_Tactic_Hold>
+  <BF_Tactic_HoldDesc>trzyma pozycję. Wojownicy wypchnięci ze swojego miejsca wracają na nie, gdy w pobliżu nie ma wroga.</BF_Tactic_HoldDesc>
+  <BF_Tactic_Relief>Zmiana linii</BF_Tactic_Relief>
+  <BF_Tactic_ReliefDesc>ranni z pierwszego szeregu zamieniają się miejscami ze zdrowymi z tylnych szeregów.</BF_Tactic_ReliefDesc>
+  <BF_Tactic_Charge>Szarża</BF_Tactic_Charge>
+  <BF_Tactic_ChargeDesc>gdy wrogowie podejdą bliżej niż 12 pól, wszyscy wojownicy walczący wręcz szarżują na najbliższego wroga, a potem wracają do szyku.</BF_Tactic_ChargeDesc>
+  <BF_Tactic_WingCharge>Silne skrzydło</BF_Tactic_WingCharge>
+  <BF_Tactic_WingChargeDesc>gdy wrogowie podejdą bliżej niż 12 pól, szarżują tylko wojownicy walczący wręcz z lewego skrzydła; prawe skrzydło się wstrzymuje.</BF_Tactic_WingChargeDesc>
+  <BF_Tactic_Envelop>Oskrzydlenie</BF_Tactic_Envelop>
+  <BF_Tactic_EnvelopDesc>gdy wrogowie podejdą bliżej niż 12 pól, środek trzyma pozycję, a wojownicy walczący wręcz na obu zewnętrznych skrzydłach szarżują i zamykają okrążenie.</BF_Tactic_EnvelopDesc>
+  <BF_Tactic_Skirmish>Harcownicy</BF_Tactic_Skirmish>
+  <BF_Tactic_SkirmishDesc>strzelcy cofają się, gdy wróg walczący wręcz podejdzie bliżej niż 5 pól, i później wracają do linii.</BF_Tactic_SkirmishDesc>
+  <BF_Tactic_Ambush>Zasadzka</BF_Tactic_Ambush>
+  <BF_Tactic_AmbushDesc>wszyscy wstrzymują ogień, dopóki wróg nie podejdzie bliżej niż 14 pól lub ktoś nie zostanie trafiony; wtedy wszyscy naraz otwierają ogień. Włączenie ognia według uznania u jednego członka też ją uruchamia.</BF_Tactic_AmbushDesc>
+  <BF_AmbushSprung>Zasadzka! {0} otwiera ogień!</BF_AmbushSprung>
+  <BF_Role_Auto>Auto</BF_Role_Auto>
+  <BF_Role_Pike>Pika</BF_Role_Pike>
+  <BF_Role_Melee>Walka wręcz</BF_Role_Melee>
+  <BF_Role_Ranged>Dystans</BF_Role_Ranged>
+</LanguageData>

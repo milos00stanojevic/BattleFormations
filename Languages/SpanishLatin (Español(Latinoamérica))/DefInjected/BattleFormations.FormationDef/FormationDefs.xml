@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <BF_Phalanx.label>falange</BF_Phalanx.label>
+  <BF_Phalanx.description>Bloque de lanzas griego y macedonio. Picas en las primeras filas, el resto del cuerpo a cuerpo detrás y los tiradores al fondo.</BF_Phalanx.description>
+  <BF_Phalanx.origin>Ciudades-estado griegas (hoplitas). La falange de picas macedonia la creó Filipo II de Macedonia.</BF_Phalanx.origin>
+  <BF_Phalanx.period>c. siglos VII – II a. C.</BF_Phalanx.period>
+  <BF_Phalanx.battles>Maratón (490 a. C.), Gaugamela (331 a. C.), Cinoscéfalos (197 a. C.)</BF_Phalanx.battles>
+  <BF_Phalanx.history>Los hoplitas griegos luchaban hombro con hombro en filas profundas, y cada escudo redondo cubría en parte al vecino. Hacia el 359 a. C., Filipo II de Macedonia armó a su infantería con la sarisa, una pica de unos cinco a siete metros, de modo que las puntas de las cinco primeras filas sobresalían por delante de la línea. Su hijo Alejandro Magno conquistó con ella el Imperio persa.\n\nDe frente, la falange era casi imbatible, pero era lenta y débil por los flancos y en terreno accidentado. Las legiones romanas aprovecharon justo eso en Cinoscéfalos y Pidna.</BF_Phalanx.history>
+
+  <BF_Quincunx.label>manípulos (quincunx)</BF_Quincunx.label>
+  <BF_Quincunx.description>Tablero de ajedrez de pequeñas unidades de la República romana. Los huecos permiten que las unidades de atrás avancen o que las cansadas se retiren sin romper la línea.</BF_Quincunx.description>
+  <BF_Quincunx.origin>República romana, probablemente desarrollado durante las guerras samnitas. La tradición antigua lo atribuye en parte a Marco Furio Camilo.</BF_Quincunx.origin>
+  <BF_Quincunx.period>c. siglos IV – II a. C.</BF_Quincunx.period>
+  <BF_Quincunx.battles>Sentino (295 a. C.), Zama (202 a. C.)</BF_Quincunx.battles>
+  <BF_Quincunx.history>Tras luchar contra los samnitas en terreno montañoso, los romanos dividieron su antigua falange en manípulos («puñados») de unos 120 hombres. Los manípulos se escalonaban como los cinco puntos de un dado: el quincunx. Por los huecos, las unidades frescas podían avanzar y las cansadas retirarse.\n\nEn Zama, Escipión el Africano alineó en cambio los manípulos uno detrás de otro, dejando calles abiertas por las que los elefantes de guerra de Aníbal pasaron sin hacer mucho daño. A finales del siglo II a. C., cohortes más grandes sustituyeron a los manípulos, un cambio que tradicionalmente se vincula a las reformas de Cayo Mario.</BF_Quincunx.history>
+
+  <BF_TriplexAcies.label>triplex acies</BF_TriplexAcies.label>
+  <BF_TriplexAcies.description>Tres líneas de batalla romanas con espacio entre ellas: espadachines delante, tiradores en medio y lanceros veteranos en reserva al fondo.</BF_TriplexAcies.description>
+  <BF_TriplexAcies.origin>Ejército romano: hastati, principes y triarii. Más tarde usada con cohortes por Mario y César.</BF_TriplexAcies.origin>
+  <BF_TriplexAcies.period>c. siglo IV a. C. – siglo III d. C.</BF_TriplexAcies.period>
+  <BF_TriplexAcies.battles>Campañas de César en la Galia, p. ej. Bibracte (58 a. C.)</BF_TriplexAcies.battles>
+  <BF_TriplexAcies.history>Los romanos combatían en tres líneas (acies). En el ejército manipular, los jóvenes hastati formaban delante, los principes en la flor de la vida detrás de ellos, y los veteranos triarii, con sus largas lanzas, esperaban en reserva al fondo. Cuando una batalla iba mal, los romanos decían «res ad triarios rediit»: ha llegado la hora de los triarios.\n\nCésar conservó las tres líneas con cohortes: en Ilerda colocó cuatro cohortes de cada legión en la primera línea, tres en la segunda y tres en la tercera, para que siempre hubiera tropas frescas que relevaran el frente.</BF_TriplexAcies.history>
+
+  <BF_Testudo.label>testudo</BF_Testudo.label>
+  <BF_Testudo.description>La tortuga romana. Bloque pequeño y compacto con cuerpo a cuerpo en todo el frente.</BF_Testudo.description>
+  <BF_Testudo.origin>Legionarios romanos, con sus grandes escudos curvos (scutum).</BF_Testudo.origin>
+  <BF_Testudo.period>c. siglo III a. C. – siglo III d. C.</BF_Testudo.period>
+  <BF_Testudo.battles>Retirada de Marco Antonio de Partia (36 a. C.), numerosos asedios</BF_Testudo.battles>
+  <BF_Testudo.history>La primera fila sostenía los escudos al frente, las hileras exteriores a los lados, y los hombres del interior los alzaban sobre la cabeza, de modo que toda la unidad quedaba cubierta como por un caparazón de tortuga. Se usaba para acercarse a las murallas en los asedios y para avanzar bajo flechas y piedras; Livio ya la menciona en las guerras samnitas, hacia el 300 a. C.\n\nPlutarco y Dion Casio cuentan que los legionarios de Marco Antonio formaron testudos contra los arqueros a caballo partos. La tortuga protegía de los proyectiles, no de una carga, y era lenta y torpe en el cuerpo a cuerpo. La Columna de Trajano, en Roma, todavía la muestra hoy.</BF_Testudo.history>
+
+  <BF_Orbis.label>orbis</BF_Orbis.label>
+  <BF_Orbis.description>Círculo romano para cuando se está rodeado. Cuerpo a cuerpo y lanzas miran hacia fuera en el anillo, los tiradores disparan desde el centro.</BF_Orbis.description>
+  <BF_Orbis.origin>Ejército romano, como último recurso para unidades aisladas.</BF_Orbis.origin>
+  <BF_Orbis.period>c. siglo I a. C. – siglo III d. C.</BF_Orbis.period>
+  <BF_Orbis.battles>Contra los morinos (55 a. C.), Atuatuca (54 a. C.)</BF_Orbis.battles>
+  <BF_Orbis.history>Cuando una unidad romana quedaba rodeada, formaba un anillo con los escudos hacia fuera, para que ningún lado quedara expuesto.\n\nCésar lo describe varias veces en su Guerra de las Galias: unos trescientos soldados emboscados por los morinos resistieron en orbis más de cuatro horas hasta que la caballería acudió en su ayuda. Las tropas de Sabino y Cota en Atuatuca también formaron uno, pero al final fueron aniquiladas. El orbis no ganaba batallas; ganaba tiempo.</BF_Orbis.history>
+
+  <BF_Oblique.label>orden oblicuo</BF_Oblique.label>
+  <BF_Oblique.description>La línea oblicua de Epaminondas. El ala izquierda va en cabeza y cada hilera más a la derecha queda más atrás, así el ala fuerte golpea primero.</BF_Oblique.description>
+  <BF_Oblique.origin>Epaminondas de Tebas. Recuperado por Federico el Grande de Prusia.</BF_Oblique.origin>
+  <BF_Oblique.period>Siglo IV a. C., de nuevo en el siglo XVIII</BF_Oblique.period>
+  <BF_Oblique.battles>Leuctra (371 a. C.), Mantinea (362 a. C.), Leuthen (1757)</BF_Oblique.battles>
+  <BF_Oblique.history>Los ejércitos griegos solían poner sus mejores tropas en el ala derecha. En Leuctra, Epaminondas concentró a sus tebanos en cincuenta filas de fondo en el ala izquierda, frente al rey espartano y su élite, y retrasó su ala derecha, más débil. El ala fuerte golpeó primero y rompió a los espartanos antes de que el resto de las líneas llegara a chocar. Así acabó la fama de invencible de Esparta.\n\nMás de dos mil años después, Federico el Grande volvió a hacer famoso el orden oblicuo en Leuthen.</BF_Oblique.history>
+
+  <BF_Crescent.label>media luna</BF_Crescent.label>
+  <BF_Crescent.description>La media luna de Aníbal en Cannas. Dos filas arqueadas hacia delante en el centro, los flancos retrasados para cerrarse sobre el enemigo.</BF_Crescent.description>
+  <BF_Crescent.origin>Aníbal Barca de Cartago.</BF_Crescent.origin>
+  <BF_Crescent.period>216 a. C., segunda guerra púnica</BF_Crescent.period>
+  <BF_Crescent.battles>Cannas (216 a. C.)</BF_Crescent.battles>
+  <BF_Crescent.history>En Cannas, Aníbal se enfrentó a un ejército romano mucho mayor. Colocó a su infantería gala e hispana en una línea fina arqueada hacia el enemigo y mantuvo a su veterana infantería africana atrás en ambos extremos. Cuando los romanos empujaron, la media luna se curvó hacia atrás en lugar de romperse y los atrajo más adentro. Entonces los africanos giraron hacia dentro por los flancos y la caballería cerró el cerco por detrás.\n\nEl ejército romano fue casi aniquilado. Cannas se convirtió en el ejemplo de manual del doble envolvimiento y todavía se enseña en las academias militares.</BF_Crescent.history>
+
+  <BF_Sparabara.label>sparabara</BF_Sparabara.label>
+  <BF_Sparabara.description>Muro de escudos persa. Una fila de cuerpo a cuerpo con grandes escudos delante y todos los tiradores en filas profundas detrás, disparando por encima. Pensada para colonias con muchos tiradores.</BF_Sparabara.description>
+  <BF_Sparabara.origin>Imperio persa aqueménida. «Sparabara» (portadores de escudo) es un nombre moderno reconstruido a partir del persa antiguo; llevaban altos escudos de mimbre.</BF_Sparabara.origin>
+  <BF_Sparabara.period>c. siglos VI – V a. C.</BF_Sparabara.period>
+  <BF_Sparabara.battles>Platea (479 a. C.), Mícala (479 a. C.)</BF_Sparabara.battles>
+  <BF_Sparabara.history>La primera fila de la infantería persa llevaba altos escudos rectangulares de mimbre (spara) y lanzas cortas. Plantaban los escudos uno junto a otro como un muro, y los arqueros de detrás disparaban por encima andanada tras andanada. Los historiadores reconstruyen unidades de diez hombres de fondo: un portador de escudo delante de nueve arqueros.\n\nContra los ejércitos de Asia funcionaba bien. Contra los hoplitas griegos, que cargaban rápido y luchaban cuerpo a cuerpo, fracasó: Heródoto cuenta cómo en Platea y Mícala el muro de escudos se rompió y los arqueros de detrás no pudieron resistir a la infantería pesada.</BF_Sparabara.history>
+
+  <BF_ShieldWall.label>muro de escudos</BF_ShieldWall.label>
+  <BF_ShieldWall.description>Muro de escudos sajón y nórdico. Línea ancha y poco profunda, cuerpo a cuerpo delante, lanzas por encima de ellos, tiradores detrás.</BF_ShieldWall.description>
+  <BF_ShieldWall.origin>Pueblos germánicos, sobre todo conocido por los anglosajones y los vikingos.</BF_ShieldWall.origin>
+  <BF_ShieldWall.period>c. siglos V – XI d. C.</BF_ShieldWall.period>
+  <BF_ShieldWall.battles>Maldon (991), Stamford Bridge (1066), Hastings (1066)</BF_ShieldWall.battles>
+  <BF_ShieldWall.history>Los guerreros se apretaban unos contra otros con los escudos redondos solapados, a menudo en varias filas, mientras los de atrás clavaban sus lanzas por encima de la primera fila. Empujar, apuñalar y mantener la línea decidían la lucha; una vez roto el muro, la batalla solía estar perdida.\n\nEn Hastings, los huscarles del rey Haroldo mantuvieron su muro de escudos en la colina contra los caballeros y arqueros normandos durante casi todo el día. Las bajas de los ataques repetidos, las retiradas fingidas normandas que atrajeron a tropas inglesas ladera abajo y, al final, la muerte de Haroldo lo rompieron. Todavía se discute cuánto importaron las retiradas fingidas.</BF_ShieldWall.history>
+
+  <BF_Wedge.label>cuña</BF_Wedge.label>
+  <BF_Wedge.description>Svinfylking, la cabeza de jabalí. Formación de ataque en punta con los combatientes cuerpo a cuerpo más fuertes en el vértice.</BF_Wedge.description>
+  <BF_Wedge.origin>Guerreros nórdicos (svinfylking, «formación de cerdo»). Los romanos ya describen a tribus germánicas atacando en cuñas (cuneus).</BF_Wedge.origin>
+  <BF_Wedge.period>c. siglo I d. C. (germanos), siglos VIII – XI d. C. (era vikinga)</BF_Wedge.period>
+  <BF_Wedge.battles>Descrita en las sagas y en la Gesta Danorum de Saxo Grammaticus (escrita hacia 1200)</BF_Wedge.battles>
+  <BF_Wedge.history>La cuña ponía a los combatientes más fuertes y mejor armados en la punta, con la formación ensanchándose tras ellos, para romper una línea enemiga en un solo punto.\n\nSaxo Grammaticus cuenta que el propio dios Odín se la enseñó a legendarios reyes daneses: dos hombres en la primera fila, cuatro en la segunda, ocho en la tercera. Saxo escribió mucho después de la era vikinga, y los historiadores debaten cómo se usaba realmente la svinfylking. Tácito escribió más de mil años antes que las tribus germánicas formaban sus líneas de batalla en cuñas.</BF_Wedge.history>
+
+  <BF_Schiltron.label>schiltron</BF_Schiltron.label>
+  <BF_Schiltron.description>Cuadro hueco escocés de picas que mira en todas direcciones, con los tiradores protegidos dentro.</BF_Schiltron.description>
+  <BF_Schiltron.origin>Escocia, durante las guerras de independencia de Escocia.</BF_Schiltron.origin>
+  <BF_Schiltron.period>Finales del siglo XIII – siglo XIV</BF_Schiltron.period>
+  <BF_Schiltron.battles>Falkirk (1298), Bannockburn (1314)</BF_Schiltron.battles>
+  <BF_Schiltron.history>Los lanceros escoceses se apiñaban en bloques densos erizados de largas lanzas para detener a la caballería pesada inglesa. Los schiltron históricos solían ser redondos u ovalados; aquí es un cuadro hueco.\n\nEn Falkirk, los schiltron de William Wallace contuvieron a los caballeros ingleses, pero fueron desgastados por arqueros, ballesteros y honderos y luego arrollados. Dieciséis años después, en Bannockburn, Robert the Bruce usó schiltrons para atacar y expulsó del campo al ejército de Eduardo II.</BF_Schiltron.history>
+
+  <BF_Herse.label>herse</BF_Herse.label>
+  <BF_Herse.description>El orden inglés de Crécy y Azincourt. Los hombres de armas sostienen el centro y los arqueros se sitúan en ambos flancos, adelantados en ángulo.</BF_Herse.description>
+  <BF_Herse.origin>Inglaterra, guerra de los Cien Años. El nombre viene del cronista Froissart: dispuestos «como un rastrillo».</BF_Herse.origin>
+  <BF_Herse.period>Siglos XIV – XV</BF_Herse.period>
+  <BF_Herse.battles>Crécy (1346), Poitiers (1356), Azincourt (1415)</BF_Herse.battles>
+  <BF_Herse.history>Froissart escribe que en Crécy los arqueros formaban «a la manera de una herse», con los hombres de armas detrás. Todavía se discute qué quiso decir exactamente. La lectura habitual, que encaja bien con Azincourt: los ingleses lucharon a pie, los hombres de armas desmontados sostenían el centro y los arqueros largos se situaban en las alas, adelantadas en ángulo para disparar contra los flancos de un ataque. En Azincourt, estacas afiladas clavadas en el suelo los protegían de la caballería.\n\nLos caballeros franceses que cargaban contra el centro tenían que atravesar primero una tormenta de flechas. Eduardo III en Crécy y Enrique V en Azincourt vencieron así a ejércitos mucho mayores.</BF_Herse.history>
+
+  <BF_Gewalthaufen.label>cuadro suizo (Gewalthaufen)</BF_Gewalthaufen.label>
+  <BF_Gewalthaufen.description>Cuadro de picas suizo. Un gran bloque de picas casi cuadrado que puede encarar cualquier dirección, el resto del cuerpo a cuerpo tras ellas y los tiradores al fondo. La anchura depende del número de soldados.</BF_Gewalthaufen.description>
+  <BF_Gewalthaufen.origin>Confederación Suiza. «Gewalthaufen» era el nombre del cuerpo principal entre la vanguardia (Vorhut) y la retaguardia (Nachhut). Más tarde lo copiaron los lansquenetes alemanes.</BF_Gewalthaufen.origin>
+  <BF_Gewalthaufen.period>Siglos XV – XVI</BF_Gewalthaufen.period>
+  <BF_Gewalthaufen.battles>Grandson (1476), Morat (1476), Nancy (1477), Marignano (1515)</BF_Gewalthaufen.battles>
+  <BF_Gewalthaufen.history>Los cantones suizos apenas tenían caballeros, así que luchaban en enormes bloques de piqueros y alabarderos, a menudo de miles de hombres y casi cuadrados, para poder encarar cualquier lado. En vez de esperar al enemigo, los bloques marchaban deprisa y atacaban.\n\nEn Grandson, Morat y Nancy, los suizos destruyeron el ejército de Carlos el Temerario de Borgoña, y durante décadas los mercenarios suizos fueron la infantería más solicitada de Europa. En Marignano, en 1515, la artillería y la caballería francesas mostraron lo vulnerables que se habían vuelto los grandes cuadros.</BF_Gewalthaufen.history>
+
+  <BF_Tercio.label>tercio</BF_Tercio.label>
+  <BF_Tercio.description>Cuadro de picas español con los tiradores repartidos en «mangas» en las cuatro esquinas. Las picas mantienen a raya al enemigo, las esquinas disparan en todas direcciones. El tamaño depende del número de soldados.</BF_Tercio.description>
+  <BF_Tercio.origin>España bajo el emperador Carlos V, organizado en la década de 1530.</BF_Tercio.origin>
+  <BF_Tercio.period>Siglos XVI – XVII (Edad Moderna temprana)</BF_Tercio.period>
+  <BF_Tercio.battles>Nördlingen (1634), Rocroi (1643)</BF_Tercio.battles>
+  <BF_Tercio.history>Un tercio combinaba un gran cuadro de piqueros en el centro con arcabuceros y mosqueteros en «mangas» en sus esquinas. Las picas mantenían a raya a la caballería, mientras los tiradores disparaban desde las esquinas y podían refugiarse bajo las picas si eran cargados.\n\nDurante más de un siglo, los tercios españoles se consideraron la mejor infantería de Europa. En Rocroi, en 1643, los franceses los rompieron, lo que a menudo se ve como el fin de su época, aunque los tercios siguieron combatiendo durante décadas.</BF_Tercio.history>
+
+  <BF_DoubleLine.label>línea doble</BF_DoubleLine.label>
+  <BF_DoubleLine.description>Exactamente dos filas: cuerpo a cuerpo en la primera línea y tiradores justo detrás, disparando por los huecos.</BF_DoubleLine.description>
+  <BF_DoubleLine.origin>Práctica común de muchos ejércitos; la línea estándar de la última época de los mosquetes.</BF_DoubleLine.origin>
+  <BF_DoubleLine.period>Todas las épocas</BF_DoubleLine.period>
+  <BF_DoubleLine.battles>Balaclava (1854), la «delgada línea roja»</BF_DoubleLine.battles>
+  <BF_DoubleLine.history>Dos filas son la línea más estrecha que aún tiene respaldo: la segunda fila puede cubrir huecos y disparar o golpear por los lados de la primera. Los arqueros tras una línea de escudos o lanzas son tan antiguos como la guerra misma.\n\nLos británicos hicieron famosa la línea de dos en fondo. En Balaclava, el 93.º de Highlanders formó en una línea de solo dos hombres de fondo y rechazó a la caballería rusa: la «delgada línea roja».</BF_DoubleLine.history>
+
+  <BF_Column.label>columna</BF_Column.label>
+  <BF_Column.description>Estrecha columna de marcha, de dos en fondo.</BF_Column.description>
+  <BF_Column.origin>Todo ejército que haya marchado alguna vez. El orden de marcha romano (agmen) estaba estrictamente regulado.</BF_Column.origin>
+  <BF_Column.period>Todas las épocas</BF_Column.period>
+  <BF_Column.battles>Lago Trasimeno (217 a. C.), bosque de Teutoburgo (9 d. C.), ambas emboscadas en marcha</BF_Column.battles>
+  <BF_Column.history>Las columnas estrechas se mueven rápido por caminos, a través de puertas y entre obstáculos, y mantienen unida a una unidad. Su debilidad es el flanco: un ejército sorprendido en columna apenas puede defenderse. Aníbal en el lago Trasimeno y las tribus germánicas en el bosque de Teutoburgo destruyeron ejércitos romanos que aún estaban en marcha.\n\nPor eso los comandantes desplegaban de columna a línea antes de una batalla.</BF_Column.history>
+
+  <BF_Skirmish.label>línea dispersa</BF_Skirmish.label>
+  <BF_Skirmish.description>Una sola línea abierta con amplios huecos contra flechas y explosiones.</BF_Skirmish.description>
+  <BF_Skirmish.origin>Tropas ligeras: peltastas y psiloi griegos, vélites romanos, más tarde la infantería ligera.</BF_Skirmish.origin>
+  <BF_Skirmish.period>Todas las épocas</BF_Skirmish.period>
+  <BF_Skirmish.battles>Lequeo (390 a. C.)</BF_Skirmish.battles>
+  <BF_Skirmish.history>Las líneas abiertas de escaramuzadores hostigaban al enemigo con jabalinas, hondas y arcos y evitaban el combate cercano. Dispersos, cada flecha, piedra o explosión alcanza a menos hombres.\n\nEn Lequeo, los peltastas del general ateniense Ifícrates desgastaron a un regimiento espartano de 600 hoplitas: lanzaban sus jabalinas y simplemente retrocedían cada vez que la infantería pesada cargaba. Cuando se sumaron los hoplitas atenienses, los espartanos huyeron tras perder unos 250 hombres. En RimWorld es la respuesta a granadas, morteros y arcos en masa.</BF_Skirmish.history>
+
+  <BF_LAmbush.label>emboscada en L</BF_LAmbush.label>
+  <BF_LAmbush.description>Una larga línea de fuego de tiradores con un brazo corto de cuerpo a cuerpo adelantado en el flanco derecho. Los enemigos de delante reciben fuego desde dos lados y el brazo les corta el paso.</BF_LAmbush.description>
+  <BF_LAmbush.origin>Un esquema de emboscada tan antiguo como la guerra; maniobra estándar en los manuales de infantería modernos.</BF_LAmbush.origin>
+  <BF_LAmbush.period>Todas las épocas</BF_LAmbush.period>
+  <BF_LAmbush.history>El lado largo queda paralelo al camino o sendero por el que pasa el enemigo, el lado corto bloquea su final. Quien entra en la zona de muerte recibe fuego de frente y de flanco a la vez, y el lado corto le impide simplemente abrirse paso.\n\nEn RimWorld: colócala para que los asaltantes avancen a lo largo de la línea larga hacia el brazo, y pon a tus combatientes cuerpo a cuerpo en el brazo.</BF_LAmbush.history>
+</LanguageData>

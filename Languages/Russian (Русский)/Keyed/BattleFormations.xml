@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <BF_Command>Строй</BF_Command>
+  <BF_CommandDesc>Построить выбранных призванных колонистов в боевой строй.</BF_CommandDesc>
+  <BF_DialogTitle>Боевой строй</BF_DialogTitle>
+  <BF_Width>Ширина</BF_Width>
+  <BF_Spacing>Интервал</BF_Spacing>
+  <BF_Front>▲ Фронт</BF_Front>
+  <BF_Roles>Роли</BF_Roles>
+  <BF_Place>Разместить строй</BF_Place>
+  <BF_PlaceHint>Клик: разместить   Перетаскивание: провести линию фронта   Q/E: повернуть   ПКМ: отмена</BF_PlaceHint>
+  <BF_Era_Antiquity>Античность</BF_Era_Antiquity>
+  <BF_Era_Medieval>Средневековье</BF_Era_Medieval>
+  <BF_Era_General>Общее</BF_Era_General>
+  <BF_Hold>Держать строй</BF_Hold>
+  <BF_HoldDesc>Группа становится полком. Обычный приказ движения правой кнопкой мыши ведёт весь полк маршем в строю.</BF_HoldDesc>
+  <BF_RolesButton>Роли...</BF_RolesButton>
+  <BF_Regiment>Полк</BF_Regiment>
+  <BF_RegimentTip>Клик: выбрать (повторно: перейти)   ПКМ: опции   Клавиша:</BF_RegimentTip>
+  <BF_HoldOn>Держит строй при движении.</BF_HoldOn>
+  <BF_HoldOff>Не держит строй (*).</BF_HoldOff>
+  <BF_SetHoldOn>Держать строй</BF_SetHoldOn>
+  <BF_SetHoldOff>Не держать строй</BF_SetHoldOff>
+  <BF_DraftAll>Призвать всех</BF_DraftAll>
+  <BF_Disband>Распустить полк</BF_Disband>
+  <BF_Info>История и происхождение этого строя</BF_Info>
+  <BF_InfoOrigin>Происхождение</BF_InfoOrigin>
+  <BF_InfoPeriod>Период</BF_InfoPeriod>
+  <BF_InfoBattles>Известные сражения</BF_InfoBattles>
+  <BF_InfoTactic>Поведение</BF_InfoTactic>
+  <BF_Tactic_Hold>Удержание</BF_Tactic_Hold>
+  <BF_Tactic_HoldDesc>стоит на месте. Бойцы, выбитые со своего места, возвращаются на него, когда рядом нет врагов.</BF_Tactic_HoldDesc>
+  <BF_Tactic_Relief>Смена линии</BF_Tactic_Relief>
+  <BF_Tactic_ReliefDesc>раненые бойцы первого ряда меняются местами со здоровыми из задних рядов.</BF_Tactic_ReliefDesc>
+  <BF_Tactic_Charge>Атака</BF_Tactic_Charge>
+  <BF_Tactic_ChargeDesc>когда враги подходят ближе 12 клеток, все бойцы ближнего боя бросаются на ближайшего врага, затем возвращаются в строй.</BF_Tactic_ChargeDesc>
+  <BF_Tactic_WingCharge>Сильное крыло</BF_Tactic_WingCharge>
+  <BF_Tactic_WingChargeDesc>когда враги подходят ближе 12 клеток, атакуют только бойцы ближнего боя левого крыла; правое крыло остаётся на месте.</BF_Tactic_WingChargeDesc>
+  <BF_Tactic_Envelop>Окружение</BF_Tactic_Envelop>
+  <BF_Tactic_EnvelopDesc>когда враги подходят ближе 12 клеток, центр стоит, а бойцы ближнего боя на обоих внешних крыльях атакуют и смыкают кольцо.</BF_Tactic_EnvelopDesc>
+  <BF_Tactic_Skirmish>Рассыпной бой</BF_Tactic_Skirmish>
+  <BF_Tactic_SkirmishDesc>стрелки отходят, когда враг ближнего боя подходит ближе 5 клеток, и позже возвращаются в линию.</BF_Tactic_SkirmishDesc>
+  <BF_Tactic_Ambush>Засада</BF_Tactic_Ambush>
+  <BF_Tactic_AmbushDesc>все держат огонь, пока враг не подойдёт ближе 14 клеток или кого-то не ранят, затем все разом открывают огонь. Включение огня по готовности у одного бойца тоже запускает засаду.</BF_Tactic_AmbushDesc>
+  <BF_AmbushSprung>Засада сработала: {0} открывает огонь!</BF_AmbushSprung>
+  <BF_Role_Auto>Авто</BF_Role_Auto>
+  <BF_Role_Pike>Пика</BF_Role_Pike>
+  <BF_Role_Melee>Ближний бой</BF_Role_Melee>
+  <BF_Role_Ranged>Дальний бой</BF_Role_Ranged>
+</LanguageData>
